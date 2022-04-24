@@ -22,7 +22,7 @@ print(df[:5])
 app.layout = html.Div([
 
     html.H1("Web Application Dashboards with Dash", style={'text-align': 'center'}),
-
+    #TODO: Dodać switch'a na przełączanie pomiędzy erami
     dcc.Slider(2015, 2018,
     step=None,
     id="slct_year",
