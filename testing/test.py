@@ -27,11 +27,12 @@ app.layout = html.Div([
     step=None,
     id="slct_year",
     marks={
-        2015: '2015 r',
-        2016: '2016 r',
-        2017: '2017 r',
-        2018: '2018 r'
-    }
+        2015: '2015',
+        2016: '2016',
+        2017: '2017',
+        2018: '2018', #FIXME: Znaleźć jak zrobić aby bez dodawania marków 2017 nie zmieniało się w 2K tylko wyświetlało się całe, formatowanie
+    },
+    value=2015 #default value of slider
     ),
     # dcc.Dropdown(id="slct_year",
     #              options=[
