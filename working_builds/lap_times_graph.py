@@ -1,5 +1,3 @@
-# import dash_html_components as html
-# import dash_core_components as dcc
 import dash
 import pandas as pd
 import plotly.express as px
@@ -7,9 +5,10 @@ from dash import dcc, html, Input, Output
 from dash.dependencies import Input, Output
 
 # Ładujemy naszą csvke
+#TODO: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków file:///D:/Repo/Wizualizacja_projekt/testing/testy_races/lap_times.csv
 races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times.csv")
-races = races.sort_values(by="lap")
-#FIXME: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków file:///D:/Repo/Wizualizacja_projekt/testing/testy_races/lap_times.csv
+races = races.sort_values(by="lap") # Sortujemy dla pewności
+
 
 # Tworzymy dashową apke
 app = dash.Dash()
