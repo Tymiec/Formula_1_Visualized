@@ -8,7 +8,8 @@ from dash.dependencies import Input, Output
 
 # Ładujemy naszą csvke
 races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times.csv")
-#FIXME: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków
+races = races.sort_values(by="lap")
+#FIXME: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków file:///D:/Repo/Wizualizacja_projekt/testing/testy_races/lap_times.csv
 
 # Tworzymy dashową apke
 app = dash.Dash()
@@ -31,7 +32,7 @@ app.layout = html.Div(children=[
 )
 def update_graph(selected_race):
     filtered_races = races[races["raceId"] == selected_race]
-    line_fig = px.line(filtered_races, x="lap", y="time", color="driverId", title=f"Lap times in race number {selected_race}")
+    line_fig = px.line(filtered_races, x="lap", y="milliseconds", color="driverId", markers=False, template='plotly_dark', title=f"Lap times in race number {selected_race}")
     return line_fig
 #FIXME: z niewiadomych przyczyn wykres jest nieczytelny, a w sumie to z wiadomych, trzeba po prostu go zwiększyć na całą stronę i będzie dobrze
 
