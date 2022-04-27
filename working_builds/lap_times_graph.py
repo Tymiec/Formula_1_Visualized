@@ -15,10 +15,10 @@ app = dash.Dash()
 
 # Tutaj layout apki
 app.layout = html.Div(children=[
-    html.H1(children="Czasy okrążeń"), 
+    html.H1(children="F1 Visualized"), 
     dcc.Dropdown(id="race-dropdown",
                  options=[{"label": i, "value": i} for i in races["raceId"].unique()],
-                 value="1",
+                 value="1065", #2021 Imola GP for testing #FIXME: Value nie działa, trzeba zreloadować wykres
                  ),
     dcc.Graph(id="lap-times-graph")#TODO: przerobić tak aby zajmował 50% wysokości strony
 ])
@@ -31,7 +31,7 @@ app.layout = html.Div(children=[
 )
 def update_graph(selected_race):
     filtered_races = races[races["raceId"] == selected_race]
-    line_fig = px.line(filtered_races, x="lap", y="milliseconds", color="driverId", markers=False, height=900, template='plotly_dark', title=f"Lap times in race number {selected_race}")
+    line_fig = px.line(filtered_races, x="lap", y="milliseconds",  color="driverId", markers=False, height=900, template='plotly_dark', title=f"Lap times in race number {selected_race}")
     return line_fig
 #TODO: Zmienić milisekundy na timedelte
 
