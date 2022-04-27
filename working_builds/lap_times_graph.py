@@ -18,10 +18,11 @@ app.layout = html.Div(children=[
     html.H1(children="F1 Visualized"), 
     dcc.Dropdown(id="race-dropdown",
                  options=[{"label": i, "value": i} for i in races["raceId"].unique()],
-                 value="1065", #2021 Imola GP for testing #FIXME: Value nie działa, trzeba zreloadować wykres
+                 value="1065",#2021 Imola GP for testing #FIXME: Value nie działa, trzeba zreloadować wykres
+                 style={"background-color" : "#ff0"}, 
                  ),
     dcc.Graph(id="lap-times-graph")#TODO: przerobić tak aby zajmował 50% wysokości strony
-])
+], style={"background-color" : "#ff0"})
 
 # Set up the callback function
 
@@ -38,7 +39,7 @@ def update_graph(selected_race):
     markers=False, 
     height=900, 
     template='plotly_dark',
-    title=f"Lap times in race number:j {selected_race}")
+    title=f"Lap times in race number: {selected_race}")
     return line_fig
 #TODO: Zmienić milisekundy na timedelte
 
