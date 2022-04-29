@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@100;300;700&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100vw;
+    height: 75px;
+    background-color: #222;
+    display: flex;
+    font-family: 'Titillium Web', sans-serif;
+    color: #fff;
+}
+
+header div {
+    width: 450px;
+    height: 100%;
+    display: flex;
+}
+
+header div div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #f00;
+    transform: skew(-45deg);
+    padding-left: 40px;
+    margin-left: -40px;
+}
+
+h1 {
+    transform: skew(45deg);
+    font-size: 2em;
+    font-weight: 100;
+    margin: 0 0 0 50px;
+}
+
+h1 span {
+    font-size: .8em;
+}
+
+header div span.stripes {
+    width: 10px;
+    height: 100%;
+    margin-left: 10px;
+    background-color: #f00;
+    transform: skew(-45deg);
+}
+
+header nav {
+    width: calc(100% - 450px);
+    height: 100%;
+}
+
+header nav ul {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 0 50px;
+    padding: 0;
+    list-style: none;
+}
+
+header nav ul li{
+    margin: 0;
+    padding: 0 20px;
+}
