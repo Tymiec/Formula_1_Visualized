@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@100;300;700&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+header {
+    width: 100vw;
+    height: 75px;
+    display: flex;
+    background-color: #222;
+    font-family: 'Titillium Web', sans-serif;
+    color: #fff;
+}
+
+header > div {
+    width: 450px;
+    height: 100%;
+    display: flex;
+    position: relative;
+}
+
+header div div {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #f00;
+    transform: skew(-45deg);
+    padding-left: 40px;
+    padding-bottom: 5px;
+    margin-left: -40px;
+}
+
+h1 {
+    transform: skew(45deg);
+    font-size: 2em;
+    font-weight: 100;
+    margin: 0 0 0 50px;
+    z-index: 2;
+}
+
+h1 span {
+    font-size: .8em;
+}
+
+header div span.stripes {
+    width: 10px;
+    height: 100%;
+    margin-left: 10px;
+    background-color: #f00;
+    transform: skew(-45deg);
+    padding-bottom: 5px;
+}
+
+header div span.stripes:nth-of-type(1) {
+    opacity: .8;
+}
+
+header div span.stripes:nth-of-type(2) {
+    opacity: .6;
+}
+
+header div span.stripes:nth-of-type(3) {
+    opacity: .4;
+}
+
+header nav {
+    width: calc(100% - 450px);
+    height: 100%;
+}
+
+header nav div {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin: 0 50px 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+header nav div label {
+    height: 100%;
+    margin: 0;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: 100ms;
+    transition-property: background-color;
+}
+
+header nav div label:hover {
+    background-color: #111;
+}
+
+header nav div label input {
+    display: none;
+}
+
+main {
+    height: calc(100vh - 75px);
+    padding-top: 5px;
+    background-color: #111;
+}
+
+main div#graph div.plot-container {
+    height: calc(100% - 5px)
+}
+
+main div.wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+main div.wrapper svg {
+    max-height: 80%;
+}
+
+main div.wrapper svg#track path {
+    stroke: #fff !important;
+    stroke-width: 4 !important;
+}
+
+main div.wrapper svg.racer {
+    position: absolute;
+}
+
+main div.wrapper svg.racer path {
+    stroke: #f00 !important;
+    stroke-dasharray: 2558.832763671875;
+    stroke-dashoffset: -2558.832763671875;
+    stroke-linecap: round;
+    stroke-width: 10 !important;
+    animation: race 10s infinite linear;
+}
+
+@keyframes race {
+    50% {
+        stroke-dashoffset: 0;
+    }
+    100% {
+        stroke-dashoffset: 2558.832763671875;
+    }
+}
