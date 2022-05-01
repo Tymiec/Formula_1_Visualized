@@ -10,15 +10,30 @@ checkMain = setInterval(function() {
 
         fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/f7b328f0198cfdab2c7d2356597418cd5a12d46f/testing/lap%20vis/N%C3%BCrburgring.svg')
         .then(response => response.text())
-        .then(text => {
-            wrapper.innerHTML = text
-            wrapper.innerHTML += text
+        .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+        .then(xml => {
+            svg = xml.querySelector('svg')
 
-            let svgs = document.querySelectorAll('main svg')
-            svgs[0].id = 'track'
-            svgs[1].classList.add('racer')
-            
-            console.log(svgs[0].querySelector('path').getTotalLength())
+            svg.querySelector('path').id = 'track'
+
+            let circle = document.createElement('circle')
+            circle.setAttribute('r', '6')
+            circle.setAttribute('fill', '#f00')
+
+            let animateMotion = document.createElement('animateMotion')
+            animateMotion.setAttribute('dur', '5s')
+            animateMotion.setAttribute('repeatCount', 'indefinite')
+
+            let mpath = document.createElement('mpath')
+            mpath.setAttribute('xlink:href', '#track')
+
+            animateMotion.appendChild(mpath)
+            circle.appendChild(animateMotion)
+            svg.appendChild(circle)
+
+            wrapper.appendChild(svg)
+
+            svg.innerHTML = svg.innerHTML // HACK
         })
 
 

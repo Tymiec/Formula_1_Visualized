@@ -124,29 +124,7 @@ main div.wrapper svg {
     max-height: 80%;
 }
 
-main div.wrapper svg#track path {
+main div.wrapper svg path {
     stroke: #fff !important;
     stroke-width: 4 !important;
-}
-
-main div.wrapper svg.racer {
-    position: absolute;
-}
-
-main div.wrapper svg.racer path {
-    stroke: #f00 !important;
-    stroke-dasharray: 2558.832763671875;
-    stroke-dashoffset: -2558.832763671875;
-    stroke-linecap: round;
-    stroke-width: 10 !important;
-    animation: race 10s infinite linear;
-}
-
-@keyframes race {
-    50% {
-        stroke-dashoffset: 0;
-    }
-    100% {
-        stroke-dashoffset: 2558.832763671875;
-    }
 }
