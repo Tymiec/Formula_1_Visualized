@@ -17,7 +17,7 @@ Testing:
  ## Roadmap
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcccc', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
+%%{init: {'theme': light 'base', 'themeVariables': { 'primaryColor': '#ffcccc', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
 graph 
 Start1[Wybór Tematu] -- F1--> Koncept
 Koncept --> Wybor
@@ -42,4 +42,4 @@ Merge2 --> Testy[Testy projektu]
 Testy --> Finish[Przedstawienie projektu]
 ```
 
-> Zaktualizowano 24.04.2022
+> Zaktualizowano 02.05.2022
