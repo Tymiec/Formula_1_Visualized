@@ -39,43 +39,9 @@ app.layout = html.Div(children=[
         )
     ]),
     html.Main(children=[
-        dcc.Graph(id='graph')
+        
     ])
 ])
-
-@app.callback(
-    Output(component_id="graph", component_property="figure"),
-    Input('graph_select', 'value')
-)
-
-def display_graph(selected_graph):
-    match selected_graph:
-        case 'Lorem ispum1':
-            filtered_races = races[races["raceId"] == 1069]
-            line_fig = px.line(
-                filtered_races, 
-                x="lap", y="milliseconds", 
-                color="DriverName2", 
-                labels={"DriverName2" : "Driver"},
-                markers=False, 
-                template='plotly_dark',
-                title=f"Lap times in race number: {1069}"
-            )
-            return line_fig
-        case _:
-            filtered_races = races[races["raceId"] == 1069]
-            line_fig = px.line(
-                filtered_races, 
-                x="lap", y="position", range_y=(20,0), # na sztywno odwrócona oś Y
-                color="DriverName2", 
-                labels={"DriverName2" : "Driver"},
-                markers=True, 
-                line_shape="linear", 
-                template='plotly_dark',
-                title=f"Position change by lap in race: {1069}"
-            )
-            return line_fig
-
 
 # Run local server
 
