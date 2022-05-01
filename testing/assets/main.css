@@ -3,21 +3,23 @@
 html, body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 header {
     width: 100vw;
     height: 75px;
-    background-color: #222;
     display: flex;
+    background-color: #222;
     font-family: 'Titillium Web', sans-serif;
     color: #fff;
 }
 
-header div {
+header > div {
     width: 450px;
     height: 100%;
     display: flex;
+    position: relative;
 }
 
 header div div {
@@ -28,6 +30,7 @@ header div div {
     background-color: #f00;
     transform: skew(-45deg);
     padding-left: 40px;
+    padding-bottom: 5px;
     margin-left: -40px;
 }
 
@@ -36,6 +39,7 @@ h1 {
     font-size: 2em;
     font-weight: 100;
     margin: 0 0 0 50px;
+    z-index: 2;
 }
 
 h1 span {
@@ -48,6 +52,19 @@ header div span.stripes {
     margin-left: 10px;
     background-color: #f00;
     transform: skew(-45deg);
+    padding-bottom: 5px;
+}
+
+header div span.stripes:nth-of-type(1) {
+    opacity: .8;
+}
+
+header div span.stripes:nth-of-type(2) {
+    opacity: .6;
+}
+
+header div span.stripes:nth-of-type(3) {
+    opacity: .4;
 }
 
 header nav {
@@ -55,17 +72,41 @@ header nav {
     height: 100%;
 }
 
-header nav ul {
+header nav div {
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: end;
-    margin: 0 50px;
+    margin: 0 50px 0 0;
     padding: 0;
     list-style: none;
 }
 
-header nav ul li{
+header nav div label {
+    height: 100%;
     margin: 0;
     padding: 0 20px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: 100ms;
+    transition-property: background-color;
+}
+
+header nav div label:hover {
+    background-color: #111;
+}
+
+header nav div label input {
+    display: none;
+}
+
+main {
+    height: calc(100vh - 75px);
+    padding-top: 5px;
+    background-color: #111;
+}
+
+main div#graph div.plot-container {
+    height: calc(100% - 5px)
 }
