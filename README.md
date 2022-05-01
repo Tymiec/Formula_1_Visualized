@@ -28,7 +28,7 @@ Podzial[Podział ról] --> Start_prac
 Start_prac[Start prac]
 Start_prac --> Graf[Pierwsze dwa grafy]
 Start_prac --> Strona[Odsłona wizualna V1] --> Merge
-Graf --> Przyciski[Opcji wyboru] --> Merge
+Graf --> Przyciski[Opcje wyboru] --> Merge
 Merge[Połączenie progresu V2]
 Merge --> Grafy_dodanie[Pozostałe wizualizacje]
 Grafy_dodanie --> Grafiki[Grafy]--> Debugowanie
@@ -40,6 +40,30 @@ Merge --> PBoczny[Panel boczny] --> Merge2
 Merge2[Odsłona wizualna V3]
 Merge2 --> Testy[Testy projektu]
 Testy --> Finish[Przedstawienie projektu]
+
+subgraph Zrobione
+ Start1
+ Koncept
+ Start_prac
+ Podzial
+ Wybor2
+ Plany
+ Wybor
+ Graf
+ Przyciski
+ Strona
+end
+
+style Start1 fill:#63E336
+style Koncept fill:#63E336
+style Start_prac fill:#63E336
+style Podzial fill:#63E336
+style Wybor2 fill:#63E336
+style Plany fill:#63E336
+style Wybor fill:#63E336
+style Graf fill:#63E336
+style Przyciski fill:#63E336
+style Strona fill:#63E336
 ```
 
 > Zaktualizowano 02.05.2022
