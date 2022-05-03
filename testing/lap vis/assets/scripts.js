@@ -1,19 +1,17 @@
 let main
+let canvas
+let ctx
+
 let fps = 60
 let percent = 0
 let direction = 1
-let totalLength = 0
-let canvas
-let ctx
+let pathSegments = []
 
 checkMain = setInterval(function() {
     main = document.querySelector('main')
     
     if (main != null) {
-        let wrapper = main.querySelector('div.wrapper')
-        
         loadTrack()
-
         clearInterval(checkMain)
     }
 }, 300)
@@ -31,7 +29,6 @@ async function loadTrack() {
             let main = document.querySelector('main')
             main.appendChild(svg)
             svg.style.display = 'none'
-            console.log(svg.querySelector('path').getTotalLength())
         })
 
     canvas = document.querySelector('canvas')
@@ -42,135 +39,67 @@ async function loadTrack() {
 
     let p = new Path2D(path)
     ctx.stroke(p)
+    
+    let commands = path.split(new RegExp('([a-zA-Z])'))
+    let accumulatedPath = ''
 
-    console.log(path)
+    let dummyPath = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+    dummyPath.setAttribute('d', path)
+    let fullPathTotalLenght = Number(dummyPath.getTotalLength())
+    let previousTotalLength = 0
 
-    let commands = path.split(new RegExp('([A-Z]|[a-z])'))
-
-    for (let i = 0; i < commands.length; i++)
-        commands[i] = commands[i].split(new RegExp('(,|-)'))
-
-    console.log(commands)
-
-    // getTotalLenght
-    let lastPoint = [0, 0]
-    let lastControlPt = [0, 0]
-    let lastCommand = ''
-    let command = ''
+    pathSegments = [] // TODO: change controlPoints to absolute (not relative) points
+    let lastPathSegment = []
     
     for (let i = 0; i < commands.length; i++) {
-        if (Number.isNaN(Number(commands[i][0]))) {
-            lastCommand = commands[i][0]
+        if (Number.isNaN(Number(commands[i]))) {
             i++
 
-            if (lastCommand != undefined)
-                command += lastCommand
+            let pathSegment = { 
+                command: '0', 
+                controlPt0: NaN,
+                controlPt1: NaN,
+                controlPt2: NaN,
+                controlPt3: NaN,
+                controlPt4: NaN,
+                controlPt5: NaN,
+                length: NaN
+            } 
 
-            commands[i].forEach(element => {
-                command += element
-            })
+            pathSegment['command'] = commands[i - 1]
 
-            console.log(command)
-
-            let controlPts = []
-
-            for (let j = 0; j < commands[i].length; j++) {
-                if (commands[i][j] == '-') {
+            let controlPts = commands[i].split(new RegExp('(,|-)'))
+            let counter = 0
+            
+            for (let j = 0; j < controlPts.length; j++) {
+                if (controlPts[j] == '-') {
                     j++
-                    controlPts.push(-Number(commands[i][j]))
-                } else if (Number.isInteger(Number(commands[i][j][0]))) {
-                    controlPts.push(Number(commands[i][j]))
+                    pathSegment['controlPt' + counter++] = -Number(controlPts[j])
+                } else if (Number.isInteger(Number(controlPts[j][0]))) {
+                    pathSegment['controlPt' + counter++] = Number(controlPts[j])
                 }
             }
+            
+            accumulatedPath += commands[i - 1] + commands[i]
+            let dummyPath = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+            dummyPath.setAttribute('d', accumulatedPath)
+            
+            let totalLenght = Number(dummyPath.getTotalLength())
+            pathSegment['length'] = (totalLenght - previousTotalLength) / fullPathTotalLenght
+            previousTotalLength = totalLenght
 
-            switch (lastCommand) {
-                case 'M':
-                    lastPoint[0] = controlPts[0]
-                    lastPoint[1] = controlPts[1]
-                    break
-                case 'm':
-                    lastPoint[0] = lastPoint[0] + controlPts[0]
-                    lastPoint[1] = lastPoint[1] + controlPts[1]
-                    break
-                case 'L':
-                    totalLength += getLineLenght(lastPoint[0], lastPoint[1], controlPts[0], controlPts[1])
-                    console.log('L totalLenght = ', totalLength)
-                    
-                    lastPoint[0] = controlPts[0]
-                    lastPoint[1] = controlPts[1]
-                    break
-                case 'l':
-                    totalLength += getLineLenght(lastPoint[0], lastPoint[1], lastPoint[0] + controlPts[0], lastPoint[1] + controlPts[1])
-                    console.log('l totalLenght = ', totalLength)
-                    
-                    lastPoint[0] = lastPoint[0] + controlPts[0]
-                    lastPoint[1] = lastPoint[1] + controlPts[1]
-                    break
-                case 'C':
-                    totalLength += getCubicBezierLength(/* currentPt.x */ lastPoint[0], /* currentPt.y */ lastPoint[1], /* startControlPt.x */ controlPts[0], /* startControlPt.y */ controlPts[1], /* endControlPt.x */ controlPts[2], /* endControlPt.y */ controlPts[3], /* endPt.x */ controlPts[4], /* endPt. */ controlPts[5])
-                    console.log('C totalLenght = ', totalLength)
-
-                    lastControlPt[0] = controlPts[2]
-                    lastControlPt[1] = controlPts[3]
-                    
-                    lastPoint[0] = controlPts[0]
-                    lastPoint[1] = controlPts[1]
-                    break
-                case 'c':
-                    totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastPoint[0] + controlPts[0], lastPoint[1] + controlPts[1], lastPoint[0] + controlPts[2], lastPoint[1] + controlPts[3], lastPoint[0] + controlPts[4], lastPoint[1] + controlPts[5])
-                    console.log('c totalLenght = ', totalLength)
-
-                    lastControlPt[0] = controlPts[2]
-                    lastControlPt[1] = controlPts[3]
-                    
-                    lastPoint[0] = lastPoint[0] + controlPts[0]
-                    lastPoint[1] = lastPoint[1] + controlPts[1]
-                    break
-                case 'S':
-                    if (lastCommand == 'C' || lastCommand == 'c' || lastCommand == 'S' || lastCommand == 's') {
-                        totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastControlPt[0], lastControlPt[1], controlPts[0], controlPts[1], controlPts[2], controlPts[3], 40)
-                    } else {
-                        console.log('Last command was not Cubic Bezier') // Shouldn't happen (90% sure?)
-                        totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastPoint[0], lastPoint[1], controlPts[0], controlPts[1], controlPts[2], controlPts[3], 40)
-                    }
-
-                    console.log('S totalLenght = ', totalLength)
-
-                    lastControlPt[0] = controlPts[2]
-                    lastControlPt[1] = controlPts[3]
-
-                    lastPoint[0] = controlPts[0]
-                    lastPoint[1] = controlPts[1]
-                    break
-                case 's':
-                    if (lastCommand == 'C' || lastCommand == 'c' || lastCommand == 'S' || lastCommand == 's') {
-                        totalLength += getCubicBezierLength(/* currentPt.x */ lastPoint[0], /* currentPt.y */ lastPoint[1], /* .x */ lastPoint[0] - lastControlPt[0], /* .y */ lastPoint[1] - lastControlPt[1], /* currentPt.x + dx2 */ lastPoint[0] + controlPts[0], /* currentPt.y + dy2 */ lastPoint[1] + controlPts[1], /* currentPt.x + dx */ lastPoint[0] + controlPts[2], /* currentPt.y + dy */ lastPoint[1] + controlPts[3], 40)
-                    } else {
-                        console.log('Last command was not Cubic Bezier') // Shouldn't happen (90% sure?)
-                        totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastPoint[0], lastPoint[1], lastPoint[0] + controlPts[0], lastPoint[1] + controlPts[1], lastPoint[0] + controlPts[2], lastPoint[1] + controlPts[3], 40)
-                    }
-
-                    console.log('s totalLenght = ', totalLength)
-
-                    lastControlPt[0] = controlPts[2]
-                    lastControlPt[1] = controlPts[3]
-                    
-                    lastPoint[0] = lastPoint[0] + controlPts[0]
-                    lastPoint[1] = lastPoint[1] + controlPts[1]
-                    break
-            }
+            pathSegments.push(pathSegment)
         }
     }
 
-    console.log(totalLength)
-
     // start the animation
-    // animate()
+    animate()
 }
 
 function animate() {
     // set the animation position (0-100)
     percent += direction
+
     if (percent > 100) {
         percent = 0
     }
@@ -198,8 +127,68 @@ function draw(sliderValue) {
     ctx.stroke(p)
 
     // draw the tracking rectangle
-    let xy
+    let sumPercent = 0
+    let index = 0
+    
+    while (sliderValue > sumPercent) {
+        if (index == pathSegments.length)
+            break
+        
+        if (!Number.isNaN(pathSegments[index].length))
+            sumPercent += pathSegments[index++].length * 100
+    }
+    
+    index--
+    console.log(pathSegments[index])
 
+    /*
+    if (sliderValue < 25) {
+        var percent = sliderValue / 24;
+        xy = getLineXYatPercent({
+            x: 100,
+            y: 20
+        }, {
+            x: 200,
+            y: 160
+        }, percent);
+    } else if (sliderValue < 50) {
+        var percent = (sliderValue - 25) / 24
+        xy = getQuadraticBezierXYatPercent({
+            x: 200,
+            y: 160
+        }, {
+            x: 230,
+            y: 200
+        }, {
+            x: 250,
+            y: 120
+        }, percent);
+    } else if (sliderValue < 75) {
+        var percent = (sliderValue - 50) / 24
+        xy = getCubicBezierXYatPercent({
+            x: 250,
+            y: 120
+        }, {
+            x: 290,
+            y: -40
+        }, {
+            x: 300,
+            y: 200
+        }, {
+            x: 400,
+            y: 150
+        }, percent);
+    } else {
+        var percent = (sliderValue - 75) / 25
+        xy = getLineXYatPercent({
+            x: 400,
+            y: 150
+        }, {
+            x: 500,
+            y: 90
+        }, percent);
+    }
+    */
 
     drawDot(xy, '#f00')
 }
@@ -255,70 +244,4 @@ function CubicN(pct, a, b, c, d) {
     let t2 = pct * pct
     let t3 = t2 * pct
     return a + (-a * 3 + pct * (3 * a - a * pct)) * pct + (3 * b + pct * (-6 * b + b * 3 * pct)) * pct + (c * 3 - c * 3 * pct) * t2 + d * t3
-}
-
-function getLineLenght(x1, y1, x2, y2) {
-    return Math.sqrt( ( (x2 - x1) * (x2 - x1) ) + ( (y2 - y1) * (y2 - y1) ) )
-}
-
-function getQuadraticBezierLength(x1, y1, x2, y2, x3, y3) {
-    let a, e, c, d, u, a1, e1, c1, d1, u1, v1x, v1y
-
-    v1x = x2 * 2
-    v1y = y2 * 2
-    d = x1 - v1x + x3
-    d1 = y1 - v1y + y3
-    e = v1x - 2 * x1
-    e1 = v1y - 2 * y1
-    c1 = (a = 4 * (d * d + d1 * d1))
-    c1 += (b = 4 * (d * e + d1 * e1))
-    c1 += (c = e * e + e1 * e1)
-    c1 = 2 * Math.sqrt(c1)
-    a1 = 2 * a * (u = Math.sqrt(a))
-    u1 = b / u
-    a = 4 * c * a - b * b
-    c = 2 * Math.sqrt(c)
-
-    return (a1 * c1 + u * b * (c1 - c) + a * Math.log((2 * u + u1 + c1) / (u1 + c))) / (4 * a1)
-} 
-
-function getCubicBezierLength(Ax, Ay, Bx, By, Cx, Cy, Dx, Dy, sampleCount) {
-    var ptCount = sampleCount || 40
-    var totDist = 0
-    var lastX = Ax
-    var lastY = Ay
-    var dx, dy
-
-    for (var i = 1; i < ptCount; i++) {
-        var pt = cubicQxy(i / ptCount, Ax, Ay, Bx, By, Cx, Cy, Dx, Dy)
-        dx = pt.x - lastX
-        dy = pt.y - lastY
-        totDist += Math.sqrt(dx * dx + dy * dy)
-        lastX = pt.x
-        lastY = pt.y
-    }
-
-    dx = Dx - lastX
-    dy = Dy - lastY
-
-    totDist += Math.sqrt(dx * dx + dy * dy)
-    return totDist
-}
-
-function cubicQxy(t, ax, ay, bx, by, cx, cy, dx, dy) {
-    ax += (bx - ax) * t
-    bx += (cx - bx) * t
-    cx += (dx - cx) * t
-    ax += (bx - ax) * t
-    bx += (cx - bx) * t
-    ay += (by - ay) * t
-    by += (cy - by) * t
-    cy += (dy - cy) * t
-    ay += (by - ay) * t
-    by += (cy - by) * t
-
-    return ({
-        x: ax + (bx - ax) * t,
-        y: ay + (by - ay) * t
-    })
 }
