@@ -4,6 +4,8 @@ html, body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 header {
@@ -11,8 +13,6 @@ header {
     height: 75px;
     display: flex;
     background-color: #222;
-    font-family: 'Titillium Web', sans-serif;
-    color: #fff;
 }
 
 header > div {
@@ -102,9 +102,13 @@ header nav div label input {
 }
 
 main {
+    width: 80vw;
     height: calc(100vh - 75px);
     padding-top: 5px;
     background-color: #111;
+    display: flex;
+    flex-direction: row;
+    padding: 0 10vw;
 }
 
 main div#graph div.plot-container {
@@ -112,7 +116,7 @@ main div#graph div.plot-container {
 }
 
 main div.wrapper {
-    width: 100%;
+    width: 80%;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -127,4 +131,64 @@ main div.wrapper svg {
 main div.wrapper svg path {
     stroke: #fff !important;
     stroke-width: 4 !important;
+}
+
+main nav {
+    width: 20%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-self: center;
+    margin-top: 20vh;
+}
+
+main nav div {
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+main nav div label {
+    position: absolute;
+    font-size: .85em;
+    font-weight: 700;
+}
+
+main nav div:not(#speed) label {
+    background-color: #111;
+    margin-left: 20px;
+    padding: 0 10px;
+}
+
+main nav div#year input, main nav div#track select {
+    width: 100%;
+    border: 1px #fff solid;
+    border-radius: 100px;
+    background-color: transparent;
+    color: #fff;
+    margin-top: 10px;
+    padding: 12px 20px;
+}
+
+main nav div#track select option {
+    color: #111;
+}
+
+main nav div#speed label {
+    left: 5px;
+    font-weight: 300;
+}
+
+main nav div#speed input {
+    width: 80%;
+    margin-top: 25px;
+}
+
+main nav div span {
+    display: flex;
+    align-items: flex-end;
+    margin-left: 20px;
 }

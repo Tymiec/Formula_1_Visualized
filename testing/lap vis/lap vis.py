@@ -15,6 +15,9 @@ app = dash.Dash()
 
 # Tutaj layout apki
 app.layout = html.Div(children=[
+    html.Div(children=[
+
+    ], id='loader'),
     html.Header(children=[
         html.Div(children=[
             html.Div(children=[
@@ -39,7 +42,24 @@ app.layout = html.Div(children=[
         )
     ]),
     html.Main(children=[
-        
+        html.Div(className='wrapper'),
+        html.Nav(children=[
+            html.Div(children=[
+                html.Label(children='Rok'),
+                dcc.Input(type='number', min='1950', max='2022', step='1', placeholder='Rok wyścigu', value='2009')
+            ], id='year'),
+            html.Div(children=[
+                html.Label(children='Tor'),
+                html.Select(children=[
+
+                ])
+            ], id='track'),
+            html.Div(children=[
+                html.Label(children='Prędkość symulacji'),
+                dcc.Input(type='range', min='0', max='6', step='1', value='4', disabled=True),
+                html.Span(children='x16')
+            ], id='speed')
+        ])
     ])
 ])
 
