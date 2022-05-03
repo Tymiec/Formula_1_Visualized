@@ -42,7 +42,6 @@ def update_graph(selected_race):
     template='plotly_dark',
     title=f"Driver standings in {selected_race}")
     return line_fig
-#TODO: Zmienić milisekundy na timedelte
 
 # Run local server
 
