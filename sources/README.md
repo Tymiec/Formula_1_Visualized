@@ -4,3 +4,4 @@ Pliki nie opisane to pliki pobrane z: https://www.kaggle.com/datasets/rohanrao/f
 Opisy plików:
 - lap_times_named.csv (rozszerzenie pliku lap_times z dodanymi nazwiskami)
 - lap_times_named_v2.csv ()
+- results_modified (rozszerzenie pliku results) 
