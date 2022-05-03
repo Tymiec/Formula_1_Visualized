@@ -54,16 +54,16 @@ subgraph Zrobione
  Strona
 end
 
-style Start1 fill:#63E336
-style Koncept fill:#63E336
-style Start_prac fill:#63E336
-style Podzial fill:#63E336
-style Wybor2 fill:#63E336
-style Plany fill:#63E336
-style Wybor fill:#63E336
-style Graf fill:#63E336
-style Przyciski fill:#63E336
-style Strona fill:#63E336
+style Start1 fill:#32751B
+style Koncept fill:#32751B
+style Start_prac fill:#32751B
+style Podzial fill:#32751B
+style Wybor2 fill:#32751B
+style Plany fill:#32751B
+style Wybor fill:#32751B
+style Graf fill:#32751B
+style Przyciski fill:#32751B
+style Strona fill:#32751B
 ```
 
 > Zaktualizowano 02.05.2022
