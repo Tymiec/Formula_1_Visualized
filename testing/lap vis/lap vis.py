@@ -15,9 +15,6 @@ app = dash.Dash()
 
 # Tutaj layout apki
 app.layout = html.Div(children=[
-    html.Div(children=[
-
-    ], id='loader'),
     html.Header(children=[
         html.Div(children=[
             html.Div(children=[
@@ -42,7 +39,9 @@ app.layout = html.Div(children=[
         )
     ]),
     html.Main(children=[
-        html.Div(className='wrapper'),
+        html.Div(children=[
+            html.Canvas(width=1000, height=1000)
+        ], className='wrapper'),
         html.Nav(children=[
             html.Div(children=[
                 html.Label(children='Rok'),

@@ -108,6 +108,7 @@ main {
     background-color: #111;
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
     padding: 0 10vw;
 }
 
@@ -116,21 +117,17 @@ main div#graph div.plot-container {
 }
 
 main div.wrapper {
-    width: 80%;
-    height: 100%;
+    width: calc(100vh - 75px);
+    height: calc(100vh - 75px);
     display: flex;
-    justify-content: center;
     align-items: center;
-    position: relative;
+    justify-content: center;
 }
 
-main div.wrapper svg {
-    max-height: 80%;
-}
-
-main div.wrapper svg path {
-    stroke: #fff !important;
-    stroke-width: 4 !important;
+main div.wrapper canvas {
+    width: 100%;
+    height: 100%;
+    margin-top: 20vh;
 }
 
 main nav {

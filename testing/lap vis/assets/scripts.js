@@ -1,235 +1,324 @@
 let main
+let fps = 60
+let percent = 0
+let direction = 1
+let totalLength = 0
+let canvas
+let ctx
 
-customOnLoad = setInterval(function() {
+checkMain = setInterval(function() {
     main = document.querySelector('main')
     
     if (main != null) {
         let wrapper = main.querySelector('div.wrapper')
-
-        fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/f7b328f0198cfdab2c7d2356597418cd5a12d46f/testing/lap%20vis/N%C3%BCrburgring.svg')
-        .then(response => response.text())
-        .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-        .then(xml => {
-            // Insert track
-            svg = xml.querySelector('svg')
-
-            // Ainmate driver
-            svg.querySelector('path').id = 'track'
-            addCircle(svg, '#f00', 180000)
-            wrapper.innerHTML = ''
-            wrapper.appendChild(svg)
-
-            svg.innerHTML = svg.innerHTML // HACK
-
-            // Event Listeners
-            const playbackSpeedInput = document.querySelector('main nav div#speed input')
-            
-            playbackSpeedInput.addEventListener('input', function() {
-                document.querySelector('main nav div#speed span').innerHTML = 'x' + Math.pow(2, this.value)
-            })
-
-            animations = document.querySelectorAll('animateMotion')
-    
-            animations.forEach(element => {
-                element.addEventListener('repeatEvent', function() {
-                    const playbackSpeedInput = document.querySelector('main nav div#speed input')
-                    const playbackSpeed = Math.pow(2, playbackSpeedInput.value)
-                    let initialDur = this.getAttribute('data-dur')
-                    initialDur = initialDur.replace('ms', '')
-                    this.setAttribute('dur', Number(initialDur) * 1 / Number(playbackSpeed) + 'ms')
-                })
-            })
-        })
         
-        Promise.all([
-            fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/circuits.csv')
-            .then(response => response.text())
-            .then(text => processCSV(text)),
-    
-            fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/races.csv')
-            .then(response => response.text())
-            .then(text => processCSV(text)),
-            
-            fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named.csv')
-            .then(response => response.text())
-            .then(text => processCSV(text))
-        ]).then(data => {
-            let circuits
-            let races
-            let lapTimes
+        loadTrack()
 
-            // Fail safe, odpowiednie przypisanie zmiennych
-            data.forEach(element => {
-                if (element.length < 100)
-                    circuits = element
-                else if (element.length > 10000)
-                    lapTimes = element
-                else
-                    races = element
-            })
-            
-            const yearSelector = document.querySelector('main nav div#year input')
-            
-            yearSelector.addEventListener('change', function () {
-                trackSelector.innerHTML = ''
-
-                for (let i = 0; i < races.length; i++)
-                    if (races[i].year == this.value)
-                        for (let j = 0; j < circuits.length; j++)
-                            if (races[i].circuitId == circuits[j].circuitId)
-                                createOption(circuits[j].name, circuits[j].circuitId)
-            })
-
-            const trackSelector = document.querySelector('main nav div#track select')
-
-            trackSelector.addEventListener('change', function () {
-                getTrack(this, races, lapTimes)
-            })
-        })
-
-        clearInterval(customOnLoad)
+        clearInterval(checkMain)
     }
 }, 300)
 
-function processCSV(allText) {
-    let allTextLines = allText.split(/\r\n|\n/)
-    let headers = allTextLines[0].split(',')
-    let lines = []
+async function loadTrack() {
+    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/f7b328f0198cfdab2c7d2356597418cd5a12d46f/testing/lap%20vis/N%C3%BCrburgring.svg')
+        .then(response => response.text())
+        .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
+        .then(xml => {
+            path = xml.querySelector('svg path').getAttribute('d')
+            let canvas = document.querySelector('canvas')
+            canvas.setAttribute('data-path', path)
 
-    for (let i = 1; i < allTextLines.length; i++) {
-        let data = allTextLines[i].split(',')
+            let svg = xml.querySelector('svg')
+            let main = document.querySelector('main')
+            main.appendChild(svg)
+            svg.style.display = 'none'
+            console.log(svg.querySelector('path').getTotalLength())
+        })
 
-        if (data.length == headers.length) {
-            let tarr = {}
+    canvas = document.querySelector('canvas')
+    path = canvas.getAttribute('data-path')
+    ctx = canvas.getContext('2d')
+    ctx.strokeStyle = '#fff'
+    ctx.lineWidth = 4
 
-            for (let j = 0; j < headers.length; j++)
-                tarr[headers[j]] = data[j]
+    let p = new Path2D(path)
+    ctx.stroke(p)
 
-            lines.push(tarr)
+    console.log(path)
+
+    let commands = path.split(new RegExp('([A-Z]|[a-z])'))
+
+    for (let i = 0; i < commands.length; i++)
+        commands[i] = commands[i].split(new RegExp('(,|-)'))
+
+    console.log(commands)
+
+    // getTotalLenght
+    let lastPoint = [0, 0]
+    let lastControlPt = [0, 0]
+    let lastCommand = ''
+    let command = ''
+    
+    for (let i = 0; i < commands.length; i++) {
+        if (Number.isNaN(Number(commands[i][0]))) {
+            lastCommand = commands[i][0]
+            i++
+
+            if (lastCommand != undefined)
+                command += lastCommand
+
+            commands[i].forEach(element => {
+                command += element
+            })
+
+            console.log(command)
+
+            let controlPts = []
+
+            for (let j = 0; j < commands[i].length; j++) {
+                if (commands[i][j] == '-') {
+                    j++
+                    controlPts.push(-Number(commands[i][j]))
+                } else if (Number.isInteger(Number(commands[i][j][0]))) {
+                    controlPts.push(Number(commands[i][j]))
+                }
+            }
+
+            switch (lastCommand) {
+                case 'M':
+                    lastPoint[0] = controlPts[0]
+                    lastPoint[1] = controlPts[1]
+                    break
+                case 'm':
+                    lastPoint[0] = lastPoint[0] + controlPts[0]
+                    lastPoint[1] = lastPoint[1] + controlPts[1]
+                    break
+                case 'L':
+                    totalLength += getLineLenght(lastPoint[0], lastPoint[1], controlPts[0], controlPts[1])
+                    console.log('L totalLenght = ', totalLength)
+                    
+                    lastPoint[0] = controlPts[0]
+                    lastPoint[1] = controlPts[1]
+                    break
+                case 'l':
+                    totalLength += getLineLenght(lastPoint[0], lastPoint[1], lastPoint[0] + controlPts[0], lastPoint[1] + controlPts[1])
+                    console.log('l totalLenght = ', totalLength)
+                    
+                    lastPoint[0] = lastPoint[0] + controlPts[0]
+                    lastPoint[1] = lastPoint[1] + controlPts[1]
+                    break
+                case 'C':
+                    totalLength += getCubicBezierLength(/* currentPt.x */ lastPoint[0], /* currentPt.y */ lastPoint[1], /* startControlPt.x */ controlPts[0], /* startControlPt.y */ controlPts[1], /* endControlPt.x */ controlPts[2], /* endControlPt.y */ controlPts[3], /* endPt.x */ controlPts[4], /* endPt. */ controlPts[5])
+                    console.log('C totalLenght = ', totalLength)
+
+                    lastControlPt[0] = controlPts[2]
+                    lastControlPt[1] = controlPts[3]
+                    
+                    lastPoint[0] = controlPts[0]
+                    lastPoint[1] = controlPts[1]
+                    break
+                case 'c':
+                    totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastPoint[0] + controlPts[0], lastPoint[1] + controlPts[1], lastPoint[0] + controlPts[2], lastPoint[1] + controlPts[3], lastPoint[0] + controlPts[4], lastPoint[1] + controlPts[5])
+                    console.log('c totalLenght = ', totalLength)
+
+                    lastControlPt[0] = controlPts[2]
+                    lastControlPt[1] = controlPts[3]
+                    
+                    lastPoint[0] = lastPoint[0] + controlPts[0]
+                    lastPoint[1] = lastPoint[1] + controlPts[1]
+                    break
+                case 'S':
+                    if (lastCommand == 'C' || lastCommand == 'c' || lastCommand == 'S' || lastCommand == 's') {
+                        totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastControlPt[0], lastControlPt[1], controlPts[0], controlPts[1], controlPts[2], controlPts[3], 40)
+                    } else {
+                        console.log('Last command was not Cubic Bezier') // Shouldn't happen (90% sure?)
+                        totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastPoint[0], lastPoint[1], controlPts[0], controlPts[1], controlPts[2], controlPts[3], 40)
+                    }
+
+                    console.log('S totalLenght = ', totalLength)
+
+                    lastControlPt[0] = controlPts[2]
+                    lastControlPt[1] = controlPts[3]
+
+                    lastPoint[0] = controlPts[0]
+                    lastPoint[1] = controlPts[1]
+                    break
+                case 's':
+                    if (lastCommand == 'C' || lastCommand == 'c' || lastCommand == 'S' || lastCommand == 's') {
+                        totalLength += getCubicBezierLength(/* currentPt.x */ lastPoint[0], /* currentPt.y */ lastPoint[1], /* .x */ lastPoint[0] - lastControlPt[0], /* .y */ lastPoint[1] - lastControlPt[1], /* currentPt.x + dx2 */ lastPoint[0] + controlPts[0], /* currentPt.y + dy2 */ lastPoint[1] + controlPts[1], /* currentPt.x + dx */ lastPoint[0] + controlPts[2], /* currentPt.y + dy */ lastPoint[1] + controlPts[3], 40)
+                    } else {
+                        console.log('Last command was not Cubic Bezier') // Shouldn't happen (90% sure?)
+                        totalLength += getCubicBezierLength(lastPoint[0], lastPoint[1], lastPoint[0], lastPoint[1], lastPoint[0] + controlPts[0], lastPoint[1] + controlPts[1], lastPoint[0] + controlPts[2], lastPoint[1] + controlPts[3], 40)
+                    }
+
+                    console.log('s totalLenght = ', totalLength)
+
+                    lastControlPt[0] = controlPts[2]
+                    lastControlPt[1] = controlPts[3]
+                    
+                    lastPoint[0] = lastPoint[0] + controlPts[0]
+                    lastPoint[1] = lastPoint[1] + controlPts[1]
+                    break
+            }
         }
     }
 
-    console.log(lines)
-    return lines
+    console.log(totalLength)
+
+    // start the animation
+    // animate()
 }
 
-function addCircle(svg, color, dur) {
-    svg.setAttribute('data-lap', 0)
-    svg.setAttribute('data-speed', 16)
+function animate() {
+    // set the animation position (0-100)
+    percent += direction
+    if (percent > 100) {
+        percent = 0
+    }
 
-    let circle = document.createElement('circle')
-    circle.setAttribute('r', '6')
-    circle.setAttribute('fill', color)
+    draw(percent)
 
-    let animateMotion = document.createElement('animateMotion')
-    animateMotion.setAttribute('dur', dur / 16 + 'ms')
-    animateMotion.setAttribute('repeatCount', 'indefinite')
-    animateMotion.setAttribute('data-dur', dur + 'ms')
-    animateMotion.setAttribute('data-lap', 0)
-
-    let mpath = document.createElement('mpath')
-    mpath.setAttribute('xlink:href', '#track')
-
-    animateMotion.appendChild(mpath)
-    circle.appendChild(animateMotion)
-    svg.appendChild(circle)
+    // request another frame
+    setTimeout(function () {
+        requestAnimationFrame(animate)
+    }, 1000 / fps)
 }
 
-function createOption(name, circuitId) {
-    let option = document.createElement('option')
-    name = name.replaceAll('"', '')
-    let value = [name, circuitId]
-    option.value = value
-    option.innerHTML = name
-    document.querySelector('main nav div#track select').appendChild(option)
+
+// draw the current frame based on sliderValue
+function draw(sliderValue) {
+    let canvas = document.querySelector('canvas')
+    let ctx = canvas.getContext('2d')
+    
+    // redraw path
+    ctx.clearRect(0, 0, canvas.width, canvas.height)
+    ctx.lineWidth = 4
+
+    path = canvas.getAttribute('data-path')
+    let p = new Path2D(path)
+    ctx.stroke(p)
+
+    // draw the tracking rectangle
+    let xy
+
+
+    drawDot(xy, '#f00')
 }
 
-function getTrack(trackSelector, races, lapTimes) {
-    let vals = trackSelector.value
-    let temp = vals.split(',')
-    trackName = temp[0]
-    circuitId = temp[1]
-    
-    fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/f7b328f0198cfdab2c7d2356597418cd5a12d46f/testing/lap%20vis/' + trackName + '.svg')
-    .then(response => response.text())
-    .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-    .then(xml => {
-        let wrapper = document.querySelector('main div.wrapper')
-        // Insert track
-        svg = xml.querySelector('svg')
+// draw tracking dot at xy
+function drawDot(point, color) {
+    let canvas = document.querySelector('canvas')
+    let ctx = canvas.getContext('2d')
+    ctx.fillStyle = color
+    ctx.beginPath()
+    ctx.arc(point.x, point.y, 8, 0, Math.PI * 2, false)
+    ctx.closePath()
+    ctx.fill()
+}
 
-        // Ainmate driver
-        svg.querySelector('path').id = 'track'
-        
-        const year = document.querySelector('main nav div#year input').value
-        let raceId
-    
-        for (let i = 0; i < races.length; i++) {
-            if (races[i].year == year && races[i].circuitId == circuitId) {
-                raceId = races[i].raceId
-                break
-            }
-        }
+// line: percent is 0-1
+function getLineXYatPercent(startPt, endPt, percent) {
+    let dx = endPt.x - startPt.x
+    let dy = endPt.y - startPt.y
+    let X = startPt.x + dx * percent
+    let Y = startPt.y + dy * percent
 
-        const colours = ['#f2003c', '#f85900', '#f28800', '#f2ab00', '#efcc00', '#f0ea00', '#b1d700', '#00ca24', '#00a877', '#00a78a', '#00a59c', '#00a3ac', '#0093af', '#0082b2', '#006ebf', '#7d00f8', '#9f00c5', '#b900a6', '#d00081', '#e20064']
-        let drivers = []
+    return ({
+        x: X,
+        y: Y
+    })
+}
 
-        for (let i = 0; i < lapTimes.length; i++) {
-            if (lapTimes[i].raceId == raceId) {
-                if (drivers[lapTimes[i].DriverName2] == undefined)
-                    drivers[lapTimes[i].DriverName2] = new Array()
+// quadratic bezier: percent is 0-1
+function getQuadraticBezierXYatPercent(startPt, controlPt, endPt, percent) {
+    let x = Math.pow(1 - percent, 2) * startPt.x + 2 * (1 - percent) * percent * controlPt.x + Math.pow(percent, 2) * endPt.x
+    let y = Math.pow(1 - percent, 2) * startPt.y + 2 * (1 - percent) * percent * controlPt.y + Math.pow(percent, 2) * endPt.y
 
-                drivers[lapTimes[i].DriverName2].push(lapTimes[i].milliseconds)
-            }
-        }
+    return ({
+        x: x,
+        y: y
+    })
+}
 
-        console.log(drivers)
-        let colourIndex = 0
+// cubic bezier percent is 0-1
+function getCubicBezierXYatPercent(startPt, controlPt1, controlPt2, endPt, percent) {
+    let x = CubicN(percent, startPt.x, controlPt1.x, controlPt2.x, endPt.x)
+    let y = CubicN(percent, startPt.y, controlPt1.y, controlPt2.y, endPt.y)
 
-        for (const key in drivers) {
-            if (Object.hasOwnProperty.call(drivers, key)) {
-                const element = drivers[key]
-                addCircle(svg, colours[colourIndex++], element[0])
-            }
-        }
+    return ({
+        x: x,
+        y: y
+    })
+}
 
-        
-        wrapper.innerHTML = ''
-        wrapper.appendChild(svg)
-        
-        svg.innerHTML = svg.innerHTML // HACK
+// cubic helper formula at percent distance
+function CubicN(pct, a, b, c, d) {
+    let t2 = pct * pct
+    let t3 = t2 * pct
+    return a + (-a * 3 + pct * (3 * a - a * pct)) * pct + (3 * b + pct * (-6 * b + b * 3 * pct)) * pct + (c * 3 - c * 3 * pct) * t2 + d * t3
+}
 
-        animations = document.querySelectorAll('animateMotion')
-        console.log(animations)
-    
-        animations.forEach(element => {
-            element.addEventListener('repeatEvent', function () {
-                // FIXME: napisać od nowa, znaleźć sposób na przechowywanie zmiennych globalnych
-                // synchronizacja na okrążeniach, lub wykombinować jak przyśpieszać w locie
-                // zamiast przy zmianie okrążenia
-        
-                let parent = this.parentElement.parentElement
-                let currentLap = Number(this.getAttribute('data-lap'))
-                let maxLap = Number(parent.getAttribute('data-lap'))
-                
-                if (++currentLap > maxLap) {
-                    maxLap++
-                    parent.setAttribute('data-lap', maxLap)
+function getLineLenght(x1, y1, x2, y2) {
+    return Math.sqrt( ( (x2 - x1) * (x2 - x1) ) + ( (y2 - y1) * (y2 - y1) ) )
+}
 
-                    const playbackSpeedInput = document.querySelector('main nav div#speed input')
-                    parent.setAttribute('data-speed', playbackSpeedInput.value)
-                }
-                
-                this.setAttribute('data-lap', currentLap)
-                
-                const playbackSpeed = parent.getAttribute('data-speed')
+function getQuadraticBezierLength(x1, y1, x2, y2, x3, y3) {
+    let a, e, c, d, u, a1, e1, c1, d1, u1, v1x, v1y
 
-                if (currentLap == maxLap) {
-                    let initialDur = this.getAttribute('data-dur')
-                    initialDur = initialDur.replace('ms', '')
-                    this.setAttribute('dur', Number(initialDur) * 1 / Number(playbackSpeed) + 'ms')
-                }
-            })
-        })
+    v1x = x2 * 2
+    v1y = y2 * 2
+    d = x1 - v1x + x3
+    d1 = y1 - v1y + y3
+    e = v1x - 2 * x1
+    e1 = v1y - 2 * y1
+    c1 = (a = 4 * (d * d + d1 * d1))
+    c1 += (b = 4 * (d * e + d1 * e1))
+    c1 += (c = e * e + e1 * e1)
+    c1 = 2 * Math.sqrt(c1)
+    a1 = 2 * a * (u = Math.sqrt(a))
+    u1 = b / u
+    a = 4 * c * a - b * b
+    c = 2 * Math.sqrt(c)
+
+    return (a1 * c1 + u * b * (c1 - c) + a * Math.log((2 * u + u1 + c1) / (u1 + c))) / (4 * a1)
+} 
+
+function getCubicBezierLength(Ax, Ay, Bx, By, Cx, Cy, Dx, Dy, sampleCount) {
+    var ptCount = sampleCount || 40
+    var totDist = 0
+    var lastX = Ax
+    var lastY = Ay
+    var dx, dy
+
+    for (var i = 1; i < ptCount; i++) {
+        var pt = cubicQxy(i / ptCount, Ax, Ay, Bx, By, Cx, Cy, Dx, Dy)
+        dx = pt.x - lastX
+        dy = pt.y - lastY
+        totDist += Math.sqrt(dx * dx + dy * dy)
+        lastX = pt.x
+        lastY = pt.y
+    }
+
+    dx = Dx - lastX
+    dy = Dy - lastY
+
+    totDist += Math.sqrt(dx * dx + dy * dy)
+    return totDist
+}
+
+function cubicQxy(t, ax, ay, bx, by, cx, cy, dx, dy) {
+    ax += (bx - ax) * t
+    bx += (cx - bx) * t
+    cx += (dx - cx) * t
+    ax += (bx - ax) * t
+    bx += (cx - bx) * t
+    ay += (by - ay) * t
+    by += (cy - by) * t
+    cy += (dy - cy) * t
+    ay += (by - ay) * t
+    by += (cy - by) * t
+
+    return ({
+        x: ax + (bx - ax) * t,
+        y: ay + (by - ay) * t
     })
 }
