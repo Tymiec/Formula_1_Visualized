@@ -36,7 +36,8 @@ def update_graph(selected_race):
     filtered_races['csum'] = filtered_races.groupby(['driverId'])['points'].cumsum()
     line_fig = px.line(filtered_races, 
     x="raceId", y="csum", 
-    color="driverId", 
+    color="driverId",
+    labels={"driverId" : "Driver","csum" : "Championship points"}, 
     markers=False, 
     height=900, 
     template='plotly_dark',
