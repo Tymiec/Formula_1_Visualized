@@ -5,3 +5,6 @@ Opisy plików:
 - lap_times_named.csv (rozszerzenie pliku lap_times z dodanymi nazwiskami)
 - lap_times_named_v2.csv ()
 - results_modified (rozszerzenie pliku results) 
+
+> Zaktualizowano 04.05.2022
+

@@ -84,4 +84,4 @@ style Przyciski fill:#32751B
 style Strona fill:#32751B
 ```
 
-> Zaktualizowano 02.05.2022
+> Zaktualizowano 04.05.2022
