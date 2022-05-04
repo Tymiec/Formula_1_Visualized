@@ -17,7 +17,7 @@ app = dash.Dash()
 app.layout = html.Div(children=[
     html.H1(children="F1 Visualized"), 
     dcc.Dropdown(id="race-dropdown",
-                 options=[{"label": i, "value": i} for i in races["year"].unique()],
+                 options=[{"label": i, "value": i} for i in races["year_x"].unique()],
                  value="2021",#2021 Imola GP for testing #FIXME: Value nie działa, trzeba zreloadować wykres
                  style={"background-color" : "#ff0"}, 
                  ),
@@ -31,11 +31,11 @@ app.layout = html.Div(children=[
     Input(component_id="race-dropdown", component_property="value")
 )
 def update_graph(selected_race):
-    filtered_races = races[races["year"] == selected_race]
+    filtered_races = races[races["year_x"] == selected_race]
     filtered_races = filtered_races.sort_values(by="raceId")
     filtered_races['csum'] = filtered_races.groupby(['driverId'])['points'].cumsum()
     line_fig = px.line(filtered_races, 
-    x="circuitId", y="csum", 
+    x="raceId", y="csum", 
     color="surname",
     labels={"surname" : "Driver","csum" : "Championship points", "raceId" : "Race number in the season"}, 
     markers=False, 
