@@ -11,7 +11,6 @@ Proponowane wizualizacje:
 - [X] Graf pokazujący liczbę punktów kierowców w czasie sezonu
 - [X] Graf pokazujący liczbę punktów zespołu w czasie sezonu
 - [ ] Animacja pokazująca pozycje na torze w czasie wyścigu
-- [ ] Najszybsze okrążenia na danym torze w ciągu 70 lat
 - [ ] Pit stopy na danym wyścigu
 - [ ] Czasy kwalifikacji dla danego wyścigu z podziałem na Q1/Q2/Q3
 - [ ] Heatmap jako mapa świata pokazujący w czasie ile wyścigów odbyło się w danym kraju
@@ -22,6 +21,10 @@ Proponowane wizualizacje:
 - [ ] Suma okrążeń przejechanych przez kierowcę od początku kariery i pokazywać wszystkich kierowców 
 - [ ] Graf pokazujący średni wiek kierowców w danym sezonie (?)
 
+<!-- 
+Odrzucone propozycje:
+- [ ] Najszybsze okrążenia na danym torze w ciągu 70 lat 
+-->
 
 ## Foldery
 Sources:
