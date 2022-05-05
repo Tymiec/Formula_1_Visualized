@@ -55,6 +55,8 @@ def update_graph(selected_race,graph_type):
         filtered_races = races[races["year"] == selected_race]
         filtered_races = filtered_races.sort_values(by="raceId")
         filtered_races['csum'] = filtered_races.groupby(['constructorId'])['points'].cumsum()
+        filtered_races = filtered_races.drop_duplicates(subset = ['constructorId','raceId'] , keep = 'last')
+        print(filtered_races)
         line_fig = px.line(filtered_races, 
         x="raceId", y="csum", 
         color="constructor",
