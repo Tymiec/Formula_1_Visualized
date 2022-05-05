@@ -8,7 +8,8 @@ Stworzenie strony internetowej które zwizualizuje 70 lat Formuły 1.
 Proponowane wizualizacje:
 - [x] Graf pokazujący zmiany czasów według okrążenia (lap_times_graph)
 - [x] Graf pokazujący zmiany pozycji według okrążenia (position_graph)
-- [ ] Graf pokazujący liczbę punktów kierowców w czasie sezonu
+- [X] Graf pokazujący liczbę punktów kierowców w czasie sezonu
+- [X] Graf pokazujący liczbę punktów zespołu w czasie sezonu
 - [ ] Animacja pokazująca pozycje na torze w czasie wyścigu
 - [ ] Najszybsze okrążenia na danym torze w ciągu 70 lat
 - [ ] Pit stopy na danym wyścigu
