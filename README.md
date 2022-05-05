@@ -21,7 +21,6 @@ Proponowane wizualizacje:
 - [ ] Ilość punktów zdobywana przez kierowcę co sezon
 - [ ] Suma okrążeń przejechanych przez kierowcę od początku kariery i pokazywać wszystkich kierowców 
 - [ ] Graf pokazujący średni wiek kierowców w danym sezonie (?)
-- [ ] Fastest lap speed na danym torze przez 70 lat (?)
 
 
 ## Foldery
