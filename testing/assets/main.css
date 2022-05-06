@@ -133,6 +133,8 @@ main nav div {
 main nav div#graph_type {
     display: flex;
     justify-content: space-evenly;
+    opacity: 0;
+    transition: 100ms;
 }
 
 main nav div label {
