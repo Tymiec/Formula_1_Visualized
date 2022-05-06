@@ -52,7 +52,7 @@ app.layout = html.Div(children=[
         html.Nav(children=[
             html.Div(children=[
                 html.Label(children='RaceId'),
-                dcc.Input(id="race-dropdown", type='number', min=1, max=1096, value=1069, placeholder='raceId')
+                dcc.Input(id="universal_input", type='number', min=1, max=1096, value=1069, placeholder='raceId')
             ]),
             dcc.RadioItems(
                 ['drivers', 'constructors'],
@@ -67,7 +67,7 @@ app.layout = html.Div(children=[
 @app.callback(
     Output(component_id="graph", component_property="figure"),
     Input('graph_select', 'value'),
-    Input(component_id="race-dropdown", component_property="value"),
+    Input(component_id="universal_input", component_property="value"),
     Input('graph_type', 'value')
 )
 

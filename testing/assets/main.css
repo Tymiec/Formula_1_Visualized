@@ -70,6 +70,7 @@ header div span.stripes:nth-of-type(3) {
 header nav {
     width: calc(100% - 450px);
     height: 100%;
+    transition: 100ms;
 }
 
 header nav div {
