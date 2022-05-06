@@ -7,7 +7,7 @@ customOnLoad = setInterval(function () {
 
         const nav = document.querySelector('main nav')
         const input = nav.querySelector('input')
-        const label = nav.querySelector('input')
+        const label = nav.querySelector('label')
     
         btns[0].addEventListener('mouseup', function() {
             console.log('test')
@@ -30,9 +30,10 @@ customOnLoad = setInterval(function () {
             label.innerHTML = 'RaceId'
             graphType.style.opacity = 0
         })
-
+        
         btns[2].addEventListener('mouseup', function () {
             console.log('test')
+            label.innerHTML = 'RaceId'
             nav.style.opacity = '0'
         })
 
