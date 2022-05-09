@@ -6,9 +6,10 @@ html, body {
     overflow-x: hidden;
     color: #fff;
     font-family: 'Titillium Web', sans-serif;
+    background-color: #111;
 }
 
-header {
+header, footer {
     width: 100vw;
     height: 75px;
     display: flex;
@@ -105,7 +106,6 @@ header nav div label input {
 main {
     width: 90vw;
     height: calc(100vh - 75px);
-    background-color: #111;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -161,3 +161,27 @@ main nav div:not(#graph_type) input {
     padding: 12px 20px;
 }
 
+section {
+    width: 80%;
+    margin: auto;
+    padding-bottom: 50px;
+}
+
+section article div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 25px 0;
+}
+
+section article div:nth-of-type(even) {
+    flex-direction: row-reverse;
+}
+
+section article div p {
+    width: 50%;
+}
+
+section article div img {
+    width: 40%;
+}

@@ -1,9 +1,8 @@
-from email.policy import default
+
 import dash
 import pandas as pd
 import plotly.express as px
 from dash import dcc, html, Input, Output
-from dash.dependencies import Input, Output
 import plotly.graph_objects as go
 
 # Ładujemy naszą csvke
@@ -61,7 +60,8 @@ app.layout = html.Div(children=[
                 inline=True
             ),
         ]),
-    ])
+    ]),
+    html.Section()
 ])
 
 @app.callback(
