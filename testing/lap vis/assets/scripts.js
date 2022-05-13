@@ -4,7 +4,6 @@ let ctx
 
 let fps = 60
 let percent = 0
-let direction = 1
 let pathSegments = []
 
 checkMain = setInterval(function() {
@@ -22,7 +21,7 @@ async function loadTrack() {
         .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
         .then(xml => {
             path = xml.querySelector('svg path').getAttribute('d')
-            let canvas = document.querySelector('canvas')
+            let canvas = document.querySelector('canvas#track')
             canvas.setAttribute('data-path', path)
 
             let svg = xml.querySelector('svg')
@@ -31,7 +30,7 @@ async function loadTrack() {
             svg.style.display = 'none'
         })
 
-    canvas = document.querySelector('canvas')
+    canvas = document.querySelector('canvas#track')
     path = canvas.getAttribute('data-path')
     ctx = canvas.getContext('2d')
     ctx.strokeStyle = '#fff'
@@ -47,58 +46,76 @@ async function loadTrack() {
     dummyPath.setAttribute('d', path)
     let fullPathTotalLenght = Number(dummyPath.getTotalLength())
     let previousTotalLength = 0
-
-    pathSegments = [] // TODO: change controlPoints to absolute (not relative) points
-    let lastPathSegment = []
     
+    pathSegments = [] // TODO: change controlPoints to absolute (not relative) points and change S/s to C/c
+    let currentPoint = [0, 0]
+    let previousSegment
+
     for (let i = 0; i < commands.length; i++) {
         if (Number.isNaN(Number(commands[i]))) {
             i++
-
-            let pathSegment = { 
-                command: '0', 
-                controlPt0: NaN,
-                controlPt1: NaN,
-                controlPt2: NaN,
-                controlPt3: NaN,
-                controlPt4: NaN,
-                controlPt5: NaN,
-                length: NaN
-            } 
-
+            
+            let pathSegment = { command: '',  controlPt0: NaN, controlPt1: NaN, controlPt2: NaN, controlPt3: NaN, controlPt4: NaN, controlPt5: NaN, percent: NaN, accumulatedPercent: NaN, org: '' } 
             pathSegment['command'] = commands[i - 1]
-
+            pathSegment['org'] = commands[i]
+            
             let controlPts = commands[i].split(new RegExp('(,|-)'))
             let counter = 0
             
             for (let j = 0; j < controlPts.length; j++) {
+                let negativeMultiplier = 1
+                
                 if (controlPts[j] == '-') {
                     j++
-                    pathSegment['controlPt' + counter++] = -Number(controlPts[j])
-                } else if (Number.isInteger(Number(controlPts[j][0]))) {
-                    pathSegment['controlPt' + counter++] = Number(controlPts[j])
+                    negativeMultiplier = -1
+                }
+                
+                if (!isNaN(controlPts[j]) && !isNaN(parseFloat(controlPts[j]))) {
+                    if (pathSegment['command'].toLocaleLowerCase() == 's' && counter == 0) {
+                        let delta = previousSegment['controlPt4'] - previousSegment['controlPt2']
+                        pathSegment['controlPt' + counter] = previousSegment['controlPt4'] + delta
+                        counter++
+
+                        delta = previousSegment['controlPt5'] - previousSegment['controlPt3']
+                        pathSegment['controlPt' + counter] = previousSegment['controlPt5'] + delta
+                        counter++
+                    }
+
+                    if (pathSegment['command'] == pathSegment['command'].toLocaleLowerCase()) {
+                        pathSegment['controlPt' + counter] = (currentPoint[counter % 2] + (Number(controlPts[j])) * negativeMultiplier)
+                    } else {
+                        pathSegment['controlPt' + counter] = (Number(controlPts[j]) * negativeMultiplier)
+                    }
+
+                    previousSegment = pathSegment
+                    counter++
                 }
             }
-            
+
+            currentPoint = [pathSegment['controlPt' + (counter - 2)], pathSegment['controlPt' + ((counter - 2) + 1)]]
+
             accumulatedPath += commands[i - 1] + commands[i]
             let dummyPath = document.createElementNS('http://www.w3.org/2000/svg', 'path');
             dummyPath.setAttribute('d', accumulatedPath)
             
-            let totalLenght = Number(dummyPath.getTotalLength())
-            pathSegment['length'] = (totalLenght - previousTotalLength) / fullPathTotalLenght
+            let totalLenght = Number(dummyPath.getTotalLength()) * 100
+            pathSegment['percent'] = (totalLenght - previousTotalLength) / fullPathTotalLenght
+            pathSegment['accumulatedPercent'] = totalLenght / fullPathTotalLenght
             previousTotalLength = totalLenght
 
             pathSegments.push(pathSegment)
         }
     }
 
+    console.log(pathSegments)
+
     // start the animation
     animate()
 }
 
-function animate() {
+function animate(time) {
     // set the animation position (0-100)
-    percent += direction
+    percent += 0.1
 
     if (percent > 100) {
         percent = 0
@@ -107,96 +124,69 @@ function animate() {
     draw(percent)
 
     // request another frame
-    setTimeout(function () {
-        requestAnimationFrame(animate)
-    }, 1000 / fps)
+    setTimeout(function () { requestAnimationFrame(function() { animate(1000)  }) }, time / fps)
 }
 
 
 // draw the current frame based on sliderValue
 function draw(sliderValue) {
-    let canvas = document.querySelector('canvas')
+    let canvas = document.querySelector('canvas#driver')
     let ctx = canvas.getContext('2d')
     
-    // redraw path
     ctx.clearRect(0, 0, canvas.width, canvas.height)
     ctx.lineWidth = 4
-
-    path = canvas.getAttribute('data-path')
-    let p = new Path2D(path)
-    ctx.stroke(p)
 
     // draw the tracking rectangle
     let sumPercent = 0
     let index = 0
+    let startPoint = [ NaN, NaN ]
     
     while (sliderValue > sumPercent) {
-        if (index == pathSegments.length)
+        if (index == pathSegments.length) // Prevent errors caused by rounding error
             break
         
-        if (!Number.isNaN(pathSegments[index].length))
-            sumPercent += pathSegments[index++].length * 100
+        if (!Number.isNaN(pathSegments[index]['percent']))
+            sumPercent += pathSegments[index++]['percent']
     }
     
     index--
-    console.log(pathSegments[index])
+    let previousSegment = pathSegments[index - 1]
+    
+    if (previousSegment == undefined) 
+        return
 
-    /*
-    if (sliderValue < 25) {
-        var percent = sliderValue / 24;
-        xy = getLineXYatPercent({
-            x: 100,
-            y: 20
-        }, {
-            x: 200,
-            y: 160
-        }, percent);
-    } else if (sliderValue < 50) {
-        var percent = (sliderValue - 25) / 24
-        xy = getQuadraticBezierXYatPercent({
-            x: 200,
-            y: 160
-        }, {
-            x: 230,
-            y: 200
-        }, {
-            x: 250,
-            y: 120
-        }, percent);
-    } else if (sliderValue < 75) {
-        var percent = (sliderValue - 50) / 24
-        xy = getCubicBezierXYatPercent({
-            x: 250,
-            y: 120
-        }, {
-            x: 290,
-            y: -40
-        }, {
-            x: 300,
-            y: 200
-        }, {
-            x: 400,
-            y: 150
-        }, percent);
-    } else {
-        var percent = (sliderValue - 75) / 25
-        xy = getLineXYatPercent({
-            x: 400,
-            y: 150
-        }, {
-            x: 500,
-            y: 90
-        }, percent);
+    if (previousSegment['command'].toLocaleLowerCase() == 'm' || previousSegment['command'].toLocaleLowerCase() == 'l')
+        startPoint = [previousSegment['controlPt0'], previousSegment['controlPt1']]
+    else if (previousSegment['command'].toLocaleLowerCase() == 'c') 
+        startPoint = [previousSegment['controlPt4'], previousSegment['controlPt5']]
+    else if (previousSegment['command'].toLocaleLowerCase() == 's') 
+        startPoint = [previousSegment['controlPt2'], previousSegment['controlPt3']]
+
+    let tempPercent = (sliderValue - pathSegments[index - 1]['accumulatedPercent']) / pathSegments[index]['percent']
+
+    if (pathSegments[index]['command'].toLocaleLowerCase() == 'l') {
+        xy = getLineXYatPercent({ x: startPoint[0], y: startPoint[1] }, { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] }, tempPercent)
+    } else if (pathSegments[index]['command'].toLocaleLowerCase() == 'c') {  
+        xy = getCubicBezierXYatPercent(
+            { x: startPoint[0], y: startPoint[1] }, 
+            { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] },
+            { x: pathSegments[index]['controlPt2'], y: pathSegments[index]['controlPt3'] },
+            { x: pathSegments[index]['controlPt4'], y: pathSegments[index]['controlPt5'] },
+        tempPercent)
+    } else if (pathSegments[index]['command'].toLocaleLowerCase() == 's') {
+        xy = getCubicBezierXYatPercent(
+            { x: startPoint[0], y: startPoint[1] }, 
+            { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] },
+            { x: pathSegments[index]['controlPt2'], y: pathSegments[index]['controlPt3'] },
+            { x: pathSegments[index]['controlPt4'], y: pathSegments[index]['controlPt5'] },
+        tempPercent)
     }
-    */
 
-    drawDot(xy, '#f00')
+    drawDot(xy, '#f00', ctx)
 }
 
 // draw tracking dot at xy
-function drawDot(point, color) {
-    let canvas = document.querySelector('canvas')
-    let ctx = canvas.getContext('2d')
+function drawDot(point, color, ctx) {
     ctx.fillStyle = color
     ctx.beginPath()
     ctx.arc(point.x, point.y, 8, 0, Math.PI * 2, false)
@@ -210,6 +200,8 @@ function getLineXYatPercent(startPt, endPt, percent) {
     let dy = endPt.y - startPt.y
     let X = startPt.x + dx * percent
     let Y = startPt.y + dy * percent
+
+    //console.log(X, Y, percent)
 
     return ({
         x: X,
@@ -245,3 +237,5 @@ function CubicN(pct, a, b, c, d) {
     let t3 = t2 * pct
     return a + (-a * 3 + pct * (3 * a - a * pct)) * pct + (3 * b + pct * (-6 * b + b * 3 * pct)) * pct + (c * 3 - c * 3 * pct) * t2 + d * t3
 }
+
+function lastCommandWasCurve(command) { return ( command.toLocaleLowerCase() == 'c' || command.toLocaleLowerCase() == 's') }

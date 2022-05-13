@@ -119,6 +119,7 @@ main div#graph div.plot-container {
 main div.wrapper {
     width: calc(100vh - 75px);
     height: calc(100vh - 75px);
+    position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -128,6 +129,7 @@ main div.wrapper canvas {
     width: 100%;
     height: 100%;
     margin-top: 20vh;
+    position: absolute;
 }
 
 main nav {
@@ -160,7 +162,7 @@ main nav div:not(#speed) label {
     padding: 0 10px;
 }
 
-main nav div#year input, main nav div#track select {
+main nav div#yearSelector input, main nav div#trackSelector select {
     width: 100%;
     border: 1px #fff solid;
     border-radius: 100px;
@@ -170,16 +172,16 @@ main nav div#year input, main nav div#track select {
     padding: 12px 20px;
 }
 
-main nav div#track select option {
+main nav div#trackSelector select option {
     color: #111;
 }
 
-main nav div#speed label {
+main nav div#speedSelector label {
     left: 5px;
     font-weight: 300;
 }
 
-main nav div#speed input {
+main nav div#speedSelector input {
     width: 80%;
     margin-top: 25px;
 }
