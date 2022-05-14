@@ -2,16 +2,16 @@
 <!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1"
 	 id="svg2383" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:version="0.32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 847.6 893.2"
-	 style="enable-background:new 0 0 847.6 893.2;" xml:space="preserve">
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"
+	 style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
 	.st1{fill:#FFFFFF;}
 	.st2{fill:none;stroke:#FFFFFF;stroke-width:12;stroke-linejoin:round;}
 	.st3{fill:none;stroke:#C8C8C8;stroke-width:10;stroke-linejoin:round;}
-	.st4{fill:none;stroke:#000000;stroke-width:11.8;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#000000;stroke-width:8;stroke-linejoin:round;}
 	.st5{fill:none;stroke:#C8C8C8;stroke-width:3.9;stroke-linejoin:round;}
-	.st6{fill:none;stroke:#000000;stroke-width:5.8;stroke-linejoin:round;}
+	.st6{fill:none;stroke:#000000;stroke-width:4;stroke-linejoin:round;}
 	.st7{fill:#FF0000;stroke:#FFFFFF;stroke-width:0.8381;stroke-linecap:round;}
 	.st8{fill:url(#rect3457_1_);stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;}
 </style>
@@ -25,12 +25,12 @@
 		</g>
 	</g>
 </pattern>
-<path id="path3185" sodipodi:nodetypes="cc" class="st2" d="M274,598.6c-0.3-1.2-20.6-106.2-20.6-106.2"/>
-<path id="path3183" inkscape:connector-curvature="0" sodipodi:nodetypes="ccscccc" class="st3" d="M274.3,597.8
+<path id="path3185" sodipodi:nodetypes="cc" class="st2" d="M353.8,651.5c-0.3-1.2-20.6-106.2-20.6-106.2"/>
+<path id="path3183" inkscape:connector-curvature="0" sodipodi:nodetypes="ccscccc" class="st3" d="M354.1,650.7
 	c0.9-6.2,6-16.8,9.9-19.9c4.1-2.8,10.5-10.9,13.5-14.2c2.9-3.3,4.5-7.3,6.1-11.2c0.8-4.7-0.6-14.1-2.5-18.1
 	c-4.1-6.8-17.1-15.8-23.8-16.9c-4.5-1.7-16.1-3.6-20.5-11.4"/>
 <path id="track" inkscape:connector-curvature="0" sodipodi:nodetypes="sssssssssssssssccssssssssssssssssssssssssssssssssssss" class="st4" d="
-	M321.9,863.9c-96.1-0.7-181.1,1.2-276.4-0.4c-9.2-0.2-16-5.8-19.8-13.1c-1.6-3-3.7-10.1-2.6-17.9c0.8-5.3,9-14.6,13.4-18.2
+	M401.7,916.8c-96.1-0.7-181.1,1.2-276.4-0.4c-9.2-0.2-16-5.8-19.8-13.1c-1.6-3-3.7-10.1-2.6-17.9c0.8-5.3,9-14.6,13.4-18.2
 	c17.9-14.4,28-23.8,48.1-35.3c14.6-8.4,25.7-16,41.8-21.1c14.2-4.5,35.3-9.1,50.2-9.5c66-2,119.1-0.5,184.8-2.9
 	c8.9-0.3,22.7-1.8,30-6.2c6.4-3.8,16.6-13.4,19.1-28.6c1.5-9.3-0.5-22.9-4.3-28.8c-9-13.8-15.5-18.5-23.2-22.5
 	c-29.4-15.2-67.4-22.3-95.2-39c-9.3-5.6-12.3-17.6-14.3-26.2c-7.2-31.1-5.7-28.4-9.7-50.7c-5.9-29.7-7.5-38.6-13-62.3
@@ -42,18 +42,18 @@
 	c11.5,5.9,23.7,19.2,23.9,32.3c2.1,112.1-3.9,214.5-12.6,329.9c-0.7,9.1-4.9,21-16.2,19.9c-29.9-3-74.2-8.2-105.2-11.2
 	c-26.9-2.6-51.5-3.4-76.9,1.2c-7.4,1.3-15,8.1-19,14.7c-4,6.6-4.5,18.3-3.1,25.2c1.4,7.4,6.6,15.4,13,20.7c6.7,5.5,13.8,9.7,22.6,10
 	c44.5,1.7,68-1.4,110.1-0.6c8.9,0.2,28.9,2.9,38.4,12.2c14.5,14.2,19.1,22.6,21.9,34.6c2.4,10.3-0.3,23-5.2,32.8
-	c-5.4,10.6-14.9,21.4-25.1,27.5c-11.3,6.7-26.8,7.6-40.4,7.6C587,861.7,454.7,864.8,321.9,863.9L321.9,863.9z"/>
-<path id="path3181" inkscape:connector-curvature="0" sodipodi:nodetypes="csssss" class="st5" d="M700.9,845
+	c-5.4,10.6-14.9,21.4-25.1,27.5c-11.3,6.7-26.8,7.6-40.4,7.6C666.8,914.6,534.5,917.7,401.7,916.8L401.7,916.8z"/>
+<path id="path3181" inkscape:connector-curvature="0" sodipodi:nodetypes="csssss" class="st5" d="M780.7,897.9
 	c-6.3-5.9-17.7-15.8-20.5-17.6c-3.1-2-16.4-0.1-28.1,3c-4.8,1.3-10.1,2.9-17.6,5.3c-5.4,1.7-20.9,7.5-26.2,9.2
 	c-5.1,1.6-11.4,3.3-20.1,3.7"/>
-<path id="pit" inkscape:connector-curvature="0" sodipodi:nodetypes="csssssssccssssss" class="st6" d="M655.9,750.2
+<path id="pit" inkscape:connector-curvature="0" sodipodi:nodetypes="csssssssccssssss" class="st6" d="M735.7,803.1
 	c17.8-0.9,41.2,3.1,59,4.5c11.2,0.8,23.9,3.3,34.3,6.3c6.4,1.9,14.9,8.8,19.3,13.9c5.1,5.9,7.8,10.9,9.6,18.4c1.7,6.8,1,12.9-0.6,20
 	c-1.4,6.5-4.4,12.6-8.7,17.2c-4.5,4.9-14,9.2-20.6,11.4c-11.8,4-20.3,4.8-39,4.9c-16.7-0.3-20.6-0.1-28.2,0
 	c-38.6,1.6-56.6,1.7-87,1.3c-8.6-0.1-39.3,3.8-47.8,3.8c-84.6-0.2-170.7-0.5-255.6-0.3c-26.9,0-80.3,4.3-80.3,4.3
 	c-19.6,1.5-24.3,2.3-28.1,2.5c-14.1,0.6-19.2,2.3-36.3,2.9"/>
 <path id="path3463" inkscape:flatsided="true" inkscape:randomized="0" inkscape:rounded="0" sodipodi:arg1="0.52359878" sodipodi:arg2="1.5707963" sodipodi:cx="1683.6964" sodipodi:cy="1391.4535" sodipodi:r1="14.134234" sodipodi:r2="7.0671172" sodipodi:sides="3" sodipodi:type="star" class="st7" d="
-	M621.1,875.6l-0.4,12.6l-32.8-7.3L621.1,875.6z"/>
-<pattern  id="rect3457_1_" xlink:href="#pattern4166" patternTransform="matrix(0.4561 1.200455e-02 1.200455e-02 -0.4561 -3715.8459 -12917.8174)">
+	M700.9,928.5l-0.4,12.6l-32.8-7.3L700.9,928.5z"/>
+<pattern  id="rect3457_1_" xlink:href="#pattern4166" patternTransform="matrix(0.4561 1.200455e-02 1.200455e-02 -0.4561 -3710.6521 -12760.9912)">
 </pattern>
-<polygon id="rect3457" class="st8" points="569.6,830.1 582.6,830.4 581.2,884 568.2,883.7 "/>
+<polygon id="rect3457" class="st8" points="649.4,883 662.4,883.3 661,936.9 648,936.6 "/>
 </svg>
