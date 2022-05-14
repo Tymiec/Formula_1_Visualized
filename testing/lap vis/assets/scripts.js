@@ -2,33 +2,57 @@ let main
 let canvas
 let ctx
 
-let fps = 60
 let percent = 0
 let pathSegments = []
 
-checkMain = setInterval(function() {
+let simSpeed = 1
+
+chstomOnLoad = setInterval(function() {
     main = document.querySelector('main')
     
     if (main != null) {
         loadTrack()
-        clearInterval(checkMain)
+        // loadDrivers()
+        animate(1 / simSpeed)
+        clearInterval(chstomOnLoad)
     }
 }, 300)
 
 async function loadTrack() {
-    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/f7b328f0198cfdab2c7d2356597418cd5a12d46f/testing/lap%20vis/N%C3%BCrburgring.svg')
+    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/lap%20vis/2.svg')
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
         .then(xml => {
-            path = xml.querySelector('svg path').getAttribute('d')
+            path = xml.querySelector('svg path#track').getAttribute('d')
+            let viewBox = xml.querySelector('svg').getAttribute('viewBox')
+            let size = viewBox.split(' ')
+            console.log(size)
+
             let canvas = document.querySelector('canvas#track')
             canvas.setAttribute('data-path', path)
+            canvas.setAttribute('width', size[2])
+            canvas.setAttribute('height', size[3])
+
+            // TESTING
+            
+            let driverCanvas = document.querySelector('canvas#driver')
+            driverCanvas.setAttribute('width', size[2])
+            driverCanvas.setAttribute('height', size[3])
+
+            // TESTING
 
             let svg = xml.querySelector('svg')
             let main = document.querySelector('main')
             main.appendChild(svg)
             svg.style.display = 'none'
         })
+    
+    const speedSelector = document.querySelector('#speedSelector')
+
+    speedSelector.addEventListener('input', function() { 
+        simSpeed = Math.pow(2, this.querySelector('input').value)
+        this.querySelector('span').innerHTML = 'x' + simSpeed
+    })
 
     canvas = document.querySelector('canvas#track')
     path = canvas.getAttribute('data-path')
@@ -106,16 +130,20 @@ async function loadTrack() {
             pathSegments.push(pathSegment)
         }
     }
-
-    console.log(pathSegments)
-
-    // start the animation
-    animate()
 }
 
-function animate(time) {
+async function loadDrivers() {
+    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named_2.csv')
+        .then(response => response.text())
+        .then(text => processCSV(text))
+        .then(data => {
+
+        })
+}
+
+function animate(playbackSpeed) {
     // set the animation position (0-100)
-    percent += 0.1
+    percent += playbackSpeed
 
     if (percent > 100) {
         percent = 0
@@ -124,12 +152,11 @@ function animate(time) {
     draw(percent)
 
     // request another frame
-    setTimeout(function () { requestAnimationFrame(function() { animate(1000)  }) }, time / fps)
+    setTimeout(function () { requestAnimationFrame(function() { animate(simSpeed / 16)  }) }, 16)
 }
 
-
 // draw the current frame based on sliderValue
-function draw(sliderValue) {
+function draw(sliderValue, driver) {
     let canvas = document.querySelector('canvas#driver')
     let ctx = canvas.getContext('2d')
     
@@ -162,7 +189,7 @@ function draw(sliderValue) {
     else if (previousSegment['command'].toLocaleLowerCase() == 's') 
         startPoint = [previousSegment['controlPt2'], previousSegment['controlPt3']]
 
-    let tempPercent = (sliderValue - pathSegments[index - 1]['accumulatedPercent']) / pathSegments[index]['percent']
+    let tempPercent = (sliderValue - pathSegments[index - 1]['accumulatedPercent']) / (pathSegments[index]['percent'])
 
     if (pathSegments[index]['command'].toLocaleLowerCase() == 'l') {
         xy = getLineXYatPercent({ x: startPoint[0], y: startPoint[1] }, { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] }, tempPercent)
@@ -201,8 +228,6 @@ function getLineXYatPercent(startPt, endPt, percent) {
     let X = startPt.x + dx * percent
     let Y = startPt.y + dy * percent
 
-    //console.log(X, Y, percent)
-
     return ({
         x: X,
         y: Y
@@ -238,4 +263,24 @@ function CubicN(pct, a, b, c, d) {
     return a + (-a * 3 + pct * (3 * a - a * pct)) * pct + (3 * b + pct * (-6 * b + b * 3 * pct)) * pct + (c * 3 - c * 3 * pct) * t2 + d * t3
 }
 
-function lastCommandWasCurve(command) { return ( command.toLocaleLowerCase() == 'c' || command.toLocaleLowerCase() == 's') }
+function processCSV(allText) {
+    let allTextLines = allText.split(/\r\n|\n/)
+    let headers = allTextLines[0].split(',')
+    let lines = []
+
+    for (let i = 1; i < allTextLines.length; i++) {
+        let data = allTextLines[i].split(',')
+
+        if (data.length == headers.length) {
+            let tarr = {}
+
+            for (let j = 0; j < headers.length; j++)
+                tarr[headers[j]] = data[j]
+
+            lines.push(tarr)
+        }
+    }
+
+    console.log(lines)
+    return lines
+}

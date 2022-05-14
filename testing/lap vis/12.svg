@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:output_extension="org.inkscape.output.svg.inkscape" sodipodi:version="0.32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 454.8 223.2"
+	 style="enable-background:new 0 0 454.8 223.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.96;fill:none;stroke:#000000;stroke-width:7;stroke-linejoin:round;enable-background:new    ;}
+	.st1{opacity:0.96;fill:none;stroke:#000000;stroke-width:3.9;stroke-linejoin:round;enable-background:new    ;}
+	.st2{opacity:0.96;fill:#D2232A;enable-background:new    ;}
+	.st3{opacity:0.96;fill:#FFFFFF;enable-background:new    ;}
+	.st4{opacity:0.96;enable-background:new    ;}
+	.st5{fill:#009FFF;stroke:#0099FF;}
+</style>
+<path id="track" inkscape:connector-curvature="0" sodipodi:nodetypes="csccccsccccccsssccscccccccccc" class="st0" d="M422.8,60.1
+	c-38.9-12.1-74.5,1.7-88.2,17.4c-34.3,39.5-57.4,87-92.5,123.3l-9.5-8.9h-10.1c-5.2,8.1-10.8,16.6-20.7,27.8
+	c-19.7-13.8-40.7-32.4-67.4-29.6c-37.9,4.1-75.2,21.7-109.4,26.6c-5.5,0.7-7.9-3.1-7.1-7.1l22.5-16.6l3.5-21.9l20.7-16l51.4,12.4
+	c0,0,11.4,6.6,17.7,8.3c9.8,2.6,20.1,3.6,30.2,2.4c7.4-0.9,13.8-6.8,21.3-7.1c8.9-0.4,25.9,6.1,25.9,6.1c-18-31.3-38.8-61-45.5-97.1
+	c0.1-1.2-0.6-6.8,3.6-14.5s13.4-17.5,18.8-23.3L205,26.1c2.6-2,9.2-5.8,12.1-3.7l2.7,9.7l59.5,1.5l5.3-12.4l37.3,0.6
+	c30.7-14.5,61.3-29,113.5-6.5l-11.4,11.3L422.8,60.1z"/>
+<path id="pit" inkscape:connector-curvature="0" sodipodi:nodetypes="csczc" class="st1" d="M205.6,176.9
+	c12.3,6.3,11.9-3.4,11.4-4.7c-3.2-8.6-34.4-47.9-42.1-87c0,0-1.1-6.3-0.7-10.2C174.6,71.1,185,48,185,48"/>
+<path id="path2832" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccc" class="st2" d="M166.7,128.2l-2.6-16.1l10.3,12
+	l-8.4,4.2L166.7,128.2z"/>
+<g>
+	<path id="path2907" class="st3" d="M176.5,140l26.1-13.8l4.3,9.1L181,149.1L176.5,140L176.5,140z"/>
+	<polygon id="rect2842" class="st4" points="176.3,140 179.2,138.3 180.8,141.5 177.8,143.1 	"/>
+	<polygon id="rect2850" class="st4" points="182.2,137.1 185.2,135.4 186.7,138.6 183.8,140.2 	"/>
+	<polygon id="rect2858" class="st4" points="188.2,133.8 191.1,132.2 192.6,135.3 189.7,137 	"/>
+	<polygon id="rect2866" class="st4" points="194.1,130.8 197.1,129.2 198.6,132.3 195.7,133.9 	"/>
+	<polygon id="rect2874" class="st4" points="199.8,127.8 202.7,126.1 204.2,129.3 201.3,130.9 	"/>
+	<polygon id="rect2836" class="st4" points="199.8,127.8 202.7,126.1 204.2,129.3 201.3,130.9 	"/>
+	<polygon id="rect2844" class="st4" points="180.8,141.5 183.7,139.8 185.2,143 182.3,144.6 	"/>
+	<polygon id="rect2852" class="st4" points="186.4,138.4 189.3,136.8 190.9,139.9 187.9,141.6 	"/>
+	<polygon id="rect2860" class="st4" points="192.4,135.2 195.3,133.6 196.8,136.7 193.9,138.3 	"/>
+	<polygon id="rect2868" class="st4" points="198.3,132.2 201.3,130.5 202.8,133.7 199.9,135.3 	"/>
+	<polygon id="rect2846" class="st4" points="179.4,146.1 182.3,144.4 183.9,147.6 180.9,149.2 	"/>
+	<polygon id="rect2854" class="st4" points="185,143 188,141.4 189.5,144.5 186.6,146.2 	"/>
+	<polygon id="rect2862" class="st4" points="191,139.8 193.9,138.2 195.5,141.3 192.5,142.9 	"/>
+	<polygon id="rect2870" class="st4" points="197,136.8 199.9,135.1 201.4,138.3 198.5,139.9 	"/>
+	<polygon id="rect2878" class="st4" points="202.6,133.7 205.5,132.1 207.1,135.2 204.1,136.9 	"/>
+	<polygon id="rect2840" class="st4" points="202.6,133.7 205.5,132.1 207.1,135.2 204.1,136.9 	"/>
+	<polygon id="rect2848" class="st4" points="179.4,146.1 182.3,144.4 183.9,147.6 180.9,149.2 	"/>
+	<polygon id="rect2856" class="st4" points="185,143 188,141.4 189.5,144.5 186.6,146.2 	"/>
+	<polygon id="rect2864" class="st4" points="191,139.8 193.9,138.2 195.5,141.3 192.5,142.9 	"/>
+	<polygon id="rect2872" class="st4" points="197,136.8 199.9,135.1 201.4,138.3 198.5,139.9 	"/>
+	<polygon id="rect2880" class="st4" points="202.6,133.7 205.5,132.1 207.1,135.2 204.1,136.9 	"/>
+	<polygon id="rect2834" class="st4" points="202.6,133.7 205.5,132.1 207.1,135.2 204.1,136.9 	"/>
+</g>
+<path id="path3101" inkscape:connector-curvature="0" sodipodi:nodetypes="sssscccccccccczzsscsccccsssssccssssssssscs" class="st5" d="
+	M244.4,155.3c-7.8-9.2-14.7-19.2-21.3-29.3c-10-15.2-27.6-45.6-27.5-46.4c0-0.4,0.6-1.3,1-1.3c1.1,0.1,44.1,1.6,44.1,1.6l0.6,16.5
+	l8.6,0.2l0-1.9l-4.3-0.3L245,66.4l3.6-0.1l0.1-2c-2.7-0.2-5.8,0.1-8-0.1l0.1,11c0,0-41,0.5-44.3-1.4s-2.4-3.1-2.2-4.4
+	c0.2-1.4,11.6-20,20.4-27.1c1.7-1.4,3.9-2.4,6.1-2.8c6.5-1.2,63.8,1.7,63.8,1.7s9.7,0.9,14.4,0c3.5-0.7,9.9-3.9,9.9-3.9l6.6,10.8
+	l-10.5,7.7l3.6,5c0,0,15.9-11.1,24.3-16c4.2-2.4,8.5-4.7,12.9-6.6c5.8-2.5,11.9-4.7,18-6.1c6.6-1.5,13.3-2.3,20.1-2.7
+	c7.5-0.4,15,0,22.5,0.4c4.3,0.2,12.8,1,12.8,1l-0.8,22.8c0,0-4.6-1.3-6.9-1.8c-3.9-0.8-7.8-1.5-11.7-1.7c-5.3-0.3-10.7-0.2-16,0.3
+	c-4.6,0.4-9.1,1.1-13.5,2.2c-6.3,1.6-12.4,3.9-18.2,6.6c-5.7,2.7-11.2,5.9-16.3,9.7c-2.9,2.1-5.6,4.6-8,7.2
+	c-2.9,3.1-5.1,6.6-7.7,9.9c-19.2,24.4-37.8,49.3-58,72.9c-2.1,2.5-6.6,7.2-6.6,7.2S247.7,159.1,244.4,155.3L244.4,155.3z"/>
+</svg>

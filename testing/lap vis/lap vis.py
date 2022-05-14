@@ -56,8 +56,8 @@ app.layout = html.Div(children=[
             ], id='trackSelector'),
             html.Div(children=[
                 html.Label(children='Prędkość symulacji'),
-                dcc.Input(type='range', min='0', max='6', step='1', value='4', disabled=True),
-                html.Span(children='x16')
+                dcc.Input(type='range', min='0', max='5', step='1', value='0'),
+                html.Span(children='x1')
             ], id='speedSelector')
         ])
     ])
