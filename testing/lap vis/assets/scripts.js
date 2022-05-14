@@ -5,7 +5,7 @@ let ctx
 let percent = 0
 let pathSegments = []
 
-let simSpeed = 1
+let simSpeed = 6
 
 chstomOnLoad = setInterval(function() {
     main = document.querySelector('main')
@@ -19,19 +19,13 @@ chstomOnLoad = setInterval(function() {
 }, 300)
 
 async function loadTrack() {
-    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/lap%20vis/2.svg')
+    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/lap%20vis/svg/20.svg')
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
         .then(xml => {
             path = xml.querySelector('svg path#track').getAttribute('d')
-            let viewBox = xml.querySelector('svg').getAttribute('viewBox')
-            let size = viewBox.split(' ')
-            console.log(size)
-
             let canvas = document.querySelector('canvas#track')
             canvas.setAttribute('data-path', path)
-            canvas.setAttribute('width', size[2])
-            canvas.setAttribute('height', size[3])
 
             // TESTING
             
@@ -96,13 +90,25 @@ async function loadTrack() {
                 
                 if (!isNaN(controlPts[j]) && !isNaN(parseFloat(controlPts[j]))) {
                     if (pathSegment['command'].toLocaleLowerCase() == 's' && counter == 0) {
-                        let delta = previousSegment['controlPt4'] - previousSegment['controlPt2']
-                        pathSegment['controlPt' + counter] = previousSegment['controlPt4'] + delta
-                        counter++
-
-                        delta = previousSegment['controlPt5'] - previousSegment['controlPt3']
-                        pathSegment['controlPt' + counter] = previousSegment['controlPt5'] + delta
-                        counter++
+                        if (isCubicCommand(previousSegment['command'])) {
+                            let delta = previousSegment['controlPt4'] - previousSegment['controlPt2']
+                            pathSegment['controlPt' + counter] = previousSegment['controlPt4'] + delta
+                            counter++
+                            
+                            delta = previousSegment['controlPt5'] - previousSegment['controlPt3']
+                            pathSegment['controlPt' + counter] = previousSegment['controlPt5'] + delta
+                            counter++
+                        } else {
+                            pathSegment['controlPt' + counter] = currentPoint[0]
+                            counter++
+                            
+                            pathSegment['controlPt' + counter] = currentPoint[1]
+                            counter++
+                        }
+                    } else if (pathSegment['command'].toLocaleLowerCase() == 'h' && counter == 0) {
+                        pathSegment['controlPt1'] = currentPoint[1]
+                    } else if (pathSegment['command'].toLocaleLowerCase() == 'v' && counter == 0) {
+                        pathSegment['controlPt0'] = currentPoint[0]
                     }
 
                     if (pathSegment['command'] == pathSegment['command'].toLocaleLowerCase()) {
@@ -115,6 +121,9 @@ async function loadTrack() {
                     counter++
                 }
             }
+
+            if (pathSegment['command'].toLocaleLowerCase() == 'h' || pathSegment['command'].toLocaleLowerCase() == 'v')
+                counter++
 
             currentPoint = [pathSegment['controlPt' + (counter - 2)], pathSegment['controlPt' + ((counter - 2) + 1)]]
 
@@ -130,6 +139,8 @@ async function loadTrack() {
             pathSegments.push(pathSegment)
         }
     }
+
+    console.log(pathSegments)
 }
 
 async function loadDrivers() {
@@ -191,7 +202,7 @@ function draw(sliderValue, driver) {
 
     let tempPercent = (sliderValue - pathSegments[index - 1]['accumulatedPercent']) / (pathSegments[index]['percent'])
 
-    if (pathSegments[index]['command'].toLocaleLowerCase() == 'l') {
+    if (isLineCommand(pathSegments[index]['command'])) {
         xy = getLineXYatPercent({ x: startPoint[0], y: startPoint[1] }, { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] }, tempPercent)
     } else if (pathSegments[index]['command'].toLocaleLowerCase() == 'c') {  
         xy = getCubicBezierXYatPercent(
@@ -284,3 +295,6 @@ function processCSV(allText) {
     console.log(lines)
     return lines
 }
+
+function isLineCommand(command) { return (command.toLocaleLowerCase() == 'l' || command.toLocaleLowerCase() == 'h' || command.toLocaleLowerCase() == 'v') }
+function isCubicCommand(command) { return (command.toLocaleLowerCase() == 's' || command.toLocaleLowerCase() == 'c') }

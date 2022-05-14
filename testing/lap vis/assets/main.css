@@ -126,9 +126,8 @@ main div.wrapper {
 }
 
 main div.wrapper canvas {
-    width: 60vh;
-    height: 60vh;
-    margin-top: 10vh;
+    width: 70vh;
+    height: 70vh;
     position: absolute;
 }
 
