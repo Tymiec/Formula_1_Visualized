@@ -73,8 +73,10 @@ subgraph Zrobione
  Graf
  Przyciski
  Strona
+ Merge
 end
 
+style Merge fill:#32751B
 style Start1 fill:#32751B
 style Koncept fill:#32751B
 style Start_prac fill:#32751B
