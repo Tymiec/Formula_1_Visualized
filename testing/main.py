@@ -102,7 +102,7 @@ def display_graph(selected_graph, selected_race, graph_type):
             )
 
             return line_fig
-        case 'Kierowcy świata':
+        case 'Kierowcy świata': #FIXME: trzeba to dodać jako osobny case albo coś bo zostaje opis do wybranego wyścigu
             filtered_races = races[races["raceId"] == selected_race]
             fig = go.Figure(
                 data=px.choropleth(
