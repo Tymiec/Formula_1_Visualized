@@ -36,7 +36,7 @@ app.layout = html.Div(children=[
             html.Span(className='stripes'),
             html.Span(className='stripes'),
             html.Span(className='stripes')
-        ]),
+        ]),  #TODO: Dodać switch'a na przełączanie pomiędzy erami, latami
         html.Nav(children=
             dcc.RadioItems(
                 ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Rankingi'],
