@@ -5,7 +5,7 @@ from dash import dcc, html, Input, Output
 from dash.dependencies import Input, Output
 
 # Ładujemy naszą csvke
-#TODO: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków file:///D:/Repo/Wizualizacja_projekt/testing/testy_races/lap_times.csv
+
 races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named.csv")
 races = races.sort_values(by="lap") # Sortujemy dla pewności
 
@@ -18,10 +18,10 @@ app.layout = html.Div(children=[
     html.H1(children="F1 Visualized"), 
     dcc.Dropdown(id="race-dropdown",
                  options=[{"label": i, "value": i} for i in races["raceId"].unique()],
-                 value="1065",#2021 Imola GP for testing #FIXME: Value nie działa, trzeba zreloadować wykres
+                 value="1065",
                  style={"background-color" : ""}, 
                  ),
-    dcc.Graph(id="lap-times-graph")#TODO: przerobić tak aby zajmował 50% wysokości strony
+    dcc.Graph(id="lap-times-graph")
 ], style={"background-color" : ""})
 
 # Set up the callback function
@@ -42,8 +42,6 @@ def update_graph(selected_race):
     template='plotly_dark',
     title=f"Position change by lap in race: {selected_race}")
     return line_fig
-#TODO: Zmienić milisekundy na timedelte
-
 # Run local server
 
 if __name__ == "__main__":

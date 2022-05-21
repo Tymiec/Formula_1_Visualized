@@ -72,5 +72,3 @@ def update_graph(option_slctd):
 # ------------------------------------------------------------------------------
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-# TODO: zmienic zmienne, sprawdzic czy lapy jako inty działają jako select lap w ostatecznej wersji

@@ -9,7 +9,6 @@ from dash.dependencies import Input, Output
 # Ładujemy naszą csvke
 races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times.csv")
 races = races.sort_values(by="lap")
-#FIXME: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków file:///D:/Repo/Wizualizacja_projekt/testing/testy_races/lap_times.csv
 
 # Tworzymy dashową apke
 app = dash.Dash()
@@ -21,7 +20,7 @@ app.layout = html.Div(children=[
                  options=[{"label": i, "value": i} for i in races["raceId"].unique()],
                  value="1",
                  ),
-    dcc.Graph(id="lap-times-graph")#TODO: przerobić tak aby zajmował 50% wysokości strony
+    dcc.Graph(id="lap-times-graph")
 ])
 
 # Set up the callback function
@@ -34,7 +33,6 @@ def update_graph(selected_race):
     filtered_races = races[races["raceId"] == selected_race]
     line_fig = px.line(filtered_races, x="lap", y="milliseconds", color="driverId", markers=False, height=900, template='plotly_dark', title=f"Lap times in race number {selected_race}")
     return line_fig
-#TODO: Zmienić milisekundy na timedelte
 
 # Run local server
 

@@ -6,7 +6,6 @@ from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
 
 # Ładujemy naszą csvke
-#TODO: Z niewiadomych przyczyn pd.read_csv działa u mnie tylko dla linków file:///D:/Repo/Wizualizacja_projekt/testing/testy_races/lap_times.csv
 races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named.csv")
 races = races.sort_values(by="lap") # Sortujemy dla pewności
 
@@ -78,7 +77,7 @@ def display_graph(selected_graph, selected_race, graph_type):
 
             line_fig = px.line(
                 filtered_races, 
-                x="lap", y="milliseconds", 
+                x="lap", y="milliseconds", #TODO: Zmienić milisekundy na timedelte
                 color="DriverName2", 
                 labels={"DriverName2" : "Driver"},
                 markers=False, 

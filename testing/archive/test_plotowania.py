@@ -17,7 +17,6 @@ print(df[:5])
 app.layout = html.Div([
 
     html.H1("Web Application Dashboards with Dash", style={'text-align': 'center'}),
-    #TODO: Dodać switch'a na przełączanie pomiędzy erami
     dcc.Slider(2015, 2018,
     step=None,
     id="slct_year",
@@ -25,7 +24,7 @@ app.layout = html.Div([
         2015: '2015',
         2016: '2016',
         2017: '2017',
-        2018: '2018', #FIXME: Znaleźć jak zrobić aby bez dodawania marków 2017 nie zmieniało się w 2K tylko wyświetlało się całe, formatowanie
+        2018: '2018',
     },
     value=2015 #default value of slider
     ),
