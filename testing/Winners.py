@@ -33,13 +33,13 @@ app.layout = html.Div(children=[
 def update_graph(graph_type):
     print(graph_type)
     if(graph_type == 'drivers'):
-        winners = races['name_and_surname'].value_counts()
-        print(winners)
+        winners = races['Name_and_surname'].value_counts()
+        #print(winners)
         fig = px.bar(winners)
         return fig
     if(graph_type == 'constructors'):
         winners = races['constructor'].value_counts()
-        print(winners)
+        #print(winners)
         fig = px.bar(winners)
         return fig
 
