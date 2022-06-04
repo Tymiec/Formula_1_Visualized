@@ -1,0 +1,1061 @@
+﻿resultId,raceId,driverId,constructorId,number_x,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,year,driverRef,number_y,code,forename,surname,dob,nationality,url,constructor,Rok urodzenia,Wiek
+7555,1,22,23,23,2,2,2,2,8,58,0.807,5656591,43,14,01:29.1,214.344,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7578,2,22,23,23,8,5,5,5,2,31,47.36,4299452,17,2,01:37.5,204.698,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7597,3,22,23,23,4,4,4,4,5,56,+1:03.704,7127189,42,1,01:52.6,174.289,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7618,4,22,23,23,6,5,5,5,4,57,37.779,5545961,25,5,01:34.9,205.3,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7635,5,22,23,23,3,2,2,2,8,66,13.056,5852258,28,1,01:22.8,202.484,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7655,6,22,23,23,3,2,2,2,8,78,7.666,6051948,46,7,01:15.7,158.868,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7692,7,22,23,23,3,\N,R,19,0,47,\N,\N,37,14,01:28.5,217.075,6,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7696,8,22,23,23,2,3,3,3,6,60,41.175,5010503,18,5,01:21.4,227.285,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7719,9,22,23,23,2,6,6,6,3,60,24.468,5827778,54,11,01:34.7,195.749,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7743,10,22,23,23,12,10,10,10,0,70,+1:09.256,5973132,55,9,01:23.0,189.964,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7770,11,69,6,3,20,17,17,17,0,56,\N,\N,52,18,01:40.6,193.939,11,2009,badoer,\N,BAD,Luca,Badoer,25/01/1971,Italian,http://en.wikipedia.org/wiki/Luca_Badoer,Ferrari,1971,38
+7787,12,69,6,3,20,14,14,14,0,44,+1:42.177,5133172,41,15,01:49.8,229.633,1,2009,badoer,\N,BAD,Luca,Badoer,25/01/1971,Italian,http://en.wikipedia.org/wiki/Luca_Badoer,Ferrari,1971,38
+7794,13,22,23,23,5,1,1,1,10,53,16:21.7,4581706,48,5,01:25.0,245.445,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7819,14,22,23,23,9,6,6,6,3,61,31.858,6998195,50,8,01:48.6,168.168,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7840,15,22,23,23,6,7,7,7,2,53,10.641,5311084,17,13,01:33.9,222.608,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+7861,16,22,23,23,1,8,8,8,1,71,45.454,5588535,20,3,01:14.0,209.768,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+16070,17,22,23,23,4,4,4,4,5,55,22.735,5666149,54,4,01:40.4,199.05,1,2009,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Brawn,1972,37
+14,18,14,9,9,8,\N,R,14,0,25,\N,\N,21,11,01:29.5,213.3,4,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+31,19,14,9,9,12,9,9,9,0,56,+1:16.220,5554775,55,9,01:36.2,207.417,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+62,20,14,9,9,17,18,18,18,0,56,\N,\N,43,16,01:35.4,204.331,11,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+78,21,14,9,9,17,12,12,12,0,65,\N,\N,57,11,01:22.8,202.288,11,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+97,22,14,9,9,10,9,9,9,0,58,+1:15.270,5284721,41,12,01:28.0,218.457,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+127,23,14,9,9,15,\N,R,19,0,7,\N,\N,7,20,01:42.1,117.753,3,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+131,24,14,9,9,13,3,3,3,6,70,23.352,5807579,36,7,01:18.1,201.057,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+157,25,14,9,9,7,9,9,9,0,70,51.021,5561266,23,12,01:17.8,204.06,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+188,26,14,9,9,11,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+201,27,14,9,9,10,13,13,13,0,67,54.971,5535845,18,11,01:17.0,213.866,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+219,28,14,9,9,13,11,11,11,0,70,+1:10.407,5917474,67,16,01:22.7,190.634,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+245,29,14,9,9,17,17,17,17,0,56,\N,\N,13,19,01:41.0,193.194,11,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+259,30,14,9,9,14,11,11,11,0,43,\N,\N,19,11,01:50.2,228.853,11,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+284,31,14,9,9,13,16,16,16,0,52,\N,\N,49,17,01:32.5,225.557,11,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+295,32,14,9,9,14,7,7,7,2,61,16.387,7052691,41,13,01:47.6,169.587,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+328,33,14,9,9,11,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+338,34,14,9,9,15,10,10,10,0,56,+1:14.842,5592245,27,14,01:37.8,200.746,1,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+368,35,14,9,9,14,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,2008,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,37
+387,36,14,9,14,18,\N,R,19,0,48,\N,\N,44,11,01:27.7,217.668,4,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+410,37,14,9,14,13,\N,R,20,0,36,\N,\N,28,11,01:38.1,203.416,23,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+430,38,14,9,14,21,\N,R,18,0,36,\N,\N,34,9,01:35.4,204.26,30,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+439,39,14,9,14,9,5,5,5,4,65,58.331,5554561,18,8,01:23.5,200.636,1,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+470,40,14,9,14,13,14,14,14,0,76,\N,\N,75,8,01:16.8,156.591,12,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+494,41,14,9,14,14,\N,R,16,0,36,\N,\N,19,16,01:19.0,198.776,6,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+520,42,14,9,14,11,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+535,43,14,9,14,16,13,13,13,0,69,\N,\N,68,15,01:17.4,205.038,11,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+555,44,14,9,14,12,11,11,11,0,58,\N,\N,40,12,01:23.1,222.666,11,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+571,45,14,9,14,20,5,5,5,4,60,+1:13.656,7660014,48,6,01:34.3,196.496,1,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+599,46,14,9,14,10,11,11,11,0,69,\N,\N,67,14,01:21.6,193.39,11,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+620,47,14,9,14,13,10,10,10,0,58,+1:11.009,5273170,54,13,01:29.1,215.754,1,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+654,48,14,9,14,20,\N,R,22,0,1,\N,\N,\N,\N,\N,\N,3,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+674,49,14,9,14,11,\N,R,20,0,29,\N,\N,24,17,01:51.2,226.837,9,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+680,50,14,9,14,12,4,4,4,5,67,20.297,7254876,56,11,01:30.1,182.345,1,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+706,51,14,9,14,5,8,8,8,1,56,+1:20.750,5959145,55,10,01:39.6,196.945,1,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+729,52,14,9,14,9,9,9,9,0,70,\N,\N,22,13,01:14.2,209.076,11,2007,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Red Bull,1971,36
+744,53,30,6,5,1,2,2,2,8,57,1.246,5387451,38,2,01:32.5,210.576,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+770,54,30,6,5,14,6,6,6,3,56,43.854,5484383,44,5,01:35.6,208.629,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+803,55,30,6,5,10,\N,R,17,0,32,\N,\N,27,3,01:27.2,218.981,3,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+809,56,30,6,5,1,1,1,1,10,62,31:06.5,5466486,19,2,01:24.6,210.961,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+831,57,30,6,5,2,1,1,1,10,60,35:58.8,5758765,39,1,01:32.1,201.226,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+854,58,30,6,5,3,2,2,2,8,66,18.502,5200261,43,3,01:16.9,216.546,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+879,59,30,6,5,22,5,5,5,4,78,53.83,6276946,74,1,01:15.1,160.014,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+898,60,30,6,5,3,2,2,2,8,60,13.951,5165878,53,2,01:21.9,225.884,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+920,61,30,6,5,5,2,2,2,8,70,2.1,5679408,68,3,01:16.0,206.592,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+941,62,30,6,5,1,1,1,1,10,73,34:35.2,5675199,56,1,01:12.7,207.527,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+963,63,30,6,5,1,1,1,1,10,70,32:07.8,5527803,46,1,01:17.1,205.931,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+985,64,30,6,5,2,1,1,1,10,67,27:51.7,5271693,17,1,01:16.4,215.65,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1014,65,30,6,5,11,8,8,8,1,67,\N,\N,57,11,01:27.8,179.561,49,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1031,66,30,6,5,2,3,3,3,6,58,5.656,5336738,55,1,01:28.0,218.36,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1051,67,30,6,5,2,1,1,1,10,53,14:52.0,4491975,14,2,01:22.6,252.555,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1073,68,30,6,5,6,1,1,1,10,56,37:32.7,5852747,50,2,01:38.6,199.117,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1114,69,30,6,5,2,\N,R,20,0,36,\N,\N,32,2,01:32.8,225.29,5,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1120,70,30,6,5,10,4,4,4,5,71,24.094,5537845,70,1,01:12.2,214.966,1,2006,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,37
+1156,71,30,6,1,19,\N,R,18,0,42,\N,\N,38,6,01:26.3,221.314,3,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1165,72,30,6,1,13,7,7,7,2,56,+1:19.988,5573724,41,12,01:37.0,205.757,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1195,73,30,6,1,2,\N,R,17,0,12,\N,\N,7,7,01:32.9,209.753,9,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1200,74,30,6,1,13,2,2,2,8,62,0.215,5262136,48,1,01:21.9,216.946,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1233,75,30,6,1,8,\N,R,15,0,46,\N,\N,31,2,01:15.6,220.193,29,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1243,76,30,6,1,8,7,7,7,2,78,37.223,6352779,40,1,01:15.8,158.54,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1259,77,30,6,1,10,5,5,5,4,59,50.445,5557093,19,6,01:31.5,202.537,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1276,78,30,6,1,2,2,2,2,8,70,1.1,5530390,32,4,01:14.9,209.697,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1295,79,30,6,1,5,1,1,1,10,73,29:43.2,5383181,48,1,01:11.5,211.074,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1317,80,30,6,1,3,3,3,3,6,70,+1:21.9,5564132,22,7,01:17.7,204.333,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1340,81,30,6,1,9,6,6,6,3,60,+1:15.3,5144888,23,5,01:21.7,226.6,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1359,82,30,6,1,5,5,5,5,4,67,51.69,5240289,18,7,01:16.1,216.381,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1376,83,30,6,1,1,2,2,2,8,70,35.581,5881133,13,3,01:21.5,193.573,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1411,84,30,6,1,19,\N,R,17,0,32,\N,\N,21,14,01:27.0,220.905,31,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1424,85,30,6,1,6,10,10,10,0,53,+1:36.070,4564729,5,13,01:23.6,249.507,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1452,86,30,6,1,6,\N,R,18,0,13,\N,\N,10,13,01:57.4,213.834,3,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1458,87,30,6,1,7,4,4,4,5,71,35.668,5396242,25,4,01:12.8,213.082,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1481,88,30,6,1,14,7,7,7,2,53,33.879,5376091,25,5,01:32.8,225.361,1,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1514,89,30,6,1,6,\N,R,20,0,20,\N,\N,16,16,01:35.9,204.674,20,2005,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,36
+1527,90,44,7,17,18,13,13,13,0,56,\N,\N,35,14,01:27.8,217.417,12,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1546,91,44,7,17,14,12,12,12,0,55,\N,\N,23,11,01:36.0,207.968,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1563,92,44,7,17,8,9,9,9,0,56,\N,\N,22,13,01:32.4,211.049,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1585,93,44,7,17,13,11,11,11,0,61,\N,\N,59,11,01:22.9,214.32,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1611,94,44,7,17,7,\N,R,17,0,33,\N,\N,10,17,01:19.2,210.32,9,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1622,95,44,7,17,13,8,8,8,1,74,\N,\N,57,9,01:16.5,157.188,13,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1645,96,44,7,17,10,11,11,11,0,59,\N,\N,12,13,01:32.5,200.341,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1674,97,44,7,17,13,\N,D,20,0,69,\N,\N,23,15,01:16.0,206.451,2,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1679,98,44,7,17,8,5,5,5,4,73,37.534,6067448,46,4,01:10.9,212.752,1,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1709,99,44,7,17,14,15,15,15,0,68,\N,\N,53,15,01:17.1,206.043,12,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1734,100,44,7,17,17,\N,R,20,0,16,\N,\N,4,18,01:23.1,222.631,3,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1748,101,44,7,17,9,14,14,14,0,65,\N,\N,59,4,01:14.2,221.778,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1765,102,44,7,17,13,11,11,11,0,69,\N,\N,50,12,01:21.3,193.968,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1782,103,44,7,17,9,8,8,8,1,44,18.693,5573967,29,14,01:47.8,233.04,1,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1814,104,44,7,17,13,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1828,105,44,7,17,8,14,14,14,0,55,\N,\N,51,13,01:34.6,207.431,11,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1848,106,44,7,17,10,14,14,14,0,51,\N,\N,11,13,01:34.4,221.364,12,2004,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,38
+1861,107,30,6,1,18,7,7,7,2,71,50.626,5332077,49,4,01:11.8,216.161,1,2004,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Ferrari,1969,35
+1888,108,44,7,20,5,\N,R,14,0,31,\N,\N,\N,\N,\N,\N,32,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+1911,109,44,7,20,10,\N,R,17,0,12,\N,\N,\N,\N,\N,\N,32,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+1931,110,44,7,20,15,\N,R,17,0,18,\N,\N,\N,\N,\N,\N,4,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+1943,111,44,7,20,10,9,9,9,0,61,\N,\N,\N,\N,\N,\N,11,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+1968,112,44,7,20,6,\N,R,14,0,41,\N,\N,\N,\N,\N,\N,6,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+1992,113,44,7,20,11,\N,R,18,0,6,\N,\N,\N,\N,\N,\N,22,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2007,114,44,7,20,17,13,13,13,0,74,\N,\N,\N,\N,\N,\N,14,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2022,115,44,7,20,7,8,8,8,1,69,\N,\N,\N,\N,\N,\N,11,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2053,116,44,7,20,7,\N,R,19,0,37,\N,\N,\N,\N,\N,\N,20,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2062,117,44,7,20,10,8,8,8,1,69,\N,\N,\N,\N,\N,\N,11,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2085,118,44,7,20,13,11,11,11,0,60,+1:05.207,5382761,\N,\N,\N,\N,1,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2099,119,44,7,20,7,5,5,5,4,66,\N,\N,\N,\N,\N,\N,11,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2131,120,44,7,20,10,\N,R,17,0,33,\N,\N,\N,\N,\N,\N,6,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2149,121,44,7,20,9,\N,R,15,0,35,\N,\N,\N,\N,\N,\N,23,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2171,122,44,7,20,3,\N,R,17,0,27,\N,\N,\N,\N,\N,\N,3,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2184,123,44,7,20,4,10,10,10,0,53,+1:01.844,5173587,\N,\N,\N,\N,1,2003,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Toyota,1966,37
+2198,124,56,19,16,19,4,4,4,3,57,\N,\N,\N,\N,\N,\N,11,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2232,125,56,19,16,20,\N,R,16,0,30,\N,\N,\N,\N,\N,\N,9,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2245,126,56,19,16,13,7,7,7,0,70,\N,\N,\N,\N,\N,\N,11,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2273,127,56,19,16,18,\N,R,13,0,45,\N,\N,\N,\N,\N,\N,30,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2296,128,56,19,16,22,\N,R,14,0,41,\N,\N,\N,\N,\N,\N,9,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2319,129,56,19,16,20,\N,R,15,0,38,\N,\N,\N,\N,\N,\N,9,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2335,130,56,19,16,19,9,9,9,0,76,\N,\N,\N,\N,\N,\N,12,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2366,131,56,19,16,14,\N,R,18,0,41,\N,\N,\N,\N,\N,\N,25,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2389,132,56,19,16,17,\N,R,19,0,41,\N,\N,\N,\N,\N,\N,9,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2409,133,56,19,16,19,\N,R,17,0,23,\N,\N,\N,\N,\N,\N,20,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2425,134,56,19,16,9,\N,R,12,0,52,\N,\N,\N,\N,\N,\N,65,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2447,135,56,19,16,16,\N,R,12,0,57,\N,\N,\N,\N,\N,\N,23,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2475,136,56,19,16,16,\N,R,19,0,23,\N,\N,\N,\N,\N,\N,5,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2482,137,56,19,16,8,6,6,6,1,44,+1:17.370,4958004,\N,\N,\N,\N,1,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2499,138,56,19,16,5,3,3,3,4,53,52.579,4632561,\N,\N,\N,\N,1,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2526,139,56,19,16,13,10,10,10,0,72,\N,\N,\N,\N,\N,\N,11,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2545,140,56,19,16,14,9,9,9,0,52,\N,\N,\N,\N,\N,\N,11,2002,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jaguar,1965,37
+2565,141,55,20,22,14,9,9,9,0,57,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2587,142,55,20,22,13,9,9,9,0,54,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2608,143,55,20,22,15,8,8,8,0,70,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2631,144,55,20,22,14,9,9,9,0,61,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2654,145,55,20,22,15,10,10,10,0,64,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2676,146,55,20,22,20,10,10,10,0,69,\N,\N,\N,\N,\N,\N,12,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2694,147,55,20,22,11,6,6,6,1,77,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2715,148,55,20,22,16,5,5,5,2,69,+1:10.435,5741957,\N,\N,\N,\N,1,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2747,149,55,20,22,14,15,15,15,0,64,\N,\N,\N,\N,\N,\N,20,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2766,150,55,20,22,19,12,12,12,0,70,\N,\N,\N,\N,\N,\N,12,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2787,151,55,20,22,14,11,11,11,0,58,\N,\N,\N,\N,\N,\N,12,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2804,152,55,20,22,14,6,6,6,1,45,+1:05.950,4763823,\N,\N,\N,\N,1,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,37
+2830,153,55,17,12,12,10,10,10,0,75,\N,\N,\N,\N,\N,\N,12,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Jordan,1964,37
+2848,154,55,17,12,13,6,6,6,1,36,59.684,4144686,\N,\N,\N,\N,1,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Jordan,1964,37
+2872,155,55,17,12,16,8,8,8,0,52,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Jordan,1964,37
+2893,156,55,17,12,9,7,7,7,0,72,\N,\N,\N,\N,\N,\N,11,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Jordan,1964,37
+2930,157,55,17,12,11,\N,R,22,0,5,\N,\N,\N,\N,\N,\N,4,2001,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Jordan,1964,37
+2946,158,55,20,14,17,\N,R,16,0,27,\N,\N,\N,\N,\N,\N,9,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+2964,159,65,19,8,17,\N,R,12,0,51,\N,\N,\N,\N,\N,\N,6,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+2984,160,65,19,8,17,10,10,10,0,61,\N,\N,\N,\N,\N,\N,11,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3006,161,55,20,14,15,10,10,10,0,59,\N,\N,\N,\N,\N,\N,11,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3031,162,65,19,8,14,13,13,13,0,64,\N,\N,\N,\N,\N,\N,11,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3049,163,55,20,14,17,9,9,9,0,65,\N,\N,\N,\N,\N,\N,12,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3070,164,65,19,8,11,9,9,9,0,76,\N,\N,\N,\N,\N,\N,12,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3102,165,55,20,14,17,\N,R,19,0,38,\N,\N,\N,\N,\N,\N,10,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3119,166,55,20,14,18,14,14,14,0,70,\N,\N,\N,\N,\N,\N,12,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3134,167,65,19,8,16,7,7,7,0,70,\N,\N,\N,\N,\N,\N,11,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3168,168,55,20,14,20,\N,R,19,0,29,\N,\N,\N,\N,\N,\N,4,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3189,169,65,19,8,17,\N,R,18,0,67,\N,\N,\N,\N,\N,\N,6,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3201,170,65,19,8,9,8,8,8,0,44,+1:27.808,5382302,\N,\N,\N,\N,1,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3227,171,55,20,14,19,12,12,12,0,51,\N,\N,\N,\N,\N,\N,12,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3248,172,65,19,8,19,11,11,11,0,72,\N,\N,\N,\N,\N,\N,11,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3266,173,65,19,8,10,7,7,7,0,52,\N,\N,\N,\N,\N,\N,11,2000,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Jaguar,1964,36
+3292,174,55,20,14,18,11,11,11,0,55,\N,\N,\N,\N,\N,\N,11,2000,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Prost,1964,36
+3323,175,71,17,7,9,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3346,176,71,17,7,7,\N,R,21,0,10,\N,\N,\N,\N,\N,\N,4,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3351,177,71,17,7,8,4,4,4,3,61,\N,\N,\N,\N,\N,\N,11,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3391,178,71,17,7,17,\N,R,22,0,3,\N,\N,\N,\N,\N,\N,4,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3398,179,71,17,7,11,7,7,7,0,64,\N,\N,\N,\N,\N,\N,11,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3430,180,71,17,7,14,\N,R,17,0,14,\N,\N,\N,\N,\N,\N,20,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3448,181,71,17,7,18,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,10,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3462,182,71,17,7,6,5,5,5,2,60,38.606,5588750,\N,\N,\N,\N,1,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3487,183,71,17,7,11,8,8,8,0,70,\N,\N,\N,\N,\N,\N,11,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3518,184,71,17,7,8,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,23,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3529,185,71,17,7,6,6,6,6,1,77,55.726,6439262,\N,\N,\N,\N,1,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3551,186,71,17,7,4,6,6,6,1,44,54.916,5197973,\N,\N,\N,\N,1,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3577,187,71,17,7,9,10,10,10,0,53,56.259,4679182,\N,\N,\N,\N,1,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3609,188,71,17,7,7,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,10,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3632,189,71,17,7,9,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,4,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3652,190,71,17,7,12,\N,R,19,0,21,\N,\N,\N,\N,\N,\N,68,1999,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,39
+3663,191,71,17,9,10,8,8,8,0,57,\N,\N,\N,\N,\N,\N,11,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3689,192,71,17,9,11,\N,D,12,0,70,\N,\N,\N,\N,\N,\N,2,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3707,193,71,17,9,9,8,8,8,0,71,\N,\N,\N,\N,\N,\N,11,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3731,194,71,17,9,7,10,10,10,0,57,\N,\N,\N,\N,\N,\N,9,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3760,195,71,17,9,8,\N,R,17,0,46,\N,\N,\N,\N,\N,\N,5,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3772,196,71,17,9,15,8,8,8,0,76,\N,\N,\N,\N,\N,\N,12,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3798,197,71,17,9,10,\N,R,12,0,42,\N,\N,\N,\N,\N,\N,10,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3829,198,71,17,9,7,\N,R,21,0,19,\N,\N,\N,\N,\N,\N,9,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3852,199,71,17,9,7,\N,R,22,0,13,\N,\N,\N,\N,\N,\N,20,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3859,200,71,17,9,15,7,7,7,0,71,+1:13.624,5517624,\N,\N,\N,\N,1,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3878,201,71,17,9,5,4,4,4,3,45,7.185,4855185,\N,\N,\N,\N,1,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3899,202,71,17,9,4,4,4,4,3,77,55.076,6381476,\N,\N,\N,\N,1,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3917,203,71,17,9,3,1,1,1,10,44,43:47.4,6227407,\N,\N,\N,\N,1,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3944,204,71,17,9,14,6,6,6,1,53,+1:06.688,4696988,\N,\N,\N,\N,1,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3969,205,71,17,9,10,9,9,9,0,66,\N,\N,\N,\N,\N,\N,11,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+3986,206,71,17,9,8,4,4,4,3,51,+1:13.491,5316891,\N,\N,\N,\N,1,1998,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Jordan,1960,38
+4008,207,77,22,8,10,4,4,4,3,58,22.841,5451559,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4030,208,77,22,8,3,2,2,2,6,72,4.19,5771180,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4056,209,77,22,8,12,6,6,6,1,72,31.393,6753108,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4092,210,77,22,8,11,\N,R,20,0,4,\N,\N,\N,\N,\N,\N,20,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4103,211,77,22,8,17,9,9,9,0,60,\N,\N,\N,\N,\N,\N,12,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4126,212,77,22,8,6,10,10,10,0,64,+1:05.670,5501566,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4147,213,71,21,1,15,9,9,9,0,53,\N,\N,\N,\N,\N,\N,11,1997,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Arrows,1960,37
+4172,214,71,21,1,17,12,12,12,0,69,\N,\N,\N,\N,\N,\N,13,1997,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Arrows,1960,37
+4188,215,71,21,1,12,6,6,6,1,59,+1:13.552,5355217,\N,\N,\N,\N,1,1997,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Arrows,1960,37
+4205,216,77,22,8,1,1,1,1,10,45,20:59.0,4859046,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4234,217,77,22,8,7,8,8,8,0,77,+1:16.409,6423558,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4254,218,77,22,8,15,6,6,6,1,44,+1:03.741,5690458,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4277,219,77,22,8,7,7,7,7,0,53,12.471,4637080,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4302,220,77,22,8,18,10,10,10,0,70,\N,\N,\N,\N,\N,\N,11,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4318,221,77,22,8,7,4,4,4,3,67,16.416,5504259,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4344,222,77,22,8,5,8,8,8,0,53,+1:00.429,5448875,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4362,223,77,22,8,8,4,4,4,3,69,1.919,5939690,\N,\N,\N,\N,1,1997,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,38
+4384,224,77,22,4,7,4,4,4,3,58,+1:17.037,5647437,\N,\N,\N,\N,1,1996,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,37
+4414,225,84,17,12,6,12,12,12,0,64,\N,\N,\N,\N,\N,\N,20,1996,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Jordan,1959,37
+4435,226,77,22,4,5,\N,R,11,0,56,\N,\N,\N,\N,\N,\N,22,1996,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,37
+4452,227,84,17,12,11,6,6,6,1,67,55.567,5662040,\N,\N,\N,\N,1,1996,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Jordan,1959,37
+4471,228,77,22,4,7,3,3,3,4,63,46.891,5773047,\N,\N,\N,\N,1,1996,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,37
+4502,229,84,17,12,16,\N,R,12,0,30,\N,\N,\N,\N,\N,\N,20,1996,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Jordan,1959,37
+4521,230,77,22,4,5,\N,R,9,0,44,\N,\N,\N,\N,\N,\N,20,1996,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,37
+4540,231,84,17,12,9,6,6,6,1,68,\N,\N,\N,\N,\N,\N,11,1996,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Jordan,1959,37
+4560,232,77,22,4,4,4,4,4,3,72,46.859,5836059,\N,\N,\N,\N,1,1996,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,37
+4580,233,77,22,4,7,2,2,2,6,61,19.026,5599900,\N,\N,\N,\N,1,1996,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Benetton,1959,37
+4620,234,86,18,21,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,1996,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Minardi,1958,38
+4630,235,86,18,21,20,10,10,10,0,69,\N,\N,\N,\N,\N,\N,20,1996,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Minardi,1958,38
+4660,236,86,18,21,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,1996,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Minardi,1958,38
+4677,237,86,18,21,20,\N,R,17,0,5,\N,\N,\N,\N,\N,\N,5,1996,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Minardi,1958,38
+4695,238,86,18,21,20,15,15,15,0,65,\N,\N,\N,\N,\N,\N,15,1996,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Minardi,1958,38
+4720,239,86,18,21,20,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,1996,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Minardi,1958,38
+4723,240,77,6,28,5,3,3,3,4,70,\N,\N,\N,\N,\N,\N,11,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+4752,241,77,6,28,8,6,6,6,1,70,\N,\N,\N,\N,\N,\N,12,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+4782,242,95,1,7,9,10,10,10,0,61,\N,\N,\N,\N,\N,\N,12,1995,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,McLaren,1953,42
+4822,243,95,1,7,10,\N,R,24,0,18,\N,\N,\N,\N,\N,\N,64,1995,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,McLaren,1953,42
+4827,244,77,6,28,4,3,3,3,4,78,+1:11.447,6862705,\N,\N,\N,\N,1,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+4860,245,84,27,25,14,10,10,10,0,61,\N,\N,\N,\N,\N,\N,4,1995,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Ligier,1959,36
+4878,246,84,27,25,9,4,4,4,3,72,+1:03.293,5971722,\N,\N,\N,\N,1,1995,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Ligier,1959,36
+4911,247,90,28,22,22,\N,R,13,0,48,\N,\N,\N,\N,\N,\N,5,1995,moreno,\N,\N,Roberto,Moreno,11/02/1959,Brazilian,http://en.wikipedia.org/wiki/Roberto_Moreno,Forti,1959,36
+4935,248,86,30,16,24,\N,R,13,0,27,\N,\N,\N,\N,\N,\N,6,1995,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Pacific,1958,37
+4969,249,86,30,16,24,\N,R,23,0,5,\N,\N,\N,\N,\N,\N,20,1995,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Pacific,1958,37
+4986,250,86,30,16,23,\N,R,16,0,27,\N,\N,\N,\N,\N,\N,6,1995,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Pacific,1958,37
+5015,251,86,30,16,24,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,20,1995,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Pacific,1958,37
+5022,252,77,6,28,4,4,4,4,3,71,+1:24.879,6197024,\N,\N,\N,\N,1,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+5049,253,84,27,25,12,7,7,7,0,66,\N,\N,\N,\N,\N,\N,11,1995,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Ligier,1959,36
+5070,254,77,6,28,5,4,4,4,3,82,\N,\N,\N,\N,\N,\N,11,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+5108,255,77,6,28,5,\N,R,18,0,16,\N,\N,\N,\N,\N,\N,10,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+5127,256,77,6,28,4,\N,R,13,0,34,\N,\N,\N,\N,\N,\N,5,1995,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,Ferrari,1959,36
+5160,257,105,18,24,22,\N,R,22,0,7,\N,\N,\N,\N,\N,\N,5,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5180,258,105,18,24,15,\N,R,14,0,69,\N,\N,\N,\N,\N,\N,4,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5209,259,105,18,24,15,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,36,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5228,260,105,18,24,12,6,6,6,1,77,\N,\N,\N,\N,\N,\N,11,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5272,261,105,18,24,14,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,5,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5286,262,105,18,24,18,11,11,11,0,67,\N,\N,\N,\N,\N,\N,12,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5316,263,95,3,2,2,\N,R,14,0,45,\N,\N,\N,\N,\N,\N,6,1994,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,41
+5348,264,105,18,24,17,\N,R,18,0,48,\N,\N,\N,\N,\N,\N,5,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5384,265,105,18,24,23,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,4,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5408,266,112,1,7,14,\N,R,22,0,21,\N,\N,\N,\N,\N,\N,47,1994,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,McLaren,1954,40
+5437,267,112,33,19,19,\N,R,23,0,11,\N,\N,\N,\N,\N,\N,5,1994,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,Larrousse,1954,40
+5459,268,105,18,24,22,\N,R,17,0,28,\N,\N,\N,\N,\N,\N,6,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5483,269,105,18,24,19,13,13,13,0,69,\N,\N,\N,\N,\N,\N,12,1994,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Minardi,1956,38
+5518,270,95,3,2,3,\N,R,20,0,47,\N,\N,\N,\N,\N,\N,20,1994,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,41
+5530,271,95,3,2,4,4,4,4,3,50,56.074,7009606,\N,\N,\N,\N,1,1994,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,41
+5555,272,95,3,2,1,1,1,1,10,81,47:51.4,6471400,\N,\N,\N,\N,1,1994,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,41
+5589,273,118,29,9,22,7,7,7,0,69,\N,\N,\N,\N,\N,\N,20,1993,warwick,\N,\N,Derek,Warwick,27/08/1954,British,http://en.wikipedia.org/wiki/Derek_Warwick,Footwork,1954,39
+5615,274,112,33,19,11,7,7,7,0,70,\N,\N,\N,\N,\N,\N,11,1993,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,Larrousse,1954,39
+5639,275,119,22,6,10,5,5,5,2,74,\N,\N,\N,\N,\N,\N,12,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5665,276,112,33,19,14,5,5,5,2,59,\N,\N,\N,\N,\N,\N,12,1993,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,Larrousse,1954,39
+5690,277,119,22,6,5,4,4,4,3,64,\N,\N,\N,\N,\N,\N,11,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5724,278,112,33,19,15,12,12,12,0,75,\N,\N,\N,\N,\N,\N,13,1993,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,Larrousse,1954,39
+5754,279,118,29,9,18,16,16,16,0,65,\N,\N,\N,\N,\N,\N,14,1993,warwick,\N,\N,Derek,Warwick,27/08/1954,British,http://en.wikipedia.org/wiki/Derek_Warwick,Footwork,1954,39
+5773,280,112,33,19,10,9,9,9,0,70,\N,\N,\N,\N,\N,\N,12,1993,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,Larrousse,1954,39
+5793,281,119,22,6,5,3,3,3,4,59,+1:17.482,5215671,\N,\N,\N,\N,1,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5821,282,119,22,6,7,5,5,5,2,45,+1:31.516,4812401,\N,\N,\N,\N,1,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5844,283,119,22,6,5,2,2,2,6,77,+1:11.915,6531013,\N,\N,\N,\N,1,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5874,284,119,22,6,8,6,6,6,1,43,\N,\N,\N,\N,\N,\N,11,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5899,285,119,22,6,10,5,5,5,2,52,\N,\N,\N,\N,\N,\N,11,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5930,286,112,33,19,20,10,10,10,0,69,\N,\N,\N,\N,\N,\N,12,1993,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,Larrousse,1954,39
+5960,287,118,29,9,7,14,14,14,0,48,\N,\N,\N,\N,\N,\N,4,1993,warwick,\N,\N,Derek,Warwick,27/08/1954,British,http://en.wikipedia.org/wiki/Derek_Warwick,Footwork,1954,39
+5978,288,119,22,6,9,8,8,8,0,77,\N,\N,\N,\N,\N,\N,69,1993,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Benetton,1954,39
+5995,289,95,3,5,1,1,1,1,10,72,36:45.3,5805320,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6025,290,95,3,5,1,1,1,1,10,69,31:53.6,5513587,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6055,291,95,3,5,1,1,1,1,10,71,36:51.9,5811856,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6085,292,95,3,5,1,1,1,1,10,65,56:10.7,6970674,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6117,293,95,3,5,1,1,1,1,10,60,28:40.9,5320927,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6150,294,95,3,5,1,2,2,2,6,78,0.215,6659587,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6203,295,95,3,5,3,\N,R,23,0,14,\N,\N,\N,\N,\N,\N,20,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6212,296,95,3,5,1,1,1,1,10,69,38:08.5,5888459,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6242,297,95,3,5,1,1,1,1,10,59,25:43.0,5142991,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6274,298,95,3,5,1,1,1,1,10,45,18:22.0,4702032,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6307,299,95,3,5,2,2,2,2,6,77,40.139,6419355,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6338,300,95,3,5,1,2,2,2,6,44,36.595,5807316,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6379,301,95,3,5,1,\N,R,13,0,41,\N,\N,\N,\N,\N,\N,10,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6395,302,95,3,5,1,1,1,1,10,71,34:46.7,5686659,\N,\N,\N,\N,1,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6436,303,95,3,5,1,\N,R,16,0,44,\N,\N,\N,\N,\N,\N,5,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6466,304,95,3,5,1,\N,R,20,0,18,\N,\N,\N,\N,\N,\N,4,1992,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Williams,1953,39
+6475,305,137,22,20,5,3,3,3,4,81,+1:17.376,7325204,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6511,306,137,22,20,7,5,5,5,2,71,21.96,5930088,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6564,307,137,22,20,14,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,20,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6600,308,137,22,20,4,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,22,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6609,309,137,22,20,8,1,1,1,10,69,38:51.5,5931490,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6658,310,137,22,20,6,\N,R,16,0,44,\N,\N,\N,\N,\N,\N,67,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6684,311,137,22,20,7,8,8,8,0,70,\N,\N,\N,\N,\N,\N,12,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6715,312,137,22,20,8,5,5,5,2,58,\N,\N,\N,\N,\N,\N,11,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6761,313,137,22,20,8,\N,R,17,0,27,\N,\N,\N,\N,\N,\N,5,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6800,314,137,22,20,11,\N,R,22,0,38,\N,\N,\N,\N,\N,\N,6,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6815,315,137,22,20,6,3,3,3,4,44,32.176,5269845,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6852,316,137,22,20,8,6,6,6,1,53,45.6,4719919,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6885,317,137,22,20,11,5,5,5,2,71,+1:10.033,5812337,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6925,318,137,22,20,10,11,11,11,0,63,\N,\N,\N,\N,\N,\N,12,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6954,319,137,22,20,10,7,7,7,0,52,\N,\N,\N,\N,\N,\N,11,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+6983,320,137,22,20,5,4,4,4,2,14,30.103,1505002,\N,\N,\N,\N,1,1991,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,39
+7015,321,137,22,20,6,4,4,4,3,72,+1:08.358,6821187,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7052,322,137,22,20,13,6,6,6,1,70,\N,\N,\N,\N,\N,\N,11,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7086,323,137,22,20,8,5,5,5,2,61,53.112,5508590,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7142,324,137,22,20,10,\N,D,26,0,34,\N,\N,\N,\N,\N,\N,2,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7153,325,137,22,20,5,2,2,2,6,70,10.497,6186897,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7192,326,137,22,20,8,6,6,6,1,69,46.943,5602726,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7225,327,137,22,20,9,4,4,4,3,80,41.207,5650813,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7261,328,137,22,20,11,5,5,5,2,64,+1:24.003,4795002,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7307,329,137,22,20,7,\N,R,16,0,23,\N,\N,\N,\N,\N,\N,5,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7329,330,137,22,20,9,3,3,3,4,77,27.893,6598490,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7366,331,137,22,20,8,5,5,5,2,44,+1:29.650,5281647,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7401,332,137,22,20,9,7,7,7,0,52,\N,\N,\N,\N,\N,\N,11,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7432,333,137,22,20,6,5,5,5,2,61,57.418,4988432,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7475,334,137,22,20,8,\N,R,15,0,47,\N,\N,\N,\N,\N,\N,84,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7494,335,137,22,20,6,1,1,1,9,53,34:36.8,5676824,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+7524,336,137,22,20,7,1,1,1,9,81,49:44.6,6584570,\N,\N,\N,\N,1,1990,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Benetton,1952,38
+20328,337,30,131,3,7,6,6,6,8,49,44.163,6004559,45,11,02:00.2,188.649,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20356,338,30,131,3,7,10,10,10,1,58,+1:09.391,5685922,58,4,01:29.2,214.058,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20391,339,30,131,3,8,\N,R,21,0,9,\N,\N,9,15,01:42.1,195.474,36,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20404,340,30,131,3,9,10,10,10,1,56,+1:01.749,6463912,14,10,01:44.3,188.149,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20422,341,30,131,3,6,4,4,4,12,66,+1:02.195,5806296,64,10,01:25.5,195.933,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20454,342,30,131,3,7,12,12,12,0,78,5.712,6619067,71,5,01:15.6,159.089,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20470,343,30,131,3,5,4,4,4,12,58,31.11,5358730,53,6,01:29.8,213.971,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20501,344,30,131,3,13,11,11,11,0,69,\N,\N,44,14,01:19.6,197.288,11,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20529,345,30,131,3,15,15,15,15,0,57,48.826,6078397,53,2,01:39.0,197.118,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20547,346,30,131,3,10,9,9,9,2,52,41.599,5119799,47,15,01:34.2,225.203,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20571,347,30,131,3,11,9,9,9,2,66,\N,\N,66,14,01:17.1,213.605,11,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20597,348,30,131,3,14,11,11,11,0,69,\N,\N,64,12,01:25.4,184.739,11,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20617,349,30,131,3,21,7,7,7,6,44,15.548,5359816,32,13,01:51.9,225.301,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20643,350,30,131,3,12,9,9,9,2,53,44.948,4629520,49,11,01:24.9,245.503,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20671,351,30,131,3,9,13,13,13,0,60,\N,\N,54,4,01:49.7,166.509,11,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20688,352,30,131,3,10,6,6,6,8,53,59.933,5487256,52,7,01:34.9,220.395,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20710,353,30,131,3,9,4,4,4,12,55,39.688,10140498,43,8,01:51.8,180.748,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20737,354,30,131,3,8,7,7,7,6,71,43.456,5635259,71,12,01:15.2,206.229,1,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+20777,355,30,131,3,8,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,4,2010,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,41
+7901,356,163,27,25,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+7939,357,163,27,25,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+7962,358,163,27,25,21,12,12,12,0,73,\N,\N,\N,\N,\N,\N,14,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8002,359,163,27,25,25,14,14,14,0,66,\N,\N,\N,\N,\N,\N,13,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8056,360,163,27,25,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8071,361,163,27,25,22,5,5,5,2,68,\N,\N,\N,\N,\N,\N,11,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8130,362,163,27,25,18,\N,R,25,0,14,\N,\N,\N,\N,\N,\N,6,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8171,363,163,27,25,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8194,364,163,27,25,23,11,11,11,0,42,\N,\N,\N,\N,\N,\N,13,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8248,365,163,27,25,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8285,366,163,27,25,17,\N,R,25,0,4,\N,\N,\N,\N,\N,\N,4,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8308,367,163,27,25,23,9,9,9,0,51,\N,\N,\N,\N,\N,\N,12,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8351,368,163,27,25,23,13,13,13,0,69,\N,\N,\N,\N,\N,\N,12,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8404,369,163,27,25,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8442,370,163,27,25,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8478,371,163,27,25,26,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,4,1989,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,41
+8511,372,163,27,25,18,\N,R,18,0,23,\N,\N,\N,\N,\N,\N,8,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8554,373,163,27,25,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8573,374,163,27,25,20,\N,R,19,0,17,\N,\N,\N,\N,\N,\N,5,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8608,375,163,27,25,20,\N,R,23,0,13,\N,\N,\N,\N,\N,\N,3,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8633,376,163,27,25,20,\N,R,17,0,36,\N,\N,\N,\N,\N,\N,7,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8661,377,163,27,25,20,\N,R,14,0,45,\N,\N,\N,\N,\N,\N,25,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8705,378,163,27,25,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8727,379,163,27,25,25,18,18,18,0,62,\N,\N,\N,\N,\N,\N,13,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8757,380,163,27,25,17,17,17,17,0,41,\N,\N,\N,\N,\N,\N,13,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8789,381,163,27,25,25,\N,R,18,0,32,\N,\N,\N,\N,\N,\N,5,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8828,382,163,27,25,17,\N,R,26,0,2,\N,\N,\N,\N,\N,\N,3,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8844,383,168,3,5,22,11,11,11,0,49,\N,\N,\N,\N,\N,\N,12,1988,schlesser,\N,\N,Jean-Louis,Schlesser,12/09/1948,French,http://en.wikipedia.org/wiki/Jean-Louis_Schlesser,Williams,1948,40
+8874,384,163,27,25,23,10,10,10,0,68,\N,\N,\N,\N,\N,\N,12,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8921,385,163,27,25,19,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,37,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8943,386,163,27,25,23,17,17,17,0,48,\N,\N,\N,\N,\N,\N,13,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8980,387,163,27,25,23,\N,R,23,0,24,\N,\N,\N,\N,\N,\N,4,1988,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,40
+8990,388,137,3,6,2,2,2,2,6,61,40.547,6025688,\N,\N,\N,\N,1,1987,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Williams,1952,35
+9038,389,163,27,25,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,22,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9044,390,163,27,25,16,6,6,6,1,41,\N,\N,\N,\N,\N,\N,12,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9075,391,163,27,25,22,11,11,11,0,74,\N,\N,\N,\N,\N,\N,14,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9100,392,163,27,25,21,10,10,10,0,60,\N,\N,\N,\N,\N,\N,13,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9133,393,163,27,25,13,\N,R,17,0,33,\N,\N,\N,\N,\N,\N,43,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9166,394,163,27,25,16,\N,R,24,0,3,\N,\N,\N,\N,\N,\N,10,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9193,395,163,27,25,12,\N,R,25,0,6,\N,\N,\N,\N,\N,\N,80,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9210,396,163,27,25,19,\N,R,16,0,57,\N,\N,\N,\N,\N,\N,10,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9230,397,163,27,25,16,10,10,10,0,49,\N,\N,\N,\N,\N,\N,13,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9256,398,163,27,25,15,10,10,10,0,48,\N,\N,\N,\N,\N,\N,12,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9294,399,163,27,25,18,\N,R,20,0,29,\N,\N,\N,\N,\N,\N,21,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9319,400,163,27,25,14,\N,R,19,0,55,\N,\N,\N,\N,\N,\N,4,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9342,401,163,27,25,18,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,25,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9369,402,163,27,25,17,\N,R,16,0,44,\N,\N,\N,\N,\N,\N,60,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9399,403,163,27,25,20,\N,R,19,0,41,\N,\N,\N,\N,\N,\N,80,1987,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Ligier,1948,39
+9410,404,172,27,26,5,3,3,3,4,61,59.759,6032342,\N,\N,\N,\N,1,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9443,405,172,27,26,8,\N,R,11,0,40,\N,\N,\N,\N,\N,\N,86,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9477,406,172,27,26,14,\N,R,20,0,14,\N,\N,\N,\N,\N,\N,7,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9489,407,172,27,26,7,6,6,6,1,77,\N,\N,\N,\N,\N,\N,11,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9513,408,172,27,26,17,5,5,5,2,43,+1:10.690,5348615,\N,\N,\N,\N,1,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9540,409,172,27,26,8,7,7,7,0,68,\N,\N,\N,\N,\N,\N,11,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9560,410,172,27,26,6,2,2,2,6,63,31.017,6703864,\N,\N,\N,\N,1,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9590,411,172,27,26,11,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9633,412,172,27,26,19,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,4,1986,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,43
+9645,413,178,26,15,19,9,9,9,0,42,\N,\N,\N,\N,\N,\N,12,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9674,414,178,26,15,10,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,24,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9692,415,178,26,15,16,4,4,4,3,50,\N,\N,\N,\N,\N,\N,12,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9720,416,178,26,15,18,6,6,6,1,49,\N,\N,\N,\N,\N,\N,12,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9765,417,178,26,15,17,\N,R,24,0,10,\N,\N,\N,\N,\N,\N,23,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9787,418,178,26,15,15,\N,R,19,0,35,\N,\N,\N,\N,\N,\N,27,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9816,419,178,26,15,15,\N,R,23,0,16,\N,\N,\N,\N,\N,\N,5,1986,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,40
+9825,420,172,27,26,15,6,6,6,1,59,\N,\N,\N,\N,\N,\N,12,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+9864,421,172,27,26,18,\N,R,20,0,15,\N,\N,\N,\N,\N,\N,27,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+9888,422,172,27,26,16,\N,R,18,0,22,\N,\N,\N,\N,\N,\N,101,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+9902,423,172,27,26,16,6,6,6,1,77,\N,\N,\N,\N,\N,\N,11,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+9929,424,172,27,26,19,8,8,8,0,69,\N,\N,\N,\N,\N,\N,11,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+9958,425,172,27,26,16,12,12,12,0,58,\N,\N,\N,\N,\N,\N,15,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+9996,426,172,27,26,15,\N,R,25,0,2,\N,\N,\N,\N,\N,\N,101,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10000,427,172,27,26,16,3,3,3,4,64,\N,\N,\N,\N,\N,\N,11,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10026,428,172,27,26,13,3,3,3,4,67,51.154,5782491,\N,\N,\N,\N,1,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10061,429,172,27,26,15,\N,R,11,0,43,\N,\N,\N,\N,\N,\N,3,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10097,430,172,27,26,13,\N,R,20,0,17,\N,\N,\N,\N,\N,\N,10,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10118,431,172,27,26,20,\N,R,15,0,40,\N,\N,\N,\N,\N,\N,5,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10140,432,172,27,26,17,11,11,11,0,38,\N,\N,\N,\N,\N,\N,3,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10168,433,172,27,26,18,\N,R,15,0,58,\N,\N,\N,\N,\N,\N,5,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10200,434,178,26,33,18,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,100,1985,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Lola,1946,39
+10202,435,172,27,26,20,2,2,2,6,82,43.13,7283603,\N,\N,\N,\N,1,1985,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,42
+10247,436,172,3,5,13,\N,R,22,0,15,\N,\N,\N,\N,\N,\N,10,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10268,437,172,3,5,11,\N,R,16,0,60,\N,\N,\N,\N,\N,\N,7,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10298,438,172,3,5,15,\N,R,19,0,15,\N,\N,\N,\N,\N,\N,10,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10327,439,172,3,5,15,\N,R,21,0,11,\N,\N,\N,\N,\N,\N,5,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10342,440,172,3,5,12,8,8,8,0,78,\N,\N,\N,\N,\N,\N,11,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10368,441,172,3,5,16,8,8,8,0,30,\N,\N,\N,\N,\N,\N,11,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10409,442,172,3,5,17,\N,R,22,0,31,\N,\N,\N,\N,\N,\N,101,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10418,443,172,3,5,19,5,5,5,2,62,\N,\N,\N,\N,\N,\N,11,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10444,444,172,3,5,24,4,4,4,3,65,\N,\N,\N,\N,\N,\N,12,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10485,445,172,3,5,16,\N,R,19,0,14,\N,\N,\N,\N,\N,\N,103,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10515,446,172,3,5,12,\N,R,21,0,10,\N,\N,\N,\N,\N,\N,5,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10544,447,172,3,5,11,\N,R,23,0,12,\N,\N,\N,\N,\N,\N,5,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10568,448,172,3,5,8,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,5,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10594,449,172,3,5,13,\N,R,19,0,10,\N,\N,\N,\N,\N,\N,101,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10621,450,172,3,5,14,\N,R,19,0,27,\N,\N,\N,\N,\N,\N,5,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10642,451,172,3,5,15,14,14,14,0,67,\N,\N,\N,\N,\N,\N,13,1984,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,41
+10658,452,172,3,2,18,4,4,3,3,63,+1:13.951,6581682,\N,\N,\N,\N,1,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10687,453,172,3,2,4,4,4,4,3,74,\N,\N,\N,\N,\N,\N,11,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10717,454,172,3,2,19,6,6,6,1,53,\N,\N,\N,\N,\N,\N,11,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10747,455,172,3,2,16,7,7,7,0,59,\N,\N,\N,\N,\N,\N,11,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10777,456,172,3,2,8,\N,R,9,0,53,\N,\N,\N,\N,\N,\N,6,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10802,457,172,3,2,11,6,6,6,1,40,+1:33.107,5324609,\N,\N,\N,\N,1,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10829,458,172,3,2,20,5,5,5,2,60,+1:32.603,6746272,\N,\N,\N,\N,1,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10868,459,172,3,2,13,\N,R,17,0,37,\N,\N,\N,\N,\N,\N,6,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10891,460,172,3,2,20,12,12,12,0,65,\N,\N,\N,\N,\N,\N,12,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10914,461,172,3,2,15,6,6,6,1,44,\N,\N,\N,\N,\N,\N,11,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10956,462,172,3,2,24,\N,R,19,0,21,\N,\N,\N,\N,\N,\N,76,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+10986,463,172,3,2,17,\N,R,20,0,37,\N,\N,\N,\N,\N,\N,64,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+11023,464,172,3,2,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+11053,465,172,3,2,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+11078,466,172,3,2,10,\N,R,25,0,1,\N,\N,\N,\N,\N,\N,20,1983,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Williams,1943,40
+11081,467,199,3,5,8,2,2,2,6,77,14.946,5543347,\N,\N,\N,\N,1,1982,reutemann,\N,\N,Carlos,Reutemann,12/04/1942,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann,Williams,1942,40
+11129,468,199,3,5,6,\N,R,19,0,21,\N,\N,\N,\N,\N,\N,4,1982,reutemann,\N,\N,Carlos,Reutemann,12/04/1942,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann,Williams,1942,40
+11161,469,207,3,5,14,\N,R,20,0,19,\N,\N,\N,\N,\N,\N,4,1982,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Williams,1940,42
+11176,470,197,45,31,9,4,4,4,3,59,\N,\N,\N,\N,\N,\N,11,1982,jarier,\N,\N,Jean-Pierre,Jarier,10/07/1946,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier,Osella,1946,36
+11195,471,172,27,26,17,9,9,9,0,66,\N,\N,\N,\N,\N,\N,14,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11234,472,172,27,26,18,\N,R,16,0,29,\N,\N,\N,\N,\N,\N,64,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11255,473,172,27,26,13,6,6,6,1,61,\N,\N,\N,\N,\N,\N,11,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11298,474,172,27,26,19,\N,R,20,0,8,\N,\N,\N,\N,\N,\N,69,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11333,475,172,27,26,21,\N,R,26,0,4,\N,\N,\N,\N,\N,\N,64,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11354,476,172,27,26,20,\N,R,16,0,41,\N,\N,\N,\N,\N,\N,6,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11382,477,172,27,26,16,14,14,14,0,51,\N,\N,\N,\N,\N,\N,13,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11410,478,172,27,26,15,\N,R,13,0,36,\N,\N,\N,\N,\N,\N,64,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11429,479,172,27,26,14,3,3,3,4,52,\N,\N,\N,\N,\N,\N,11,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11475,480,172,27,26,13,\N,R,20,0,33,\N,\N,\N,\N,\N,\N,64,1982,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Ligier,1943,39
+11487,481,207,6,28,1,3,3,3,4,52,48.452,4994186,\N,\N,\N,\N,1,1982,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Ferrari,1940,42
+11533,482,207,6,28,7,\N,R,19,0,26,\N,\N,\N,\N,\N,\N,22,1982,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Ferrari,1940,42
+11548,483,207,51,22,6,4,4,4,3,80,49.31,6690640,\N,\N,\N,\N,1,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11596,484,207,51,22,9,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,4,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11611,485,207,51,22,17,8,8,8,0,52,\N,\N,\N,\N,\N,\N,11,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11652,486,207,51,22,12,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,6,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11674,487,207,51,22,18,10,10,10,0,53,\N,\N,\N,\N,\N,\N,11,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11715,488,207,51,22,12,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,4,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11734,489,207,51,22,8,8,8,8,0,80,+1:00.80,6455810,\N,\N,\N,\N,1,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11764,490,207,51,22,10,8,8,8,0,79,\N,\N,\N,\N,\N,\N,11,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11797,491,207,51,22,11,\N,R,12,0,59,\N,\N,\N,\N,\N,\N,37,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11824,492,207,51,22,12,9,9,9,0,44,\N,\N,\N,\N,\N,\N,11,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11857,493,207,51,22,13,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,5,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11884,494,207,51,22,7,\N,R,11,0,62,\N,\N,\N,\N,\N,\N,3,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11914,495,207,51,22,13,\N,R,11,0,40,\N,\N,\N,\N,\N,\N,5,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11940,496,207,51,22,16,7,7,7,0,62,\N,\N,\N,\N,\N,\N,11,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+11979,497,207,51,22,10,\N,R,16,0,29,\N,\N,\N,\N,\N,\N,22,1981,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Alfa Romeo,1940,41
+12003,498,223,57,14,15,\N,N,10,0,44,\N,\N,\N,\N,\N,\N,62,1980,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Ensign,1939,41
+12042,499,223,57,14,12,\N,R,21,0,13,\N,\N,\N,\N,\N,\N,5,1980,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Ensign,1939,41
+12058,500,223,57,14,20,9,9,9,0,77,\N,\N,\N,\N,\N,\N,11,1980,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Ensign,1939,41
+12089,501,223,57,14,23,\N,R,12,0,50,\N,\N,\N,\N,\N,\N,3,1980,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Ensign,1939,41
+12119,502,207,32,11,17,\N,R,15,0,41,\N,\N,\N,\N,\N,\N,6,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12138,503,207,32,11,19,7,7,7,0,73,\N,\N,\N,\N,\N,\N,13,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12176,504,207,32,11,12,\N,R,18,0,18,\N,\N,\N,\N,\N,\N,6,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12202,505,207,32,11,9,\N,R,17,0,57,\N,\N,\N,\N,\N,\N,6,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12219,506,207,32,11,9,7,7,7,0,45,+1:33.01,5132740,\N,\N,\N,\N,1,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12262,507,207,32,11,17,\N,R,24,0,6,\N,\N,\N,\N,\N,\N,5,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12281,508,230,51,22,22,\N,R,17,0,21,\N,\N,\N,\N,\N,\N,3,1980,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Alfa Romeo,1937,43
+12317,509,230,51,22,19,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,20,1980,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Alfa Romeo,1937,43
+12338,510,207,32,11,18,\N,R,17,0,11,\N,\N,\N,\N,\N,\N,5,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12355,511,207,32,11,11,6,6,6,1,58,\N,\N,\N,\N,\N,\N,11,1980,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Team Lotus,1940,40
+12386,512,223,3,28,17,10,10,10,0,51,\N,\N,\N,\N,\N,\N,12,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12417,513,223,3,28,17,15,15,15,0,38,\N,\N,\N,\N,\N,\N,12,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12437,514,223,3,28,22,9,9,9,0,76,\N,\N,\N,\N,\N,\N,12,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12469,515,223,3,28,15,\N,R,15,0,48,\N,\N,\N,\N,\N,\N,5,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12499,516,223,3,28,14,\N,R,19,0,32,\N,\N,\N,\N,\N,\N,5,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12531,517,223,3,28,8,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,3,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12537,518,223,3,28,16,2,2,2,6,76,0.44,6922920,\N,\N,\N,\N,1,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12566,519,223,3,28,9,6,6,6,1,80,+1:05.51,5785930,\N,\N,\N,\N,1,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12588,520,223,3,28,4,1,1,1,9,68,26:11.2,5171170,\N,\N,\N,\N,1,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12615,521,223,3,28,6,2,2,2,6,45,2.91,5091740,\N,\N,\N,\N,1,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12644,522,223,3,28,6,5,5,5,2,54,48.92,5306930,\N,\N,\N,\N,1,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12689,523,223,3,28,3,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,3,1979,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Williams,1939,40
+12703,524,230,51,36,22,12,12,12,0,49,\N,\N,\N,\N,\N,\N,11,1979,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Alfa Romeo,1937,42
+12731,525,230,51,36,18,\N,R,12,0,52,\N,\N,\N,\N,\N,\N,69,1979,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Alfa Romeo,1937,42
+12774,526,230,51,36,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,1979,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Alfa Romeo,1937,42
+12797,527,230,63,19,12,18,18,18,0,50,\N,\N,\N,\N,\N,\N,12,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+12833,528,230,63,19,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+12846,529,230,63,19,19,12,12,12,0,76,\N,\N,\N,\N,\N,\N,12,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+12878,530,230,63,19,17,\N,R,14,0,50,\N,\N,\N,\N,\N,\N,7,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+12918,531,230,63,19,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+12937,532,230,63,19,12,13,13,13,0,63,\N,\N,\N,\N,\N,\N,5,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+12961,533,230,63,19,16,7,7,7,0,74,\N,\N,\N,\N,\N,\N,11,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13007,534,230,63,19,18,\N,R,24,0,7,\N,\N,\N,\N,\N,\N,3,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13027,535,230,63,19,19,17,17,17,0,52,\N,\N,\N,\N,\N,\N,12,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13048,536,230,63,19,25,9,9,9,0,75,\N,\N,\N,\N,\N,\N,11,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13086,537,230,63,19,20,\N,R,17,0,24,\N,\N,\N,\N,\N,\N,69,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13105,538,230,63,19,21,6,6,6,1,53,\N,\N,\N,\N,\N,\N,11,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13147,539,230,63,19,22,\N,D,17,0,37,\N,\N,\N,\N,\N,\N,2,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13187,540,230,63,19,23,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,3,1978,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,41
+13209,541,223,58,17,17,14,14,14,0,56,\N,\N,\N,\N,\N,\N,13,1978,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Shadow,1939,39
+13245,542,223,58,17,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1978,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Shadow,1939,39
+13257,543,230,63,19,13,7,7,7,0,48,\N,\N,\N,\N,\N,\N,60,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13290,544,230,63,19,11,\N,R,19,0,11,\N,\N,\N,\N,\N,\N,3,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13300,545,230,63,19,14,7,7,7,0,78,23.6,6165200,\N,\N,\N,\N,1,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13338,546,230,63,19,11,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,3,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13362,547,230,63,19,11,\N,R,24,0,9,\N,\N,\N,\N,\N,\N,3,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13377,548,230,63,19,14,8,8,8,0,76,+1:08.64,7141410,\N,\N,\N,\N,1,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13399,549,230,63,19,12,4,4,4,3,70,24.98,6930690,\N,\N,\N,\N,1,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13447,550,230,63,19,13,\N,R,21,0,52,\N,\N,\N,\N,\N,\N,32,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13470,551,230,63,19,11,13,13,13,0,77,\N,\N,\N,\N,\N,\N,13,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13495,552,230,63,19,8,8,8,8,0,67,\N,\N,\N,\N,\N,\N,11,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13528,553,230,63,19,10,5,5,5,2,47,87.37,5596670,\N,\N,\N,\N,1,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13567,554,230,63,19,13,15,15,15,0,52,\N,\N,\N,\N,\N,\N,12,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13594,555,230,63,19,22,12,12,12,0,67,\N,\N,\N,\N,\N,\N,3,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13637,556,230,63,19,10,\N,R,21,0,5,\N,\N,\N,\N,\N,\N,3,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13669,557,230,63,19,11,19,19,19,0,54,\N,\N,\N,\N,\N,\N,15,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13683,558,230,63,19,15,6,6,6,1,78,\N,\N,\N,\N,\N,\N,3,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13712,559,230,63,19,9,8,8,8,0,71,\N,\N,\N,\N,\N,\N,12,1977,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,Surtees,1937,40
+13744,560,230,37,9,7,\N,R,17,0,15,\N,\N,\N,\N,\N,\N,44,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13757,561,230,37,9,5,8,8,8,0,77,\N,\N,\N,\N,\N,\N,11,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13792,562,230,37,9,20,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13822,563,230,37,9,6,\N,R,21,0,21,\N,\N,\N,\N,\N,\N,22,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13857,564,230,37,9,5,\N,R,26,0,6,\N,\N,\N,\N,\N,\N,86,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13878,565,230,37,9,9,\N,R,18,0,9,\N,\N,\N,\N,\N,\N,22,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13895,566,230,37,9,15,10,10,10,0,71,\N,\N,\N,\N,\N,\N,11,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13933,567,230,37,9,11,\N,R,21,0,28,\N,\N,\N,\N,\N,\N,51,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13962,568,230,37,9,10,\N,R,20,0,22,\N,\N,\N,\N,\N,\N,3,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+13989,569,230,37,9,13,\N,R,17,0,1,\N,\N,\N,\N,\N,\N,3,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14015,570,230,37,9,7,\N,R,15,0,43,\N,\N,\N,\N,\N,\N,3,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14031,571,230,37,9,7,6,6,6,1,75,45.03,6337120,\N,\N,\N,\N,1,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14059,572,230,37,9,16,7,7,7,0,52,43.9,5479500,\N,\N,\N,\N,1,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14095,573,230,37,9,3,14,14,14,0,79,\N,\N,\N,\N,\N,\N,11,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14125,574,230,37,9,12,\N,R,17,0,34,\N,\N,\N,\N,\N,\N,27,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14150,575,230,37,9,8,\N,R,15,0,38,\N,\N,\N,\N,\N,\N,10,1976,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,39
+14171,576,289,26,22,21,10,10,10,0,52,\N,\N,\N,\N,\N,\N,11,1975,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,46
+14196,577,289,26,22,20,12,12,12,0,39,\N,\N,\N,\N,\N,\N,11,1975,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,46
+14235,578,289,26,22,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1975,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,46
+14240,579,230,37,9,5,5,5,5,1,28,\N,\N,\N,\N,\N,\N,11,1975,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,38
+14282,580,289,75,23,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,1975,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Embassy Hill,1929,46
+14298,581,288,67,28,21,11,11,11,0,67,\N,\N,\N,\N,\N,\N,13,1975,donohue,\N,\N,Mark,Donohue,18/03/1937,American,http://en.wikipedia.org/wiki/Mark_Donohue,Penske,1937,38
+14316,582,288,67,28,16,5,5,5,2,80,+1:30.763,7249082,\N,\N,\N,\N,1,1975,donohue,\N,\N,Mark,Donohue,18/03/1937,American,http://en.wikipedia.org/wiki/Mark_Donohue,Penske,1937,38
+14345,583,288,67,28,18,8,8,8,0,74,\N,\N,\N,\N,\N,\N,11,1975,donohue,\N,\N,Mark,Donohue,18/03/1937,American,http://en.wikipedia.org/wiki/Mark_Donohue,Penske,1937,38
+14384,584,230,37,9,8,\N,R,22,0,6,\N,\N,\N,\N,\N,\N,83,1975,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,38
+14393,585,288,37,28,15,5,5,5,2,55,\N,\N,\N,\N,\N,\N,3,1975,donohue,\N,\N,Mark,Donohue,18/03/1937,American,http://en.wikipedia.org/wiki/Mark_Donohue,March,1937,38
+14436,586,230,37,9,11,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,22,1975,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,38
+14443,587,230,37,9,8,1,1,1,4,29,57:56.7,3476690,\N,\N,\N,\N,1,1975,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,38
+14497,588,230,37,9,9,\N,R,25,0,1,\N,\N,\N,\N,\N,\N,8,1975,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,38
+14507,589,230,37,9,6,7,7,7,0,59,+1:44.031,6282206,\N,\N,\N,\N,1,1975,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,38
+14538,590,289,26,26,17,\N,R,14,0,45,\N,\N,\N,\N,\N,\N,5,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14560,591,289,26,26,21,11,11,11,0,31,\N,\N,\N,\N,\N,\N,11,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14586,592,289,26,26,18,12,12,12,0,77,\N,\N,\N,\N,\N,\N,11,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14617,593,289,26,26,19,\N,R,16,0,43,\N,\N,\N,\N,\N,\N,5,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14636,594,289,26,26,29,8,8,8,0,83,\N,\N,\N,\N,\N,\N,12,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14667,595,289,26,26,21,7,7,7,0,76,\N,\N,\N,\N,\N,\N,12,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14694,596,289,26,26,15,6,6,6,1,79,\N,\N,\N,\N,\N,\N,11,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14735,597,289,26,26,19,\N,R,20,0,16,\N,\N,\N,\N,\N,\N,6,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14755,598,289,26,26,21,13,13,13,0,78,\N,\N,\N,\N,\N,\N,12,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14785,599,289,26,26,22,13,13,13,0,69,\N,\N,\N,\N,\N,\N,16,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14815,600,289,26,26,19,9,9,9,0,14,+3:26.4,6301400,\N,\N,\N,\N,1,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14850,601,289,26,26,21,12,12,12,0,48,\N,\N,\N,\N,\N,\N,16,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14877,602,289,26,26,21,8,8,8,0,51,\N,\N,\N,\N,\N,\N,11,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14914,603,289,26,26,20,14,14,14,0,77,\N,\N,\N,\N,\N,\N,13,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14938,604,289,26,26,24,8,8,8,0,58,\N,\N,\N,\N,\N,\N,11,1974,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lola,1929,45
+14965,605,304,1,14,8,5,5,5,2,95,\N,\N,\N,\N,\N,\N,11,1973,hulme,\N,\N,Denny,Hulme,18/06/1936,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme,McLaren,1936,37
+14982,606,304,1,7,5,3,3,3,4,40,+1:46.4,6342000,\N,\N,\N,\N,1,1973,hulme,\N,\N,Denny,Hulme,18/06/1936,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme,McLaren,1936,37
+15005,607,332,58,23,21,6,6,6,1,77,\N,\N,\N,\N,\N,\N,12,1973,follmer,\N,\N,George,Follmer,27/01/1934,American,http://en.wikipedia.org/wiki/George_Follmer,Shadow,1934,39
+15042,608,289,58,25,22,\N,R,18,0,27,\N,\N,\N,\N,\N,\N,23,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15055,609,289,58,12,23,9,9,9,0,65,\N,\N,\N,\N,\N,\N,15,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15082,610,289,58,12,24,\N,R,13,0,62,\N,\N,\N,\N,\N,\N,22,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15113,611,289,58,12,18,\N,R,19,0,16,\N,\N,\N,\N,\N,\N,80,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15125,612,289,58,12,16,10,10,10,0,53,\N,\N,\N,\N,\N,\N,11,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15157,613,289,58,12,27,\N,R,17,0,24,\N,\N,\N,\N,\N,\N,83,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15181,614,289,58,12,17,\N,N,12,0,56,\N,\N,\N,\N,\N,\N,62,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15206,615,289,58,12,20,13,13,13,0,14,+3:49.0,6352000,\N,\N,\N,\N,1,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15231,616,289,58,12,22,\N,R,16,0,28,\N,\N,\N,\N,\N,\N,22,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15252,617,289,58,12,22,14,14,14,0,54,\N,\N,\N,\N,\N,\N,11,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15279,618,289,58,12,17,16,16,16,0,73,\N,\N,\N,\N,\N,\N,17,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15302,619,289,58,12,18,13,13,13,0,57,\N,\N,\N,\N,\N,\N,12,1973,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Shadow,1929,44
+15335,620,289,34,1,16,\N,R,18,0,11,\N,\N,\N,\N,\N,\N,48,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15355,621,340,63,27,26,16,16,16,0,73,\N,\N,\N,\N,\N,\N,20,1972,love,\N,\N,John,Love,07/12/1924,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver),Surtees,1924,48
+15375,622,289,34,18,23,10,10,10,0,86,\N,\N,\N,\N,\N,\N,14,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15403,623,289,34,20,20,12,12,12,0,76,\N,\N,\N,\N,\N,\N,14,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15431,624,289,34,17,16,\N,R,15,0,73,\N,\N,\N,\N,\N,\N,22,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15451,625,289,34,18,20,10,10,10,0,38,+2:59.5,6922000,\N,\N,\N,\N,1,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15484,626,289,34,26,21,\N,R,18,0,47,\N,\N,\N,\N,\N,\N,20,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15498,627,289,34,11,15,6,6,6,1,14,+2:59.6,6311900,\N,\N,\N,\N,1,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15537,628,289,34,16,14,\N,R,18,0,36,\N,\N,\N,\N,\N,\N,98,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15549,629,289,34,28,13,5,5,5,2,55,+1:05.6,5464000,\N,\N,\N,\N,1,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15579,630,289,34,7,17,8,8,8,0,79,\N,\N,\N,\N,\N,\N,11,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15606,631,289,34,28,27,11,11,11,0,57,\N,\N,\N,\N,\N,\N,12,1972,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,43
+15647,632,340,200,24,21,\N,R,21,0,30,\N,\N,\N,\N,\N,\N,24,1971,love,\N,\N,John,Love,07/12/1924,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver),March-Ford,1924,47
+15672,633,289,34,7,10,\N,R,22,0,5,\N,\N,\N,\N,\N,\N,38,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15690,634,289,34,7,9,\N,R,18,0,1,\N,\N,\N,\N,\N,\N,3,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15704,635,289,34,24,16,10,10,10,0,65,\N,\N,\N,\N,\N,\N,15,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15733,636,289,34,7,4,\N,R,16,0,34,\N,\N,\N,\N,\N,\N,108,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15763,637,289,34,7,22,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,3,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15773,638,289,34,24,13,9,9,9,0,12,+6:37.0,5753300,\N,\N,\N,\N,1,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15792,639,289,34,7,8,5,5,5,2,54,48.43,5472340,\N,\N,\N,\N,1,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15820,640,289,34,10,14,\N,R,11,0,47,\N,\N,\N,\N,\N,\N,6,1971,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Brabham,1929,42
+15851,641,353,180,35,25,\N,N,18,0,55,\N,\N,\N,\N,\N,\N,62,1971,lovely,\N,\N,Pete,Lovely,11/04/1926,American,http://en.wikipedia.org/wiki/Pete_Lovely,Lotus-Ford,1926,45
+15880,642,353,180,30,29,\N,N,21,0,49,\N,\N,\N,\N,\N,\N,62,1971,lovely,\N,\N,Pete,Lovely,11/04/1926,American,http://en.wikipedia.org/wiki/Pete_Lovely,Lotus-Ford,1926,45
+15896,643,340,32,23,22,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,1970,love,\N,\N,John,Love,07/12/1924,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver),Team Lotus,1924,46
+15918,644,356,34,7,1,\N,R,7,0,61,\N,\N,\N,\N,\N,\N,5,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+15935,645,356,34,5,4,2,2,2,6,80,23.1,6900500,\N,\N,\N,\N,1,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+15964,646,356,34,18,5,\N,R,10,0,19,\N,\N,\N,\N,\N,\N,8,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+15982,647,356,34,18,12,11,11,11,0,76,\N,\N,\N,\N,\N,\N,14,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+15998,648,356,34,23,5,3,3,3,4,38,44.83,7001830,\N,\N,\N,\N,1,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16020,649,356,34,17,2,2,2,2,6,80,32.9,7054900,\N,\N,\N,\N,1,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16060,650,356,34,3,12,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,44,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16099,651,356,34,10,8,13,13,13,0,56,\N,\N,\N,\N,\N,\N,14,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16122,652,356,34,44,8,\N,R,12,0,31,\N,\N,\N,\N,\N,\N,3,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16153,653,356,34,11,19,\N,R,16,0,57,\N,\N,\N,\N,\N,\N,44,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16167,654,356,34,15,16,10,10,10,0,105,\N,\N,\N,\N,\N,\N,13,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16195,655,356,34,15,4,\N,R,11,0,52,\N,\N,\N,\N,\N,\N,5,1970,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,44
+16210,656,368,191,17,17,8,8,8,0,73,\N,\N,\N,\N,\N,\N,17,1969,tingle,\N,\N,Sam,Tingle,24/08/1921,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle,Brabham-Repco,1921,48
+16229,657,356,182,3,5,\N,R,9,0,51,\N,\N,\N,\N,\N,\N,5,1969,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Ford,1926,43
+16249,658,356,182,5,8,\N,R,15,0,9,\N,\N,\N,\N,\N,\N,3,1969,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Ford,1926,43
+16256,659,356,182,11,8,6,6,6,1,90,+1:10.81,7672890,\N,\N,\N,\N,1,1969,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Ford,1926,43
+16271,660,289,180,1,8,6,6,6,1,37,\N,\N,\N,\N,\N,\N,11,1969,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lotus-Ford,1929,40
+16285,661,289,180,1,12,7,7,7,0,82,\N,\N,\N,\N,\N,\N,12,1969,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lotus-Ford,1929,40
+16299,662,289,180,1,9,4,4,4,3,14,+3:58.8,6834200,\N,\N,\N,\N,1,1969,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Lotus-Ford,1929,40
+16323,663,356,182,28,7,\N,R,14,0,6,\N,\N,\N,\N,\N,\N,44,1969,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Ford,1926,43
+16338,664,371,189,69,17,\N,D,14,0,22,\N,\N,\N,\N,\N,\N,2,1969,pease,\N,\N,Al,Pease,15/10/1921,Canadian,http://en.wikipedia.org/wiki/Al_Pease,Eagle-Climax,1921,48
+16348,665,356,182,8,18,4,4,4,3,106,\N,\N,\N,\N,\N,\N,12,1969,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Ford,1926,43
+16365,666,356,182,8,1,3,3,3,4,65,38.48,6887280,\N,\N,\N,\N,1,1969,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Ford,1926,43
+16394,667,368,89,18,22,\N,R,15,0,35,\N,\N,\N,\N,\N,\N,25,1968,tingle,\N,\N,Sam,Tingle,24/08/1921,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle,LDS,1921,47
+16416,668,356,191,3,0,\N,W,14,0,0,\N,\N,\N,\N,\N,\N,54,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16429,669,356,191,2,12,\N,R,13,0,7,\N,\N,\N,\N,\N,\N,22,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16449,670,356,191,18,10,\N,R,15,0,6,\N,\N,\N,\N,\N,\N,37,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16468,671,356,191,5,4,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,20,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16485,672,356,191,4,13,\N,R,14,0,15,\N,\N,\N,\N,\N,\N,48,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16508,673,356,191,3,8,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,5,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16513,674,356,191,4,15,5,5,5,2,14,+6:21.1,8724300,\N,\N,\N,\N,1,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16536,675,356,191,10,16,\N,R,8,0,56,\N,\N,\N,\N,\N,\N,51,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16564,676,356,191,5,10,\N,R,14,0,31,\N,\N,\N,\N,\N,\N,22,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16581,677,356,191,3,8,\N,R,10,0,77,\N,\N,\N,\N,\N,\N,5,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16601,678,356,191,3,8,10,10,10,0,59,\N,\N,\N,\N,\N,\N,51,1968,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,42
+16621,679,368,184,18,14,\N,R,9,0,56,\N,\N,\N,\N,\N,\N,3,1967,tingle,\N,\N,Sam,Tingle,24/08/1921,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle,LDS-Climax,1921,46
+16646,680,356,191,8,1,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,5,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16651,681,356,191,1,3,2,2,2,6,90,23.6,8108700,\N,\N,\N,\N,1,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16678,682,356,191,25,7,\N,R,12,0,15,\N,\N,\N,\N,\N,\N,5,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16685,683,356,191,3,2,1,1,1,9,80,13:21.3,8001300,\N,\N,\N,\N,1,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16703,684,356,191,1,3,4,4,4,3,80,21.8,7187400,\N,\N,\N,\N,1,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16722,685,356,191,1,7,2,2,2,6,15,38.5,7594200,\N,\N,\N,\N,1,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16759,686,371,189,11,15,\N,N,15,0,47,\N,\N,\N,\N,\N,\N,62,1967,pease,\N,\N,Al,Pease,15/10/1921,Canadian,http://en.wikipedia.org/wiki/Al_Pease,Eagle-Climax,1921,46
+16764,687,356,191,16,2,2,2,2,6,68,0.2,6225200,\N,\N,\N,\N,1,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16785,688,356,191,1,5,5,5,5,2,104,\N,\N,\N,\N,\N,\N,14,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16800,689,356,191,1,5,2,2,2,6,65,+1:25.36,7254060,\N,\N,\N,\N,1,1967,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,41
+16829,690,356,191,7,11,\N,R,12,0,17,\N,\N,\N,\N,\N,\N,6,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16837,691,356,191,3,4,4,4,4,3,26,\N,\N,\N,\N,\N,\N,12,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16852,692,356,191,12,4,1,1,1,9,48,48:31.3,6511300,\N,\N,\N,\N,1,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16869,693,356,191,5,1,1,1,1,9,80,13:13.4,7993400,\N,\N,\N,\N,1,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16889,694,356,191,16,1,1,1,1,9,90,20:32.5,8432500,\N,\N,\N,\N,1,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16906,695,356,191,3,5,1,1,1,9,15,27:03.0,8823000,\N,\N,\N,\N,1,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16940,696,356,191,10,6,\N,R,16,0,7,\N,\N,\N,\N,\N,\N,44,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16958,697,356,191,5,1,\N,R,12,0,55,\N,\N,\N,\N,\N,\N,5,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+16967,698,356,191,5,4,2,2,2,6,65,7.88,7603220,\N,\N,\N,\N,1,1966,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Repco,1926,40
+17006,699,411,184,21,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1965,serrurier,\N,\N,Doug,Serrurier,09/12/1920,South African,http://en.wikipedia.org/wiki/Doug_Serrurier,LDS-Climax,1920,45
+17025,700,356,183,1,2,\N,R,11,0,43,\N,\N,\N,\N,\N,\N,5,1965,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,39
+17035,701,356,183,14,10,4,4,4,3,31,\N,\N,\N,\N,\N,\N,11,1965,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,39
+17055,702,289,66,10,13,5,5,5,2,39,\N,\N,\N,\N,\N,\N,11,1965,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,BRM,1929,36
+17078,703,420,181,24,20,11,11,11,0,73,\N,\N,\N,\N,\N,\N,17,1965,raby,\N,\N,Ian,Raby,22/09/1921,British,http://en.wikipedia.org/wiki/Ian_Raby,Brabham-BRM,1921,44
+17094,704,289,66,10,1,4,4,4,3,80,45.1,7484200,\N,\N,\N,\N,1,1965,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,BRM,1929,36
+17128,705,420,183,23,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,1965,raby,\N,\N,Ian,Raby,22/09/1921,British,http://en.wikipedia.org/wiki/Ian_Raby,Brabham-Climax,1921,44
+17141,706,424,66,50,21,13,13,13,0,58,\N,\N,\N,\N,\N,\N,51,1965,bussinello,\N,\N,Roberto,Bussinello,04/10/1927,Italian,http://en.wikipedia.org/wiki/Roberto_Bussinello,BRM,1927,38
+17154,707,356,183,7,7,3,3,3,4,110,57.5,8493600,\N,\N,\N,\N,1,1965,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,39
+17182,708,356,183,7,14,\N,R,13,0,38,\N,\N,\N,\N,\N,\N,44,1965,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,39
+17200,709,427,66,4,13,\N,R,12,0,53,\N,\N,\N,\N,\N,\N,25,1964,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,BRM,1917,47
+17225,710,356,183,14,7,\N,R,14,0,44,\N,\N,\N,\N,\N,\N,80,1964,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,38
+17244,711,429,92,28,20,\N,R,15,0,11,\N,\N,\N,\N,\N,\N,5,1964,andre_pilette,\N,\N,André,Pilette,06/10/1918,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette,Scirocco,1918,46
+17258,712,427,66,28,16,11,11,11,0,52,\N,\N,\N,\N,\N,\N,15,1964,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,BRM,1917,47
+17288,713,427,66,25,25,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,1964,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,BRM,1917,47
+17294,714,427,66,22,14,5,5,5,2,14,\N,\N,\N,\N,\N,\N,84,1964,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,BRM,1917,47
+17321,715,356,183,6,6,9,9,9,0,76,\N,\N,\N,\N,\N,\N,118,1964,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,38
+17349,716,427,66,48,21,\N,R,17,0,22,\N,\N,\N,\N,\N,\N,98,1964,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,BRM,1917,47
+17361,717,433,172,17,17,5,5,5,2,107,\N,\N,\N,\N,\N,\N,13,1964,hansgen,\N,\N,Walt,Hansgen,28/10/1919,American,http://en.wikipedia.org/wiki/Walt_Hansgen,Lotus-Climax,1919,45
+17390,718,356,183,5,7,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,10,1964,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham-Climax,1926,38
+17406,719,427,26,17,14,\N,R,12,0,34,\N,\N,\N,\N,\N,\N,8,1963,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lola,1917,46
+17427,720,438,92,24,19,8,8,8,0,25,\N,\N,\N,\N,\N,\N,3,1963,settember,\N,\N,Tony,Settember,10/07/1926,American,http://en.wikipedia.org/wiki/Tony_Settember,Scirocco,1926,37
+17456,721,356,34,16,4,\N,R,13,0,68,\N,\N,\N,\N,\N,\N,3,1963,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Brabham,1926,37
+17472,722,427,172,28,15,8,8,8,0,50,\N,\N,\N,\N,\N,\N,13,1963,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,46
+17505,723,420,97,26,19,\N,R,17,0,59,\N,\N,\N,\N,\N,\N,6,1963,raby,\N,\N,Ian,Raby,22/09/1921,British,http://en.wikipedia.org/wiki/Ian_Raby,Gilby,1921,42
+17540,724,442,177,27,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1963,kuhnke,\N,\N,Kurt,Kuhnke,30/04/1910,German,http://en.wikipedia.org/wiki/Kurt_Kuhnke,Lotus-Borgward,1910,53
+17552,725,427,66,66,20,9,9,9,0,83,\N,\N,\N,\N,\N,\N,13,1963,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,BRM,1917,46
+17598,726,433,172,7,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,1963,hansgen,\N,\N,Walt,Hansgen,28/10/1919,American,http://en.wikipedia.org/wiki/Walt_Hansgen,Lotus-Climax,1919,44
+17623,727,433,32,7,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,1963,hansgen,\N,\N,Walt,Hansgen,28/10/1919,American,http://en.wikipedia.org/wiki/Walt_Hansgen,Team Lotus,1919,44
+20310,728,411,89,16,18,11,11,11,0,78,\N,\N,\N,\N,\N,\N,17,1963,serrurier,\N,\N,Doug,Serrurier,09/12/1920,South African,http://en.wikipedia.org/wiki/Doug_Serrurier,LDS,1920,43
+17647,729,427,172,21,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17662,730,427,172,30,7,\N,R,15,0,0,\N,\N,\N,\N,\N,\N,3,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17679,731,427,172,18,16,8,8,8,0,30,\N,\N,\N,\N,\N,\N,12,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17704,732,427,172,28,13,7,7,7,0,50,\N,\N,\N,\N,\N,\N,14,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17742,733,427,172,28,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17767,734,427,172,17,11,\N,R,22,0,4,\N,\N,\N,\N,\N,\N,6,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17807,735,442,177,58,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,1962,kuhnke,\N,\N,Kurt,Kuhnke,30/04/1910,German,http://en.wikipedia.org/wiki/Kurt_Kuhnke,Lotus-Borgward,1910,52
+17822,736,427,172,6,19,\N,R,15,0,32,\N,\N,\N,\N,\N,\N,23,1962,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Lotus-Climax,1917,45
+17840,737,411,89,21,14,\N,R,13,0,62,\N,\N,\N,\N,\N,\N,21,1962,serrurier,\N,\N,Doug,Serrurier,09/12/1920,South African,http://en.wikipedia.org/wiki/Doug_Serrurier,LDS,1920,42
+17855,738,427,167,42,16,7,7,7,0,95,\N,\N,\N,\N,\N,\N,15,1961,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,44
+17875,739,356,170,10,7,6,6,6,1,75,+1:20.1,7392200,\N,\N,\N,\N,1,1961,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Cooper-Climax,1926,35
+17901,740,427,167,26,20,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,6,1961,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,44
+17925,741,427,167,32,23,13,13,13,0,42,\N,\N,\N,\N,\N,\N,88,1961,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,44
+20299,742,486,102,26,20,\N,D,19,0,56,\N,\N,\N,\N,\N,\N,2,1961,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Ferguson,1913,48
+17992,743,427,167,20,21,\N,R,18,0,12,\N,\N,\N,\N,\N,\N,5,1961,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,44
+18032,744,486,170,30,26,\N,R,25,0,5,\N,\N,\N,\N,\N,\N,5,1961,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Cooper-Climax,1913,48
+18066,745,495,172,23,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,1961,ken_miles,\N,\N,Ken,Miles,01/11/1918,British,http://en.wikipedia.org/wiki/Ken_Miles,Lotus-Climax,1918,43
+18070,746,496,167,6,12,4,4,4,3,80,53.3,8322800,\N,\N,\N,\N,1,1960,menditeguy,\N,\N,Carlos,Menditeguy,10/08/1914,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy,Cooper-Maserati,1914,46
+18104,747,427,167,44,16,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,6,1960,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,43
+18124,748,518,114,17,27,12,12,12,0,200,+11:17.20,13648560,\N,\N,\N,\N,1,1960,darter,\N,\N,Duane,Carter,05/05/1913,American,http://en.wikipedia.org/wiki/Duane_Carter,Kuzma,1913,47
+18158,749,427,167,18,17,\N,R,13,0,39,\N,\N,\N,\N,\N,\N,6,1960,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,43
+18178,750,507,106,30,18,\N,R,12,0,16,\N,\N,\N,\N,\N,\N,5,1960,daigh,\N,\N,Chuck,Daigh,29/11/1923,American,http://en.wikipedia.org/wiki/Chuck_Daigh,Scarab,1923,37
+18205,751,427,167,38,18,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,3,1960,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,43
+18231,752,486,170,23,15,\N,R,23,0,46,\N,\N,\N,\N,\N,\N,48,1960,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Cooper-Climax,1913,47
+18240,753,482,170,8,14,7,7,7,0,46,\N,\N,\N,\N,\N,\N,19,1960,gendebien,\N,\N,Olivier,Gendebien,12/01/1924,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien,Cooper-Climax,1924,36
+18264,754,546,170,8,11,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,3,1960,owen,\N,\N,Arthur,Owen,23/03/1915,British,http://en.wikipedia.org/wiki/Arthur_Owen,Cooper-Climax,1915,45
+18280,755,427,167,18,19,15,15,15,0,66,\N,\N,\N,\N,\N,\N,19,1960,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Maserati,1917,43
+18291,756,427,170,32,6,3,3,3,4,98,\N,\N,\N,\N,\N,\N,12,1959,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Climax,1917,42
+18319,757,518,113,37,12,7,7,7,0,200,+4:09.92,13499120,\N,\N,\N,\N,1,1959,darter,\N,\N,Duane,Carter,05/05/1913,American,http://en.wikipedia.org/wiki/Duane_Carter,Kurtis Kraft,1913,46
+18353,758,427,170,10,11,8,8,8,0,73,\N,\N,\N,\N,\N,\N,12,1959,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Climax,1917,42
+18371,759,427,170,14,8,11,11,11,0,36,\N,\N,\N,\N,\N,\N,111,1959,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Climax,1917,42
+18399,760,486,170,38,15,\N,R,17,0,39,\N,\N,\N,\N,\N,\N,6,1959,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Cooper-Climax,1913,46
+18416,761,427,170,8,12,4,4,4,3,59,\N,\N,\N,\N,\N,\N,11,1959,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Climax,1917,42
+18431,762,427,170,5,4,4,4,4,3,60,\N,\N,\N,\N,\N,\N,12,1959,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper-Climax,1917,42
+18461,763,486,167,22,12,\N,R,18,0,18,\N,\N,\N,\N,\N,\N,5,1959,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Cooper-Maserati,1913,46
+18483,764,576,105,22,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,1959,cade,\N,\N,Phil,Cade,12/06/1916,American,http://en.wikipedia.org/wiki/Phil_Cade,Maserati,1916,43
+18487,765,579,105,2,1,4,4,4,4,80,53,8426700,\N,\N,\N,\N,1,1958,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,47
+18518,766,586,127,54,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,1958,piotti,\N,\N,Luigi,Piotti,27/10/1913,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti,OSCA,1913,45
+18533,767,427,87,9,8,9,9,9,0,72,\N,\N,\N,\N,\N,\N,13,1958,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper,1917,41
+18560,768,555,113,15,14,\N,R,18,0,122,\N,\N,\N,\N,\N,\N,37,1958,paul_russo,\N,\N,Paul,Russo,10/04/1914,American,http://en.wikipedia.org/wiki/Paul_Russo,Kurtis Kraft,1914,44
+18582,769,427,105,28,16,7,7,7,0,23,\N,\N,\N,\N,\N,\N,11,1958,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Maserati,1917,41
+18598,770,579,105,34,8,4,4,4,3,50,+2:30.6,7551900,\N,\N,\N,\N,1,1958,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,47
+18635,771,486,125,14,19,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,80,1958,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Connaught,1913,45
+18638,772,427,87,11,7,3,3,3,4,15,+5:11.2,8786200,\N,\N,\N,\N,1,1958,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper,1917,41
+18669,773,427,87,12,9,8,8,8,0,48,\N,\N,\N,\N,\N,\N,12,1958,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper,1917,41
+18689,774,427,87,2,13,\N,R,13,0,24,\N,\N,\N,\N,\N,\N,6,1958,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Cooper,1917,41
+18705,775,486,87,30,11,8,8,8,0,50,\N,\N,\N,\N,\N,\N,13,1958,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,Cooper,1913,45
+18723,776,579,105,2,2,1,1,1,8,100,00:55.9,10855900,\N,\N,\N,\N,1,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18737,777,579,105,32,1,1,1,1,9,105,10:12.8,11412800,\N,\N,\N,\N,1,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18779,778,615,113,14,4,\N,R,22,0,107,\N,\N,\N,\N,\N,\N,95,1957,agabashian,\N,\N,Fred,Agabashian,21/08/1913,American,http://en.wikipedia.org/wiki/Fred_Agabashian,Kurtis Kraft,1913,44
+18791,779,579,105,2,1,1,1,1,8,77,07:46.4,11266400,\N,\N,\N,\N,1,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18818,780,579,105,2,4,\N,R,13,0,49,\N,\N,\N,\N,\N,\N,5,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18825,781,579,105,1,1,1,1,1,9,22,30:38.3,12638300,\N,\N,\N,\N,1,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18850,782,579,105,2,1,2,2,2,6,18,+3:13.9,10956600,\N,\N,\N,\N,1,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18866,783,579,105,2,4,2,2,2,6,87,41.2,9345100,\N,\N,\N,\N,1,1957,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Maserati,1911,46
+18886,784,622,105,10,11,4,4,4,2,92,\N,\N,\N,\N,\N,\N,16,1956,landi,\N,\N,Chico,Landi,14/07/1907,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi,Maserati,1907,49
+18905,785,627,105,8,15,\N,R,10,0,72,\N,\N,\N,\N,\N,\N,5,1956,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,51
+18925,786,615,113,42,7,12,12,12,0,196,\N,\N,\N,\N,\N,\N,14,1956,agabashian,\N,\N,Fred,Agabashian,21/08/1913,American,http://en.wikipedia.org/wiki/Fred_Agabashian,Kurtis Kraft,1913,43
+18954,787,627,105,24,10,8,8,8,0,33,\N,\N,\N,\N,\N,\N,13,1956,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,51
+18967,788,627,105,36,12,6,6,6,0,58,\N,\N,\N,\N,\N,\N,13,1956,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,51
+19002,789,627,105,27,27,\N,R,21,0,23,\N,\N,\N,\N,\N,\N,10,1956,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,51
+19014,790,627,105,15,14,5,5,5,2,19,\N,\N,\N,\N,\N,\N,13,1956,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,51
+19049,791,641,118,16,4,\N,R,18,0,12,\N,\N,\N,\N,\N,\N,44,1956,taruffi,\N,\N,Piero,Taruffi,12/10/1906,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi,Vanwall,1906,50
+19059,792,642,6,10,5,3,3,3,1,94,\N,\N,\N,\N,\N,\N,12,1955,farina,\N,\N,Nino,Farina,30/10/1906,Italian,http://en.wikipedia.org/wiki/Nino_Farina,Ferrari,1906,49
+19096,793,627,105,14,17,\N,R,19,0,8,\N,\N,\N,\N,\N,\N,95,1955,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,50
+19111,794,518,114,98,18,11,11,11,0,197,\N,\N,\N,\N,\N,\N,13,1955,darter,\N,\N,Duane,Carter,05/05/1913,American,http://en.wikipedia.org/wiki/Duane_Carter,Kuzma,1913,42
+19142,795,627,105,28,12,9,9,9,0,33,\N,\N,\N,\N,\N,\N,13,1955,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,50
+19158,796,627,105,28,13,9,9,9,0,92,\N,\N,\N,\N,\N,\N,18,1955,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,50
+19169,797,641,131,50,5,4,4,4,3,89,\N,\N,\N,\N,\N,\N,11,1955,taruffi,\N,\N,Piero,Taruffi,12/10/1906,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi,Mercedes,1906,49
+19192,798,641,131,14,9,2,2,2,6,50,0.7,8705100,\N,\N,\N,\N,1,1955,taruffi,\N,\N,Piero,Taruffi,12/10/1906,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi,Mercedes,1906,49
+19229,799,627,6,24,14,\N,R,16,0,1,\N,\N,\N,\N,\N,\N,3,1954,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Ferrari,1905,49
+19261,800,677,139,65,29,\N,R,30,0,104,\N,\N,\N,\N,\N,\N,48,1954,webb,\N,\N,Travis,Webb,08/10/1910,American,http://en.wikipedia.org/wiki/Travis_Webb,Bromme,1910,44
+19272,801,642,6,4,3,\N,R,8,0,14,\N,\N,\N,\N,\N,\N,80,1954,farina,\N,\N,Nino,Farina,30/10/1906,Italian,http://en.wikipedia.org/wiki/Nino_Farina,Ferrari,1906,48
+19287,802,627,6,36,13,\N,R,9,0,27,\N,\N,\N,\N,\N,\N,5,1954,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Ferrari,1905,49
+19330,803,627,6,15,31,\N,R,30,0,2,\N,\N,\N,\N,\N,\N,5,1954,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Ferrari,1905,49
+19340,804,627,6,25,11,8,8,8,0,21,\N,\N,\N,\N,\N,\N,11,1954,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Ferrari,1905,49
+19364,805,648,131,8,5,\N,R,9,0,38,\N,\N,\N,\N,\N,\N,69,1954,kling,\N,\N,Karl,Kling,16/09/1910,German,http://en.wikipedia.org/wiki/Karl_Kling,Mercedes,1910,44
+19380,806,627,105,26,20,8,8,8,0,74,\N,\N,\N,\N,\N,\N,16,1954,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,49
+19400,807,627,105,26,20,7,7,7,0,74,\N,\N,\N,\N,\N,\N,16,1954,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Maserati,1905,49
+19427,808,697,105,6,15,\N,R,12,0,32,\N,\N,\N,\N,\N,\N,7,1953,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,50
+19446,809,701,113,49,28,15,15,15,0,177,\N,\N,\N,\N,\N,\N,121,1953,holland,\N,\N,Bill,Holland,18/12/1907,American,http://en.wikipedia.org/wiki/Bill_Holland,Kurtis Kraft,1907,46
+19467,810,697,105,16,13,3,3,3,2,89,\N,\N,\N,\N,\N,\N,11,1953,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,50
+19491,811,627,6,32,13,8,8,8,0,33,\N,\N,\N,\N,\N,\N,13,1953,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Ferrari,1905,48
+19519,812,697,105,24,2,\N,R,16,0,42,\N,\N,\N,\N,\N,\N,5,1953,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,50
+19534,813,697,105,25,16,6,6,6,0,82,\N,\N,\N,\N,\N,\N,18,1953,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,50
+19588,814,717,147,21,23,\N,R,33,0,0,\N,\N,\N,\N,\N,\N,31,1953,hans_stuck,\N,\N,Hans,von Stuck,27/12/1900,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck,AFM,1900,53
+19604,815,697,105,30,10,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,5,1953,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,50
+19623,816,717,147,48,29,14,14,14,0,67,\N,\N,\N,\N,\N,\N,53,1953,hans_stuck,\N,\N,Hans,von Stuck,27/12/1900,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck,AFM,1900,53
+19657,817,717,147,2,14,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,5,1952,hans_stuck,\N,\N,Hans,von Stuck,27/12/1900,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck,AFM,1900,52
+19690,818,733,113,21,27,\N,R,30,0,41,\N,\N,\N,\N,\N,\N,126,1952,miller,\N,\N,Chet,Miller,19/07/1902,American,http://en.wikipedia.org/wiki/Chet_Miller,Kurtis Kraft,1902,50
+19713,819,627,6,22,17,\N,R,20,0,6,\N,\N,\N,\N,\N,\N,7,1952,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Ferrari,1905,47
+19725,820,704,133,24,10,10,10,10,0,68,\N,\N,\N,\N,\N,\N,19,1952,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,HWM,1904,48
+19767,821,749,152,2,0,\N,W,32,0,0,\N,\N,\N,\N,\N,\N,54,1952,aston,\N,\N,Bill,Aston,29/03/1900,British,http://en.wikipedia.org/wiki/Bill_Aston,Aston Butterworth,1900,52
+19789,822,749,152,114,21,\N,R,22,0,2,\N,\N,\N,\N,\N,\N,51,1952,aston,\N,\N,Bill,Aston,29/03/1900,British,http://en.wikipedia.org/wiki/Bill_Aston,Aston Butterworth,1900,52
+19799,823,642,6,4,2,2,2,2,6,90,40.1,10448600,\N,\N,\N,\N,1,1952,farina,\N,\N,Nino,Farina,30/10/1906,Italian,http://en.wikipedia.org/wiki/Nino_Farina,Ferrari,1906,46
+19846,824,749,152,64,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,1952,aston,\N,\N,Bill,Aston,29/03/1900,British,http://en.wikipedia.org/wiki/Bill_Aston,Aston Butterworth,1900,52
+19868,825,704,154,6,15,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,80,1951,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Talbot-Lago,1904,47
+19896,826,733,113,32,28,\N,R,25,0,56,\N,\N,\N,\N,\N,\N,80,1951,miller,\N,\N,Chet,Miller,19/07/1902,American,http://en.wikipedia.org/wiki/Chet_Miller,Kurtis Kraft,1902,49
+19909,827,704,154,22,8,5,5,5,2,34,\N,\N,\N,\N,\N,\N,12,1951,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Talbot-Lago,1904,47
+19924,828,704,154,46,11,7,7,7,0,71,\N,\N,\N,\N,\N,\N,16,1951,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Talbot-Lago,1904,47
+19944,829,697,51,4,7,4,4,4,3,87,\N,\N,\N,\N,\N,\N,13,1951,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Alfa Romeo,1903,48
+19974,830,697,51,77,10,\N,R,14,0,12,\N,\N,\N,\N,\N,\N,121,1951,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Alfa Romeo,1903,48
+19985,831,697,51,40,7,3,3,3,2,79,\N,\N,\N,\N,\N,\N,11,1951,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Alfa Romeo,1903,48
+20009,832,697,51,24,8,5,5,5,2,68,\N,\N,\N,\N,\N,\N,12,1951,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Alfa Romeo,1903,48
+20028,833,704,154,14,6,4,4,4,3,68,\N,\N,\N,\N,\N,\N,12,1950,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Talbot-Lago,1904,46
+20058,834,627,154,16,10,\N,R,13,0,0,\N,\N,\N,\N,\N,\N,3,1950,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Talbot-Lago,1905,45
+20069,835,768,150,31,3,3,3,3,4,137,\N,\N,\N,\N,\N,\N,11,1950,rose,\N,\N,Mauri,Rose,26/05/1906,American,http://en.wikipedia.org/wiki/Mauri_Rose,Deidt,1906,44
+20104,836,697,105,34,12,5,5,5,2,40,\N,\N,\N,\N,\N,\N,12,1950,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,47
+20131,837,704,154,18,9,\N,R,14,0,2,\N,\N,\N,\N,\N,\N,108,1950,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Talbot-Lago,1904,46
+20141,838,697,105,40,10,\N,R,10,0,14,\N,\N,\N,\N,\N,\N,5,1950,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,47
+20176,839,697,163,52,23,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,54,1950,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Milano,1903,47
+20797,841,30,131,7,11,\N,R,19,0,19,\N,\N,13,21,01:35.3,200.283,4,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20809,842,30,131,7,11,9,9,9,2,56,+1:24.896,5944728,45,11,01:42.5,194.698,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20832,843,30,131,7,14,8,8,8,4,56,31.026,5849252,46,6,01:41.2,193.88,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20860,844,30,131,7,8,12,12,12,0,58,+1:25.444,5503002,47,12,01:31.2,210.819,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20878,845,30,131,7,10,6,6,6,8,65,\N,\N,34,15,01:29.5,187.317,11,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20918,846,30,131,7,5,\N,R,22,0,32,\N,\N,30,15,01:19.8,150.674,5,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20923,847,30,131,7,8,4,4,4,12,70,14.219,14693756,70,4,01:19.1,198.382,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20960,848,30,131,7,8,17,17,17,0,56,\N,\N,50,18,01:44.6,186.544,11,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20976,849,30,131,7,13,9,9,9,2,52,+1:17.912,5399108,34,11,01:37.0,218.558,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+20999,850,30,131,7,10,8,8,8,4,59,\N,\N,49,6,01:35.6,193.8,11,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21037,851,30,131,7,9,\N,R,22,0,26,\N,\N,19,22,01:29.8,175.667,6,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21044,852,30,131,7,24,5,5,5,10,44,47.464,5252357,34,6,01:51.1,226.876,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21068,853,30,131,7,8,5,5,5,10,53,32.677,4878849,46,7,01:27.4,238.607,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21110,854,30,131,7,8,\N,R,23,0,28,\N,\N,26,9,01:53.1,161.48,3,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21117,855,30,131,7,8,6,6,6,8,53,27.12,5480547,53,12,01:37.9,213.501,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21159,856,30,131,7,12,\N,R,24,0,15,\N,\N,13,22,01:45.3,191.916,4,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21164,857,30,131,7,11,5,5,5,10,60,+1:05.421,5500423,48,5,01:28.5,208.359,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21190,858,30,131,7,8,7,7,7,6,55,+1:15.964,5907850,48,15,01:44.9,190.575,1,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21222,859,30,131,7,10,15,15,15,0,70,\N,\N,62,5,01:16.7,202.297,11,2011,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,42
+21251,860,30,131,7,4,\N,R,20,0,10,\N,\N,4,18,01:34.0,203.048,6,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21265,861,30,131,7,3,10,10,10,1,56,49.996,9941808,53,9,01:41.8,196.096,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21303,862,30,131,7,2,\N,R,24,0,12,\N,\N,9,24,01:44.1,188.49,61,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21313,863,30,131,7,22,10,10,10,1,57,+1:11.490,5782480,39,13,01:38.1,198.548,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21351,864,30,131,7,8,\N,R,24,0,12,\N,\N,4,21,01:31.1,183.973,4,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21370,865,30,131,7,6,\N,R,19,0,63,\N,\N,52,6,01:18.9,152.387,32,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21397,866,30,131,7,9,\N,R,22,0,43,\N,\N,37,20,01:18.4,200.165,65,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21402,867,30,131,7,12,3,3,3,15,57,12.639,6269288,43,3,01:43.1,189.22,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21430,868,30,131,7,3,7,7,7,6,52,29.153,5140441,52,6,01:35.2,222.789,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21454,869,30,131,7,3,7,7,7,6,67,28.97,5494832,57,1,01:18.7,209.163,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21495,870,30,131,7,17,\N,R,24,0,58,\N,\N,56,19,01:26.8,181.746,45,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21502,871,30,131,7,13,7,7,7,6,44,53.374,5401904,37,4,01:53.5,222.139,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21525,872,30,131,7,4,6,6,6,8,53,31.259,4812480,51,3,01:27.7,237.748,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21564,873,30,131,7,9,\N,R,21,0,38,\N,\N,26,20,01:56.0,157.374,4,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21578,874,30,131,7,23,11,11,11,0,53,67.769,5404011,43,6,01:36.9,215.646,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21604,875,30,131,7,10,13,13,13,0,55,89.241,5877892,49,13,01:43.2,195.902,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21637,876,30,131,7,14,22,22,22,0,55,\N,\N,53,9,01:29.2,206.769,31,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21650,877,30,131,7,13,11,11,11,0,55,28.075,6386742,51,6,01:45.2,190.015,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21679,878,30,131,7,5,16,16,16,0,55,\N,\N,54,15,01:40.9,196.652,11,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21694,879,30,131,7,13,7,7,7,6,71,11.907,6334563,37,15,01:20.2,193.522,1,2012,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Mercedes,1969,43
+21717,880,17,9,2,2,6,6,6,8,58,46.8,5450025,45,4,01:29.7,212.753,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21735,881,17,9,2,5,2,2,2,18,56,4.298,5940979,45,6,01:40.7,198.19,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21775,882,17,9,2,22,\N,R,20,0,15,\N,\N,12,20,01:43.4,189.754,36,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21784,883,17,9,2,7,7,7,7,6,57,37.244,5797742,52,13,01:38.6,197.684,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21804,884,17,9,2,7,5,5,5,10,66,47.963,6004559,55,8,01:27.0,192.583,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21824,885,17,9,2,4,3,3,3,15,78,6.314,8278370,77,4,01:18.3,153.637,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21847,886,17,9,2,5,4,4,4,12,70,25.731,5554874,69,1,01:16.2,206.08,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21867,887,17,9,2,4,2,2,2,18,52,0.765,5580221,52,1,01:33.4,227.059,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21894,888,17,9,2,3,7,7,7,6,60,37.562,6112273,55,11,01:34.8,195.53,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21913,890,17,9,2,10,4,4,4,12,70,18.044,6167489,61,1,01:24.1,187.603,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21936,891,17,9,2,3,5,5,5,10,44,33.845,5056041,31,5,01:51.4,226.347,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21956,892,17,9,2,2,3,3,3,15,53,6.35,4719702,53,3,01:26.7,240.567,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+21990,893,17,9,2,4,15,15,15,0,60,\N,\N,51,3,01:49.8,166.091,34,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22018,894,17,9,2,13,\N,R,21,0,36,\N,\N,27,13,01:43.9,194.621,4,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22021,895,17,9,2,1,2,2,2,18,53,7.129,5216430,44,1,01:34.6,221.015,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22061,896,17,9,2,4,\N,R,20,0,39,\N,\N,30,18,01:29.5,206.145,91,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22065,897,17,9,2,1,2,2,2,18,55,30.829,5916935,49,5,01:44.4,191.583,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22088,898,17,9,2,2,3,3,3,15,56,8.396,5965544,52,4,01:40.6,197.301,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22109,899,17,9,2,4,2,2,2,18,71,10.452,5566752,51,1,01:15.4,205.636,1,2013,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Red Bull,1976,37
+22136,900,8,6,7,11,7,7,7,6,57,57.675,5636385,56,8,01:33.2,204.814,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22163,901,8,6,7,6,12,12,12,0,55,\N,\N,36,7,01:45.1,189.812,11,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22183,902,8,6,7,5,10,10,10,1,57,33.462,6016205,35,8,01:39.4,195.933,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22203,903,8,6,7,11,8,8,8,4,54,+1:16.335,5684673,34,8,01:42.3,191.824,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22224,904,8,6,7,6,7,7,7,6,65,\N,\N,53,11,01:30.6,185.007,11,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22251,905,8,6,7,6,12,12,12,0,77,\N,\N,75,1,01:18.5,153.212,11,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22271,906,8,6,7,10,10,10,10,1,70,53.678,6006508,68,2,01:18.5,199.921,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22293,907,8,6,7,8,10,10,10,1,71,47.777,5322753,55,9,01:12.9,213.676,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22327,908,8,6,7,18,\N,R,22,0,0,\N,\N,\N,0,\N,\N,4,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22338,909,8,6,7,12,11,11,11,0,66,\N,\N,55,7,01:21.3,202.444,11,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22355,910,8,6,7,16,6,6,6,8,70,31.491,6816549,47,6,01:28.0,179.257,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22376,911,8,6,7,8,4,4,4,12,44,36.815,5113371,39,13,01:54.1,221.004,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22403,912,8,6,7,11,9,9,9,2,53,+1:03.535,4813771,43,7,01:28.9,234.476,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22424,913,8,6,7,7,8,8,8,4,60,+1:00.641,7265436,28,11,01:52.9,161.545,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22450,914,8,6,7,10,12,12,12,0,43,\N,\N,36,5,01:52.4,185.946,11,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22469,915,8,6,7,8,9,9,9,2,53,+1:18.877,5589621,45,11,01:42.9,204.556,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22494,916,8,6,7,8,13,13,13,0,55,\N,\N,54,8,01:42.9,192.897,11,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22506,917,8,6,7,10,7,7,7,6,71,+1:03.730,5466285,37,17,01:15.0,206.934,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22527,918,8,6,7,7,10,10,10,2,55,+1:27.820,6030439,46,16,01:47.7,185.586,1,2014,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,35
+22549,926,8,6,7,5,\N,R,12,0,40,\N,\N,36,3,01:31.4,208.811,36,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22559,927,8,6,7,11,4,4,4,12,56,53.822,6119615,40,7,01:44.1,191.644,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22579,928,8,6,7,6,4,4,4,12,56,3.835,5985843,48,6,01:43.0,190.472,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22597,929,8,6,7,4,2,2,2,18,57,3.38,5709189,42,1,01:36.3,202.294,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22620,930,8,6,7,7,5,5,5,10,66,+1:00.002,6132557,47,3,01:29.9,186.342,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22641,931,8,6,7,6,6,6,6,8,78,14.345,6572765,74,10,01:19.7,150.822,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22659,932,8,6,7,3,4,4,4,12,70,45.625,5558770,42,1,01:17.0,203.925,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22694,933,8,6,7,14,\N,R,19,0,0,\N,\N,\N,0,\N,\N,4,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22703,934,8,6,7,5,8,8,8,4,51,\N,\N,31,4,01:37.5,217.529,11,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22733,936,8,6,7,5,\N,R,18,0,55,\N,\N,24,7,01:27.0,181.378,131,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22742,937,8,6,7,16,7,7,7,6,43,55.703,5076090,30,9,01:54.5,220.18,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22760,938,8,6,7,2,5,5,5,10,53,+1:08.860,4749548,43,7,01:27.6,238.111,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22778,939,8,6,7,3,3,3,3,15,61,17.154,7299272,48,5,01:50.3,165.251,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22799,940,8,6,7,6,4,4,4,12,53,33.768,5320276,32,4,01:38.0,213.242,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22820,941,8,6,7,5,8,8,8,4,53,+1:12.358,5903382,48,2,01:40.3,209.91,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22852,942,8,6,7,18,\N,R,16,0,25,\N,\N,24,14,01:46.2,186.905,135,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22875,943,8,6,7,19,\N,R,19,0,21,\N,\N,20,17,01:24.1,184.338,4,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22880,944,8,6,7,4,4,4,4,12,71,47.543,5516633,48,4,01:15.4,205.691,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22899,945,8,6,7,3,3,3,3,15,55,19.43,5929605,47,4,01:44.9,190.528,1,2015,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,36
+22934,948,8,6,7,4,\N,R,18,0,21,\N,\N,21,5,01:30.7,210.48,5,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+22940,949,8,6,7,4,2,2,2,18,57,10.282,5624978,39,3,01:35.2,204.745,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+22965,950,8,6,7,3,5,5,5,10,56,+1:05.872,5999763,40,8,01:40.6,195.079,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+22985,951,8,6,7,3,3,3,3,15,53,31.998,5593995,47,3,01:40.1,210.315,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23006,952,8,6,7,5,2,2,2,18,66,0.616,6100633,38,4,01:28.5,189.274,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23047,953,8,6,7,11,\N,R,21,0,10,\N,\N,10,21,01:47.1,112.116,3,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23054,954,8,6,7,6,6,6,6,8,70,+1:03.017,5528313,44,9,01:16.9,204.105,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23074,955,8,6,7,4,4,4,4,12,51,33.102,5605468,41,6,01:47.2,201.629,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23095,956,8,6,7,4,3,3,3,15,71,6.024,5264131,66,4,01:08.9,226.11,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23119,957,8,6,7,5,5,5,5,10,52,+1:09.743,5765574,39,8,01:37.0,218.648,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23142,958,8,6,7,14,6,6,6,8,70,49.044,6079159,52,1,01:23.1,189.822,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23164,959,8,6,7,5,6,6,6,8,67,37.023,5481223,36,6,01:19.6,206.937,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23189,960,8,6,7,3,9,9,9,2,44,+1:01.109,6352167,27,9,01:53.5,222.157,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23206,961,8,6,7,4,4,4,4,12,53,27.561,4675650,50,3,01:26.0,242.452,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23228,962,8,6,7,5,4,4,4,12,61,10.219,6959169,51,4,01:48.2,168.515,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23250,963,8,6,7,6,4,4,4,12,56,28.785,5861561,47,4,01:37.5,204.736,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23273,964,8,6,7,8,5,5,5,10,53,28.37,5231703,33,4,01:36.0,217.785,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23309,965,8,6,7,5,\N,R,19,0,38,\N,\N,26,2,01:41.8,194.88,36,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23318,966,8,6,7,6,6,6,6,8,71,49.376,6080778,47,3,01:22.5,187.783,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23354,967,8,6,7,3,\N,R,20,0,19,\N,\N,12,19,01:28.8,174.596,4,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23362,968,8,6,7,4,6,6,6,8,55,18.816,5902829,35,6,01:45.2,190.127,1,2016,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,37
+23382,969,8,6,7,4,4,4,4,12,57,22.393,5074065,56,1,01:26.5,220.605,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23403,970,8,6,7,4,5,5,5,10,56,48.076,5904234,42,4,01:36.0,204.406,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23422,971,8,6,7,5,4,4,4,12,57,22.475,5655849,55,3,01:33.7,207.887,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23441,972,8,6,7,2,3,3,3,15,52,11,5299743,49,1,01:36.8,217.388,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23478,973,8,6,7,4,\N,R,20,0,0,\N,\N,\N,0,\N,\N,130,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23480,974,8,6,7,1,2,2,2,18,78,3.145,6287485,39,3,01:15.5,159.058,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23505,975,8,6,7,4,7,7,7,6,70,58.632,5643786,59,3,01:15.4,208.25,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23532,976,8,6,7,3,14,14,14,0,46,\N,\N,44,7,01:45.5,204.76,34,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23546,977,8,6,7,3,5,5,5,10,71,20.37,4928893,68,3,01:07.5,230.341,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23564,978,8,6,7,2,3,3,3,15,51,36.57,4924000,44,4,01:31.5,231.733,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23583,979,8,6,7,2,2,2,2,18,70,0.908,5987621,70,2,01:20.5,196.015,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23605,980,8,6,7,4,4,4,4,12,44,14.471,5097291,36,5,01:47.7,234.051,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23626,981,8,6,7,5,5,5,5,10,53,+1:00.082,4592394,43,8,01:25.1,245.194,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23661,982,8,6,7,4,\N,R,20,0,0,\N,\N,\N,0,\N,\N,3,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23681,983,8,6,7,0,\N,R,20,0,0,\N,\N,\N,0,\N,\N,84,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23686,984,8,6,7,10,5,5,5,10,53,32.622,5283816,50,2,01:33.2,224.364,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23704,985,8,6,7,5,3,3,3,15,56,15.779,5646770,42,6,01:38.8,200.86,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23724,986,8,6,7,5,3,3,3,15,71,54.007,5840559,59,6,01:20.1,193.549,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23744,987,8,6,7,3,3,3,3,15,71,4.6,5490862,61,6,01:12.5,213.987,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23765,988,8,6,7,5,4,4,4,12,55,45.386,5699448,53,7,01:42.3,195.376,1,2017,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,38
+23784,989,8,6,7,2,3,3,3,15,58,6.309,5379592,57,2,01:26.4,221.027,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23819,990,8,6,7,2,\N,R,18,0,35,\N,\N,22,6,01:34.3,206.527,36,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23824,991,8,6,7,2,3,3,3,15,56,9.637,5746017,48,3,01:36.5,203.446,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23843,992,8,6,7,6,2,2,2,18,51,2.46,6226751,50,7,01:46.5,202.874,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23878,993,8,6,7,4,\N,R,17,0,25,\N,\N,23,11,01:21.5,205.541,101,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23885,994,8,6,7,4,4,4,4,12,78,18.127,6192934,13,10,01:16.4,157.257,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23907,995,8,6,7,5,6,6,6,8,68,27.184,5338561,59,4,01:14.1,211.941,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23924,996,8,6,7,6,3,3,3,15,53,25.888,5437273,48,3,01:34.4,222.792,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23943,997,8,6,7,3,2,2,2,18,71,1.504,4917528,71,1,01:07.0,232.16,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23964,998,8,6,7,3,3,3,3,15,52,3.652,5253436,51,2,01:30.8,233.576,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+23985,999,8,6,7,3,3,3,3,15,67,6.732,5556577,64,4,01:16.0,216.691,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24005,1000,8,6,7,3,3,3,3,15,70,20.101,5856528,55,3,01:20.3,196.428,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24039,1001,8,6,7,6,\N,R,17,0,8,\N,\N,6,17,01:54.3,220.559,23,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24044,1002,8,6,7,1,2,2,2,18,53,8.705,4623189,28,4,01:23.5,249.713,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24067,1003,8,6,7,5,5,5,5,10,61,53.001,6724612,46,7,01:44.7,174.061,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24086,1004,8,6,7,4,4,4,4,12,53,16.543,5261724,47,6,01:36.6,217.913,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24107,1005,8,6,7,4,5,5,5,10,53,50.998,5288060,28,12,01:34.2,221.869,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24123,1006,8,6,7,2,1,1,1,25,56,34:18.6,5658643,45,5,01:38.5,201.527,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24145,1007,8,6,7,6,3,3,3,15,71,49.914,5958765,19,5,01:20.3,192.874,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24165,1008,8,6,7,4,3,3,3,15,71,+4.764s,5233830,64,6,01:11.8,216.143,1,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24201,1009,8,6,7,4,\N,R,19,0,6,\N,\N,5,18,01:45.2,190.064,75,2018,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Ferrari,1979,39
+24210,1010,8,51,7,9,8,8,8,4,57,\N,\N,52,11,01:28.3,216.277,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24229,1011,8,51,7,8,7,7,7,6,57,47.47,5708765,45,11,01:35.6,203.822,1,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24251,1012,8,51,7,13,9,9,9,2,55,\N,\N,27,12,01:37.8,200.625,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24272,1013,8,51,7,0,10,10,10,1,50,\N,\N,48,13,01:46.5,202.958,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24296,1014,8,51,7,14,14,14,14,0,66,41.803,5792246,66,14,01:21.4,205.917,1,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24322,1015,8,51,7,14,17,17,17,0,77,\N,\N,50,14,01:16.4,157.166,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24340,1016,8,51,7,16,15,15,15,0,69,\N,\N,60,6,01:15.4,208.101,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24352,1017,8,51,7,12,7,7,7,6,52,\N,\N,47,8,01:34.9,221.677,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24374,1018,8,51,7,6,9,9,9,2,70,\N,\N,57,15,01:09.1,224.876,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24393,1019,8,51,7,12,8,8,8,4,52,+1:05.540,4933992,51,14,01:30.0,235.551,1,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24417,1020,8,51,7,5,12,12,12,0,64,42.214,6313489,60,15,01:19.6,206.96,1,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24432,1021,8,51,7,10,7,7,7,6,69,\N,\N,65,9,01:20.9,195,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24461,1022,8,51,7,6,16,16,16,0,43,\N,\N,37,12,01:48.8,231.85,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24480,1023,8,51,7,0,15,15,15,0,52,\N,\N,52,13,01:24.4,247.039,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24503,1024,8,51,7,12,\N,R,18,0,49,\N,\N,18,19,01:47.1,170.245,4,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24518,1025,8,51,7,15,13,13,13,0,53,+1:08.910,5687902,51,13,01:38.6,213.541,1,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24537,1026,8,51,7,13,12,12,12,0,51,\N,\N,50,9,01:33.2,224.328,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24564,1027,8,51,7,14,\N,R,19,0,58,\N,\N,55,8,01:20.1,193.481,25,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24576,1028,8,51,7,17,11,11,11,0,55,\N,\N,46,9,01:39.6,199.249,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24589,1029,8,51,7,8,4,4,4,12,71,9.452,5604130,65,15,01:13.1,212.106,1,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24618,1030,8,51,7,17,13,13,13,0,54,\N,\N,25,14,01:43.1,193.853,11,2019,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,40
+24639,1031,8,51,7,19,\N,R,14,0,53,\N,\N,48,12,01:09.0,225.185,36,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24656,1032,8,51,7,16,11,11,11,0,70,\N,\N,57,14,01:08.4,227.322,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24680,1033,8,51,7,20,15,15,15,0,69,\N,\N,67,17,01:20.9,194.978,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24702,1034,8,51,7,16,17,17,17,0,51,\N,\N,49,11,01:30.0,235.71,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24720,1035,8,51,7,20,15,15,15,0,51,\N,\N,30,18,01:31.8,231.13,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24739,1036,8,51,7,14,14,14,14,0,65,\N,\N,47,7,01:21.9,204.645,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24757,1037,8,51,7,16,12,12,12,0,44,+1:11.504,5120265,28,14,01:49.8,229.593,1,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24778,1038,8,51,7,14,13,13,13,0,53,36.312,6462368,29,13,01:24.8,245.827,1,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24794,1039,8,51,7,13,9,9,9,2,59,29.77,8404830,59,6,01:21.2,232.64,1,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24819,1040,8,51,7,19,14,14,14,0,52,\N,\N,37,10,01:38.9,212.96,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24837,1041,8,51,7,19,12,12,12,0,60,41.476,5791117,54,9,01:30.5,204.755,1,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24856,1042,8,51,7,16,11,11,11,0,65,\N,\N,60,15,01:21.1,206.652,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24874,1043,8,51,7,18,9,9,9,2,63,22.224,5334654,63,10,01:18.1,226.313,1,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24900,1044,8,51,7,8,15,15,15,0,57,\N,\N,57,9,01:39.7,192.663,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24920,1045,8,51,7,17,15,15,15,0,56,\N,\N,43,6,01:33.6,208.213,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24939,1046,8,51,7,18,14,14,14,0,87,26.153,5501267,56,13,00:57.4,222.305,1,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+24957,1047,8,51,7,15,12,12,12,0,54,\N,\N,53,14,01:42.1,195.739,11,2020,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,41
+25359,1051,8,51,7,16,14,14,14,0,56,\N,\N,53,6,01:26.4,224.275,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+24976,1052,8,51,7,14,11,11,11,0,56,88.864,5612761,45,14,01:35.2,204.672,1,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+24998,1053,8,51,7,16,13,13,13,0,63,94.773,7449371,62,5,01:18.4,225.548,1,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25025,1054,8,51,7,15,\N,R,20,0,1,\N,\N,\N,0,\N,\N,130,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25037,1055,8,51,7,17,12,12,12,0,65,\N,\N,54,15,01:22.9,203.094,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25056,1056,8,51,7,14,11,11,11,0,77,\N,\N,55,9,01:15.0,160.237,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25075,1057,8,51,7,14,10,10,10,1,51,9.576,8025986,43,10,01:45.6,204.645,1,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25116,1058,8,51,7,18,11,11,11,0,70,\N,\N,57,8,01:09.1,224.869,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25102,1059,8,51,7,17,17,17,17,0,52,\N,\N,46,10,01:38.0,214.621,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25140,1060,8,51,7,16,15,15,15,0,70,\N,\N,69,15,01:08.9,225.699,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25160,1061,8,51,7,13,15,15,15,0,51,\N,\N,48,11,01:31.9,230.78,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25175,1062,8,51,7,13,10,10,10,1,69,\N,\N,58,8,01:21.5,193.473,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25203,1063,8,51,7,0,18,18,18,0,1,36.054,243125,\N,0,\N,\N,1,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25211,1064,4,214,14,9,6,6,6,8,71,\N,\N,60,7,01:14.3,206.294,11,2021,alonso,14,ALO,Fernando,Alonso,29/07/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,Alpine F1 Team,1981,40
+25233,1065,4,214,14,10,8,8,8,4,53,17.201,4931566,52,7,01:25.5,243.995,1,2021,alonso,14,ALO,Fernando,Alonso,29/07/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,Alpine F1 Team,1981,40
+25253,1066,8,51,7,13,8,8,8,4,53,+1:28.955,5529956,34,16,01:40.3,209.921,1,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25277,1067,8,51,7,17,12,12,12,0,57,\N,\N,50,5,01:32.6,207.556,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25298,1069,8,51,7,15,13,13,13,0,55,\N,\N,43,15,01:41.3,195.843,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25313,1070,8,51,7,10,8,8,8,4,70,\N,\N,63,11,01:20.7,191.969,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25337,1071,8,51,7,0,12,12,12,0,70,\N,\N,54,5,01:12.6,213.607,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25380,1072,8,51,7,12,15,15,15,0,49,\N,\N,45,13,01:32.8,239.565,11,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25404,1073,8,51,7,18,\N,R,19,0,25,\N,\N,23,18,01:29.7,211.951,23,2021,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Alfa Romeo,1979,42
+25414,1074,4,214,14,8,9,9,9,2,57,22.39,5875974,44,10,01:36.7,201.412,1,2022,alonso,14,ALO,Fernando,Alonso,29/07/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,Alpine F1 Team,1981,41
+25441,1075,4,214,14,7,\N,R,16,0,35,\N,\N,33,12,01:33.8,236.876,5,2022,alonso,14,ALO,Fernando,Alonso,29/07/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,Alpine F1 Team,1981,41
+25462,1076,4,214,14,10,17,17,17,0,57,\N,\N,57,2,01:20.8,235.024,11,2022,alonso,14,ALO,Fernando,Alonso,29/07/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,Alpine F1 Team,1981,41
