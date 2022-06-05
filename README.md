@@ -25,6 +25,18 @@ Proponowane wizualizacje:
 Odrzucone propozycje:
 - [ ] Najszybsze okrążenia na danym torze w ciągu 70 lat 
 -->
+Prezentacja
+ - Suma okrążeń przejechanych przez kierowcę od początku kariery i pokazywać wszystkich kierowców 
+ - Heatmap/Graf ilości kierowców z danego kraju
+ - Graf/PieChart dla danego wyścigu/sezonu/całych 70 lat pokazujący statusId czyli czy ktoś skończył czy nie skończył a jeśli nie skończył to dlaczego nie skończył
+ - Graf pokazujący średni wiek kierowców w danym sezonie (?)
+
+ Infografika
+ - Heatmap jako mapa świata pokazujący w czasie ile wyścigów odbyło się w danym kraju / kontynencie
+ - Heatmap/Graf ilości kierowców z danego kraju
+ - Graf pokazujący średni wiek kierowców w danym sezonie (?)
+ - Narodowości i średni wiek zwycięzców 
+
 
 ## Foldery
 Sources:
