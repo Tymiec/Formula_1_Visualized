@@ -3,11 +3,9 @@ import pandas as pd
 df = pd.read_csv('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/results_modified_with_ages.csv')
 df = df.sort_values(by="raceId")
 
-df2 = df[["raceId","Wiek"]]
-print("It does something")
-df2=df.groupby(["raceId"])["Wiek"].mean()
-print("It did something")
+df2 = df[["raceId","year","Age"]]
+df2=df.groupby(["raceId","year"])["Age"].mean()
 
+print(df2)
 
-
-#print(df2)
+df2.to_csv("average_age.csv", index=True)
