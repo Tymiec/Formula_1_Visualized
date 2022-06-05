@@ -1,0 +1,855 @@
+﻿resultId,raceId,driverId,constructorId,number_x,grid,position,positionText,positionOrder,points,laps,time,milliseconds,fastestLap,rank,fastestLapTime,fastestLapSpeed,statusId,year,driverRef,number_y,code,forename,surname,dob,nationality,url,constructor,Year_of_birth,Age
+371,36,1,1,2,4,3,3,3,6,58,18.595,5147365,20,3,01:26.4,221.083,1,2007,hamilton,44,HAM,Lewis,Hamilton,07/01/1985,British,http://en.wikipedia.org/wiki/Lewis_Hamilton,McLaren,1985,22
+2939,158,2,20,15,15,9,9,9,0,56,\N,\N,\N,\N,\N,\N,12,2000,heidfeld,\N,HEI,Nick,Heidfeld,10/05/1977,German,http://en.wikipedia.org/wiki/Nick_Heidfeld,Prost,1977,23
+749,53,3,3,10,12,7,7,7,2,57,+1:03.043,5449248,42,1,01:32.4,210.838,1,2006,rosberg,6,ROS,Nico,Rosberg,27/06/1985,German,http://en.wikipedia.org/wiki/Nico_Rosberg,Williams,1985,21
+2568,141,4,18,21,19,12,12,12,0,56,\N,\N,\N,\N,\N,\N,12,2001,alonso,14,ALO,Fernando,Alonso,29/07/1981,Spanish,http://en.wikipedia.org/wiki/Fernando_Alonso,Minardi,1981,20
+378,36,5,4,4,13,10,10,10,0,57,\N,\N,44,10,01:27.6,217.951,11,2007,kovalainen,\N,KOV,Heikki,Kovalainen,19/10/1981,Finnish,http://en.wikipedia.org/wiki/Heikki_Kovalainen,Renault,1981,26
+730,52,6,3,17,19,10,10,10,0,70,\N,\N,69,5,01:13.1,212.161,11,2007,nakajima,\N,NAK,Kazuki,Nakajima,11/01/1985,Japanese,http://en.wikipedia.org/wiki/Kazuki_Nakajima,Williams,1985,22
+7,18,7,5,14,17,7,7,7,2,55,\N,\N,22,12,01:29.5,213.224,5,2008,bourdais,\N,BOU,Sébastien,Bourdais,28/02/1979,French,http://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais,Toro Rosso,1979,29
+2562,141,8,15,17,13,6,6,6,1,58,+1:24.143,5990676,\N,\N,\N,\N,1,2001,raikkonen,7,RAI,Kimi,Räikkönen,17/10/1979,Finnish,http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen,Sauber,1979,22
+1028,65,9,2,17,9,\N,D,22,0,69,\N,\N,55,12,01:28.2,178.909,2,2006,kubica,88,KUB,Robert,Kubica,07/12/1984,Polish,http://en.wikipedia.org/wiki/Robert_Kubica,BMW Sauber,1984,22
+1661,97,10,17,19,16,7,7,7,2,68,\N,\N,42,16,01:16.3,205.761,12,2004,glock,\N,GLO,Timo,Glock,18/03/1982,German,http://en.wikipedia.org/wiki/Timo_Glock,Jordan,1982,22
+2207,124,11,17,10,22,\N,R,13,0,12,\N,\N,\N,\N,\N,\N,10,2002,sato,\N,SAT,Takuma,Sato,28/01/1977,Japanese,http://en.wikipedia.org/wiki/Takuma_Sato,Jordan,1977,25
+12,18,12,4,6,20,\N,R,12,0,30,\N,\N,20,16,01:31.4,208.907,8,2008,piquet_jr,\N,PIQ,Nelson,Piquet Jr.,25/07/1985,Brazilian,"http://en.wikipedia.org/wiki/Nelson_Piquet,_Jr.",Renault,1985,23
+2212,124,13,15,8,9,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,4,2002,massa,19,MAS,Felipe,Massa,25/04/1981,Brazilian,http://en.wikipedia.org/wiki/Felipe_Massa,Sauber,1981,21
+5265,261,14,3,2,9,\N,R,17,0,32,\N,\N,\N,\N,\N,\N,10,1994,coulthard,\N,COU,David,Coulthard,27/03/1971,British,http://en.wikipedia.org/wiki/David_Coulthard,Williams,1971,23
+4013,207,15,18,21,17,9,9,9,0,55,\N,\N,\N,\N,\N,\N,13,1997,trulli,\N,TRU,Jarno,Trulli,13/07/1974,Italian,http://en.wikipedia.org/wiki/Jarno_Trulli,Minardi,1974,23
+385,36,16,12,20,20,17,17,17,0,56,\N,\N,40,20,01:28.7,215.26,12,2007,sutil,99,SUT,Adrian,Sutil,11/01/1983,German,http://en.wikipedia.org/wiki/Adrian_Sutil,Spyker,1983,24
+2199,124,17,18,23,18,5,5,5,2,56,\N,\N,\N,\N,\N,\N,12,2002,webber,\N,WEB,Mark,Webber,27/08/1976,Australian,http://en.wikipedia.org/wiki/Mark_Webber_(racing_driver),Minardi,1976,26
+2941,158,18,3,10,21,\N,R,11,0,46,\N,\N,\N,\N,\N,\N,5,2000,button,22,BUT,Jenson,Button,19/01/1980,British,http://en.wikipedia.org/wiki/Jenson_Button,Williams,1980,20
+2473,136,19,18,22,20,\N,R,17,0,58,\N,\N,\N,\N,\N,\N,20,2002,davidson,\N,DAV,Anthony,Davidson,18/04/1979,British,http://en.wikipedia.org/wiki/Anthony_Davidson,Minardi,1979,23
+508,42,20,2,10,7,8,8,8,1,73,67.7,5537665,53,6,01:13.9,204.316,1,2007,vettel,5,VET,Sebastian,Vettel,03/07/1987,German,http://en.wikipedia.org/wiki/Sebastian_Vettel,BMW Sauber,1987,20
+4394,224,21,18,21,16,\N,R,14,0,32,\N,\N,\N,\N,\N,\N,8,1996,fisichella,\N,FIS,Giancarlo,Fisichella,14/01/1973,Italian,http://en.wikipedia.org/wiki/Giancarlo_Fisichella,Minardi,1973,23
+5597,273,22,17,14,14,\N,R,15,0,31,\N,\N,\N,\N,\N,\N,6,1993,barrichello,\N,BAR,Rubens,Barrichello,23/05/1972,Brazilian,http://en.wikipedia.org/wiki/Rubens_Barrichello,Jordan,1972,21
+4022,207,23,17,11,12,\N,R,18,0,1,\N,\N,\N,\N,\N,\N,6,1997,ralf_schumacher,\N,SCH,Ralf,Schumacher,30/06/1975,German,http://en.wikipedia.org/wiki/Ralf_Schumacher,Jordan,1975,22
+1206,74,24,9,15,15,8,8,8,1,62,+1:23.764,5345685,46,7,01:23.5,212.71,1,2005,liuzzi,\N,LIU,Vitantonio,Liuzzi,06/08/1980,Italian,http://en.wikipedia.org/wiki/Vitantonio_Liuzzi,Red Bull,1980,25
+4152,213,25,22,8,11,\N,R,14,0,35,\N,\N,\N,\N,\N,\N,7,1997,wurz,\N,WUR,Alexander,Wurz,15/02/1974,Austrian,http://en.wikipedia.org/wiki/Alexander_Wurz,Benetton,1974,23
+755,53,26,5,21,16,13,13,13,0,56,\N,\N,45,9,01:33.1,209.253,11,2006,speed,\N,SPE,Scott,Speed,24/01/1983,American,http://en.wikipedia.org/wiki/Scott_Speed,Toro Rosso,1983,23
+1158,71,27,18,21,17,\N,R,20,0,16,\N,\N,11,20,01:33.1,204.96,6,2005,albers,\N,ALB,Christijan,Albers,16/04/1979,Dutch,http://en.wikipedia.org/wiki/Christijan_Albers,Minardi,1979,26
+583,45,28,12,21,22,\N,R,17,0,13,\N,\N,13,17,01:42.8,180.309,9,2007,markus_winkelhock,\N,WIN,Markus,Winkelhock,13/06/1980,German,http://en.wikipedia.org/wiki/Markus_Winkelhock,Spyker,1980,27
+1003,64,29,8,23,22,\N,R,19,0,1,\N,\N,\N,\N,\N,\N,30,2006,yamamoto,\N,YAM,Sakon,Yamamoto,09/07/1982,Japanese,http://en.wikipedia.org/wiki/Sakon_Yamamoto,Super Aguri,1982,24
+6838,315,30,17,32,7,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,8,1991,michael_schumacher,\N,MSC,Michael,Schumacher,03/01/1969,German,http://en.wikipedia.org/wiki/Michael_Schumacher,Jordan,1969,22
+2571,141,31,3,6,11,\N,R,15,0,40,\N,\N,\N,\N,\N,\N,5,2001,montoya,\N,MON,Juan,Pablo Montoya,20/09/1975,Colombian,http://en.wikipedia.org/wiki/Juan_Pablo_Montoya,Williams,1975,26
+1525,90,32,19,15,19,11,11,11,0,56,\N,\N,6,16,01:27.8,217.336,12,2004,klien,\N,KLI,Christian,Klien,07/02/1983,Austrian,http://en.wikipedia.org/wiki/Christian_Klien,Jaguar,1983,21
+1154,71,33,17,18,14,16,16,16,0,55,\N,\N,16,18,01:29.0,214.505,12,2005,monteiro,\N,TMO,Tiago,Monteiro,24/07/1976,Portuguese,http://en.wikipedia.org/wiki/Tiago_Monteiro,Jordan,1976,29
+761,53,34,8,23,21,\N,R,19,0,35,\N,\N,11,21,01:38.3,198.197,26,2006,ide,\N,IDE,Yuji,Ide,21/01/1975,Japanese,http://en.wikipedia.org/wiki/Yuji_Ide,Super Aguri,1975,31
+4382,224,35,3,6,1,2,2,2,6,58,38.02,5608420,\N,\N,\N,\N,1,1996,villeneuve,\N,VIL,Jacques,Villeneuve,09/04/1971,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve,Williams,1971,25
+847,57,36,8,23,21,\N,R,17,0,29,\N,\N,21,20,01:37.2,190.639,9,2006,montagny,\N,FMO,Franck,Montagny,05/01/1978,French,http://en.wikipedia.org/wiki/Franck_Montagny,Super Aguri,1978,28
+3309,175,37,21,14,18,6,6,6,1,57,+1:24.317,5785976,\N,\N,\N,\N,1,1999,rosa,\N,DLR,Pedro,de la Rosa,24/02/1971,Spanish,http://en.wikipedia.org/wiki/Pedro_de_la_Rosa,Arrows,1971,28
+1372,82,38,18,20,17,18,18,18,0,63,\N,\N,44,20,01:19.0,208.369,14,2005,doornbos,\N,DOO,Robert,Doornbos,23/09/1981,Dutch,http://en.wikipedia.org/wiki/Robert_Doornbos,Minardi,1981,24
+1153,71,39,17,19,12,15,15,15,0,55,\N,\N,36,17,01:28.0,217.014,12,2005,karthikeyan,\N,KAR,Narain,Karthikeyan,14/01/1977,Indian,http://en.wikipedia.org/wiki/Narain_Karthikeyan,Jordan,1977,28
+1155,71,40,18,20,16,17,17,17,0,55,\N,\N,22,19,01:32.9,205.604,14,2005,friesacher,\N,FRI,Patrick,Friesacher,26/09/1980,Austrian,http://en.wikipedia.org/wiki/Patrick_Friesacher,Minardi,1980,25
+3312,175,41,16,23,19,\N,R,9,0,48,\N,\N,\N,\N,\N,\N,6,1999,zonta,\N,ZON,Ricardo,Zonta,23/03/1976,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Zonta,BAR,1976,23
+1887,108,42,19,15,18,\N,R,13,0,52,\N,\N,\N,\N,\N,\N,22,2003,pizzonia,\N,PIZ,Antônio,Pizzonia,11/09/1980,Brazilian,http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia,Jaguar,1980,23
+1892,108,43,7,21,16,\N,R,18,0,7,\N,\N,\N,\N,\N,\N,20,2003,matta,\N,\N,Cristiano,da Matta,19/09/1973,Brazilian,http://en.wikipedia.org/wiki/Cristiano_da_Matta,Toyota,1973,30
+5149,257,44,27,26,19,11,11,11,0,68,\N,\N,\N,\N,\N,\N,13,1994,panis,\N,\N,Olivier,Panis,02/09/1966,French,http://en.wikipedia.org/wiki/Olivier_Panis,Ligier,1966,28
+1528,90,45,17,19,16,14,14,14,0,55,\N,\N,15,18,01:28.5,215.659,13,2004,pantano,\N,\N,Giorgio,Pantano,04/02/1979,Italian,http://en.wikipedia.org/wiki/Giorgio_Pantano,Jordan,1979,25
+1531,90,46,18,20,20,\N,N,17,0,43,\N,\N,10,19,01:30.2,211.741,62,2004,bruni,\N,\N,Gianmaria,Bruni,30/05/1981,Italian,http://en.wikipedia.org/wiki/Gianmaria_Bruni,Minardi,1981,23
+2130,120,47,17,12,19,\N,R,16,0,34,\N,\N,\N,\N,\N,\N,5,2003,baumgartner,\N,\N,Zsolt,Baumgartner,01/01/1981,Hungarian,http://en.wikipedia.org/wiki/Zsolt_Baumgartner,Jordan,1981,22
+3316,175,48,18,21,22,\N,R,13,0,25,\N,\N,\N,\N,\N,\N,4,1999,gene,\N,\N,Marc,Gené,29/03/1974,Spanish,http://en.wikipedia.org/wiki/Marc_Gen%C3%A9,Minardi,1974,25
+5158,257,49,15,30,5,\N,R,20,0,15,\N,\N,\N,\N,\N,\N,20,1994,frentzen,\N,\N,Heinz-Harald,Frentzen,18/05/1967,German,http://en.wikipedia.org/wiki/Heinz-Harald_Frentzen,Sauber,1967,27
+5154,257,50,22,6,9,\N,R,16,0,34,\N,\N,\N,\N,\N,\N,4,1994,verstappen,\N,\N,Jos,Verstappen,04/03/1972,Dutch,http://en.wikipedia.org/wiki/Jos_Verstappen,Benetton,1972,22
+1890,108,51,18,18,19,\N,R,16,0,16,\N,\N,\N,\N,\N,\N,21,2003,wilson,\N,\N,Justin,Wilson,31/07/1978,British,http://en.wikipedia.org/wiki/Justin_Wilson_(racing_driver),Minardi,1978,25
+1893,108,52,17,12,17,\N,R,19,0,6,\N,\N,\N,\N,\N,\N,3,2003,firman,\N,\N,Ralph,Firman,20/05/1975,Irish,http://en.wikipedia.org/wiki/Ralph_Firman,Jordan,1975,28
+2106,119,53,18,18,20,12,12,12,0,62,\N,\N,\N,\N,\N,\N,15,2003,kiesa,\N,\N,Nicolas,Kiesa,03/03/1978,Danish,http://en.wikipedia.org/wiki/Nicolas_Kiesa,Minardi,1978,25
+3138,167,54,19,7,21,11,11,11,0,69,\N,\N,\N,\N,\N,\N,12,2000,burti,\N,\N,Luciano,Burti,05/03/1975,Brazilian,http://en.wikipedia.org/wiki/Luciano_Burti,Jaguar,1975,25
+8109,362,55,25,4,16,4,4,4,3,80,+1:13.232,5982643,\N,\N,\N,\N,1,1989,alesi,\N,\N,Jean,Alesi,11/06/1964,French,http://en.wikipedia.org/wiki/Jean_Alesi,Tyrrell,1964,25
+5952,287,56,17,15,8,6,6,6,1,53,+1:46.421,6134333,\N,\N,\N,\N,1,1993,irvine,\N,\N,Eddie,Irvine,10/11/1965,British,http://en.wikipedia.org/wiki/Eddie_Irvine,Jordan,1965,28
+6485,305,57,32,11,13,13,13,13,0,59,\N,\N,\N,\N,\N,\N,5,1991,hakkinen,\N,\N,Mika,Häkkinen,28/09/1968,Finnish,http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen,Team Lotus,1968,23
+4424,225,58,18,21,21,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,20,1996,marques,\N,\N,Tarso,Marques,19/01/1976,Brazilian,http://en.wikipedia.org/wiki/Tarso_Marques,Minardi,1976,20
+2577,141,59,21,15,18,\N,R,21,0,2,\N,\N,\N,\N,\N,\N,20,2001,bernoldi,\N,\N,Enrique,Bernoldi,19/10/1978,Brazilian,http://en.wikipedia.org/wiki/Enrique_Bernoldi,Arrows,1978,23
+2943,158,60,18,21,22,\N,R,13,0,40,\N,\N,\N,\N,\N,\N,6,2000,mazzacane,\N,\N,Gastón,Mazzacane,08/05/1975,Argentine,http://en.wikipedia.org/wiki/Gast%C3%B3n_Mazzacane,Minardi,1975,25
+2876,155,61,20,23,20,12,12,12,0,52,\N,\N,\N,\N,\N,\N,11,2001,enge,\N,\N,Tomáš,Enge,11/09/1976,Czech,http://en.wikipedia.org/wiki/Tom%C3%A1%C5%A1_Enge,Prost,1976,25
+2879,155,62,18,20,22,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,20,2001,yoong,\N,\N,Alex,Yoong,20/07/1976,Malaysian,http://en.wikipedia.org/wiki/Alex_Yoong,Minardi,1976,25
+5536,271,63,32,11,25,10,10,10,0,49,\N,\N,\N,\N,\N,\N,11,1994,salo,\N,\N,Mika,Salo,30/11/1966,Finnish,http://en.wikipedia.org/wiki/Mika_Salo,Team Lotus,1966,28
+4730,240,64,28,21,25,10,10,10,0,64,\N,\N,\N,\N,\N,\N,17,1995,diniz,\N,\N,Pedro,Diniz,22/05/1970,Brazilian,http://en.wikipedia.org/wiki/Pedro_Diniz,Forti,1970,25
+7877,356,65,22,20,10,4,4,4,3,61,10.493,5949237,\N,\N,\N,\N,1,1989,herbert,\N,\N,Johnny,Herbert,25/06/1964,British,http://en.wikipedia.org/wiki/Johnny_Herbert,Benetton,1964,25
+2216,124,66,7,25,16,\N,R,22,0,0,\N,\N,\N,\N,\N,\N,4,2002,mcnish,\N,\N,Allan,McNish,29/12/1969,British,http://en.wikipedia.org/wiki/Allan_McNish,Toyota,1969,33
+7560,1,67,5,12,13,7,7,7,2,58,6.004,5661788,34,16,01:29.2,213.95,1,2009,buemi,\N,BUE,Sébastien,Buemi,31/10/1988,Swiss,http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi,Toro Rosso,1988,21
+3676,191,68,25,21,13,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,20,1998,takagi,\N,\N,Toranosuke,Takagi,12/02/1974,Japanese,http://en.wikipedia.org/wiki/Toranosuke_Takagi,Tyrrell,1974,24
+5602,273,69,26,22,26,\N,R,20,0,20,\N,\N,\N,\N,\N,\N,6,1993,badoer,\N,BAD,Luca,Badoer,25/01/1971,Italian,http://en.wikipedia.org/wiki/Luca_Badoer,Lola,1971,22
+6923,318,70,17,32,20,9,9,9,0,64,\N,\N,\N,\N,\N,\N,11,1991,zanardi,\N,\N,Alessandro,Zanardi,23/10/1966,Italian,http://en.wikipedia.org/wiki/Alex_Zanardi,Jordan,1966,25
+6114,292,71,34,8,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1992,damon_hill,\N,\N,Damon,Hill,17/09/1960,British,http://en.wikipedia.org/wiki/Damon_Hill,Brabham,1960,32
+3341,176,72,18,20,18,\N,R,16,0,31,\N,\N,\N,\N,\N,\N,20,1999,sarrazin,\N,\N,Stéphane,Sarrazin,02/11/1975,French,http://en.wikipedia.org/wiki/St%C3%A9phane_Sarrazin,Minardi,1975,24
+4389,224,73,29,16,18,9,9,9,0,56,\N,\N,\N,\N,\N,\N,12,1996,rosset,\N,\N,Ricardo,Rosset,27/07/1968,Brazilian,http://en.wikipedia.org/wiki/Ricardo_Rosset,Footwork,1968,28
+3670,191,74,18,23,17,\N,R,15,0,22,\N,\N,\N,\N,\N,\N,5,1998,tuero,\N,\N,Esteban,Tuero,22/04/1978,Argentine,http://en.wikipedia.org/wiki/Esteban_Tuero,Minardi,1978,20
+4011,207,75,20,15,16,7,7,7,0,56,\N,\N,\N,\N,\N,\N,12,1997,nakano,\N,\N,Shinji,Nakano,01/04/1971,Japanese,http://en.wikipedia.org/wiki/Shinji_Nakano,Prost,1971,26
+5076,254,76,1,8,12,10,10,10,0,81,\N,\N,\N,\N,\N,\N,12,1995,magnussen,\N,MAG,Jan,Magnussen,04/07/1973,Danish,http://en.wikipedia.org/wiki/Jan_Magnussen,McLaren,1973,22
+10533,447,77,54,31,20,12,12,12,0,48,\N,\N,\N,\N,\N,\N,6,1984,berger,\N,\N,Gerhard,Berger,27/08/1959,Austrian,http://en.wikipedia.org/wiki/Gerhard_Berger,ATS,1959,25
+9273,398,78,42,32,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1987,larini,\N,\N,Nicola,Larini,19/03/1964,Italian,http://en.wikipedia.org/wiki/Nicola_Larini,Coloni,1964,23
+6006,289,79,33,30,18,12,12,12,0,68,\N,\N,\N,\N,\N,\N,14,1992,katayama,\N,\N,Ukyo,Katayama,29/05/1963,Japanese,http://en.wikipedia.org/wiki/Ukyo_Katayama,Larrousse,1963,29
+4027,207,80,26,24,23,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1997,sospiri,\N,\N,Vincenzo,Sospiri,07/10/1966,Italian,http://en.wikipedia.org/wiki/Vincenzo_Sospiri,Lola,1966,31
+7040,321,81,35,21,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1990,morbidelli,\N,\N,Gianni,Morbidelli,13/01/1968,Italian,http://en.wikipedia.org/wiki/Gianni_Morbidelli,Dallara,1968,22
+4176,214,82,15,17,20,\N,R,16,0,40,\N,\N,\N,\N,\N,\N,20,1997,fontana,\N,\N,Norberto,Fontana,20/01/1975,Argentine,http://en.wikipedia.org/wiki/Norberto_Fontana,Sauber,1975,22
+5905,285,83,32,11,26,11,11,11,0,49,\N,\N,\N,\N,\N,\N,10,1993,lamy,\N,\N,Pedro,Lamy,20/03/1972,Portuguese,http://en.wikipedia.org/wiki/Pedro_Lamy,Team Lotus,1972,21
+10234,436,84,25,3,18,\N,D,9,0,60,\N,\N,\N,\N,\N,\N,2,1984,brundle,\N,\N,Martin,Brundle,01/06/1959,British,http://en.wikipedia.org/wiki/Martin_Brundle,Tyrrell,1959,25
+5275,261,85,31,32,0,\N,W,27,0,0,\N,\N,\N,\N,\N,\N,82,1994,montermini,\N,\N,Andrea,Montermini,30/05/1964,Italian,http://en.wikipedia.org/wiki/Andrea_Montermini,Simtek,1964,30
+4935,248,86,30,16,24,\N,R,13,0,27,\N,\N,\N,\N,\N,\N,6,1995,lavaggi,\N,\N,Giovanni,Lavaggi,18/02/1958,Italian,http://en.wikipedia.org/wiki/Giovanni_Lavaggi,Pacific,1958,37
+6494,305,87,34,8,24,\N,R,22,0,32,\N,\N,\N,\N,\N,\N,20,1991,blundell,\N,\N,Mark,Blundell,08/04/1966,British,http://en.wikipedia.org/wiki/Mark_Blundell,Brabham,1966,25
+8942,386,88,33,29,20,16,16,16,0,48,\N,\N,\N,\N,\N,\N,13,1988,suzuki,\N,\N,Aguri,Suzuki,08/09/1960,Japanese,http://en.wikipedia.org/wiki/Aguri_Suzuki,Larrousse,1960,28
+5550,271,89,31,32,26,\N,R,24,0,3,\N,\N,\N,\N,\N,\N,20,1994,inoue,\N,\N,Taki,Inoue,05/09/1963,Japanese,http://en.wikipedia.org/wiki/Taki_Inoue,Simtek,1963,31
+11337,475,90,32,12,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1982,moreno,\N,\N,Roberto,Moreno,11/02/1959,Brazilian,http://en.wikipedia.org/wiki/Roberto_Moreno,Team Lotus,1959,23
+6972,319,91,41,16,22,\N,R,25,0,1,\N,\N,\N,\N,\N,\N,3,1991,wendlinger,\N,\N,Karl,Wendlinger,20/12/1968,Austrian,http://en.wikipedia.org/wiki/Karl_Wendlinger,Leyton House,1968,23
+7911,356,92,46,37,0,\N,F,38,0,0,\N,\N,\N,\N,\N,\N,97,1989,gachot,\N,\N,Bertrand,Gachot,23/12/1962,Belgian,http://en.wikipedia.org/wiki/Bertrand_Gachot,Onyx,1962,27
+5517,270,93,31,32,26,19,19,19,0,64,\N,\N,\N,\N,\N,\N,15,1994,schiattarella,\N,\N,Domenico,Schiattarella,17/11/1967,Italian,http://en.wikipedia.org/wiki/Domenico_Schiattarella,Simtek,1967,27
+10602,449,94,53,20,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1984,martini,\N,\N,Pierluigi,Martini,23/04/1961,Italian,http://en.wikipedia.org/wiki/Pierluigi_Martini,Toleman,1961,23
+12255,507,95,32,43,24,\N,R,17,0,40,\N,\N,\N,\N,\N,\N,5,1980,mansell,\N,\N,Nigel,Mansell,08/08/1953,British,http://en.wikipedia.org/wiki/Nigel_Mansell,Team Lotus,1953,27
+4832,244,96,15,29,19,8,8,8,0,74,\N,\N,\N,\N,\N,\N,14,1995,boullion,\N,\N,Jean-Christophe,Boullion,27/12/1969,French,http://en.wikipedia.org/wiki/Jean-Christophe_Boullion,Sauber,1969,26
+4914,247,97,29,9,17,\N,R,16,0,28,\N,\N,\N,\N,\N,\N,20,1995,papis,\N,\N,Massimiliano,Papis,03/10/1969,Italian,http://en.wikipedia.org/wiki/Massimiliano_Papis,Footwork,1969,26
+5569,272,98,33,20,25,\N,R,15,0,56,\N,\N,\N,\N,\N,\N,6,1994,deletraz,\N,\N,Jean-Denis,Délétraz,01/10/1963,Swiss,http://en.wikipedia.org/wiki/Jean-Denis_Deletraz,Larrousse,1963,31
+9031,389,99,45,22,25,\N,R,20,0,26,\N,\N,\N,\N,\N,\N,6,1987,tarquini,\N,\N,Gabriele,Tarquini,02/03/1962,Italian,http://en.wikipedia.org/wiki/Gabriele_Tarquini,Osella,1962,25
+6501,305,100,27,26,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1991,comas,\N,\N,Érik,Comas,28/09/1963,French,http://en.wikipedia.org/wiki/%C3%89rik_Comas,Ligier,1963,28
+7111,323,101,34,7,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1990,brabham,\N,\N,David,Brabham,05/09/1965,Australian,http://en.wikipedia.org/wiki/David_Brabham,Brabham,1965,25
+10251,436,102,53,19,16,\N,R,26,0,8,\N,\N,\N,\N,\N,\N,101,1984,senna,\N,\N,Ayrton,Senna,21/03/1960,Brazilian,http://en.wikipedia.org/wiki/Ayrton_Senna,Toleman,1960,24
+8116,362,103,33,29,15,11,11,11,0,77,\N,\N,\N,\N,\N,\N,13,1989,bernard,\N,\N,Éric,Bernard,24/08/1964,French,http://en.wikipedia.org/wiki/%C3%89ric_Bernard,Larrousse,1964,25
+6013,289,104,18,23,20,\N,R,19,0,43,\N,\N,\N,\N,\N,\N,91,1992,fittipaldi,\N,\N,Christian,Fittipaldi,18/01/1971,Brazilian,http://en.wikipedia.org/wiki/Christian_Fittipaldi,Minardi,1971,21
+11648,486,105,25,4,17,\N,R,16,0,31,\N,\N,\N,\N,\N,\N,4,1981,alboreto,\N,\N,Michele,Alboreto,23/12/1956,Italian,http://en.wikipedia.org/wiki/Michele_Alboreto,Tyrrell,1956,25
+5163,257,106,33,19,23,\N,R,25,0,2,\N,\N,\N,\N,\N,\N,3,1994,beretta,\N,\N,Olivier,Beretta,23/11/1969,Monegasque,http://en.wikipedia.org/wiki/Olivier_Beretta,Larrousse,1969,25
+5165,257,107,31,32,27,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1994,ratzenberger,\N,\N,Roland,Ratzenberger,04/07/1960,Austrian,http://en.wikipedia.org/wiki/Roland_Ratzenberger,Simtek,1960,34
+6021,289,108,37,17,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1992,belmondo,\N,\N,Paul,Belmondo,23/04/1963,French,http://en.wikipedia.org/wiki/Paul_Belmondo,March,1963,29
+8370,368,109,46,37,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,97,1989,lehto,\N,\N,Jyrki,Järvilehto,31/01/1966,Finnish,http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto,Onyx,1966,23
+12339,510,110,51,22,8,\N,R,18,0,8,\N,\N,\N,\N,\N,\N,5,1980,cesaris,\N,\N,Andrea,de Cesaris,31/05/1959,Italian,http://en.wikipedia.org/wiki/Andrea_de_Cesaris,Alfa Romeo,1959,21
+5964,287,111,18,23,13,\N,R,18,0,26,\N,\N,\N,\N,\N,\N,54,1993,gounon,\N,\N,Jean-Marc,Gounon,01/01/1963,French,http://en.wikipedia.org/wiki/Jean-Marc_Gounon,Minardi,1963,30
+10245,436,112,50,9,25,\N,R,20,0,24,\N,\N,\N,\N,\N,\N,84,1984,alliot,\N,\N,Philippe,Alliot,27/07/1954,French,http://en.wikipedia.org/wiki/Philippe_Alliot,RAM,1954,30
+5435,267,113,32,11,26,\N,R,21,0,15,\N,\N,\N,\N,\N,\N,20,1994,adams,\N,\N,Philippe,Adams,19/11/1969,Belgian,http://en.wikipedia.org/wiki/Philippe_Adams,Team Lotus,1969,25
+9336,401,114,33,29,23,9,9,9,0,59,\N,\N,\N,\N,\N,\N,14,1987,dalmas,\N,\N,Yannick,Dalmas,28/07/1961,French,http://en.wikipedia.org/wiki/Yannick_Dalmas,Larrousse,1961,26
+5523,270,115,33,19,24,\N,R,25,0,10,\N,\N,\N,\N,\N,\N,6,1994,noda,\N,\N,Hideki,Noda,07/03/1969,Japanese,http://en.wikipedia.org/wiki/Hideki_Noda,Larrousse,1969,25
+5545,271,116,27,25,20,\N,R,19,0,10,\N,\N,\N,\N,\N,\N,4,1994,lagorce,\N,\N,Franck,Lagorce,01/09/1968,French,http://en.wikipedia.org/wiki/Franck_Lagorce,Ligier,1968,26
+11999,498,117,1,8,12,6,6,6,1,52,\N,\N,\N,\N,\N,\N,11,1980,prost,\N,\N,Alain,Prost,24/02/1955,French,http://en.wikipedia.org/wiki/Alain_Prost,McLaren,1955,25
+11661,486,118,53,36,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1981,warwick,\N,\N,Derek,Warwick,27/08/1954,British,http://en.wikipedia.org/wiki/Derek_Warwick,Toleman,1954,27
+13378,548,119,58,16,15,9,9,9,0,75,\N,\N,\N,\N,\N,\N,11,1977,patrese,\N,\N,Riccardo,Patrese,17/04/1954,Italian,http://en.wikipedia.org/wiki/Riccardo_Patrese,Shadow,1954,23
+6568,307,120,39,18,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1991,barbazza,\N,\N,Fabrizio,Barbazza,02/04/1963,Italian,http://en.wikipedia.org/wiki/Fabrizio_Barbazza,AGS,1963,28
+5605,273,121,1,7,9,\N,R,23,0,4,\N,\N,\N,\N,\N,\N,4,1993,andretti,\N,\N,Michael,Andretti,05/10/1962,American,http://en.wikipedia.org/wiki/Michael_Andretti,McLaren,1962,31
+10170,433,122,25,4,24,\N,R,17,0,44,\N,\N,\N,\N,\N,\N,3,1985,capelli,\N,\N,Ivan,Capelli,24/05/1963,Italian,http://en.wikipedia.org/wiki/Ivan_Capelli,Tyrrell,1963,22
+10820,457,123,21,30,18,\N,R,24,0,4,\N,\N,\N,\N,\N,\N,22,1983,boutsen,\N,\N,Thierry,Boutsen,13/07/1957,Belgian,http://en.wikipedia.org/wiki/Thierry_Boutsen,Arrows,1957,26
+5920,285,124,17,15,23,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,4,1993,apicella,\N,\N,Marco,Apicella,07/10/1965,Italian,http://en.wikipedia.org/wiki/Marco_Apicella,Jordan,1965,28
+6348,300,125,37,17,21,12,12,12,0,43,\N,\N,\N,\N,\N,\N,11,1992,naspetti,\N,\N,Emanuele,Naspetti,24/02/1968,Italian,http://en.wikipedia.org/wiki/Emanuele_Naspetti,March,1968,24
+5958,287,126,33,19,23,12,12,12,0,51,\N,\N,\N,\N,\N,\N,12,1993,toshio_suzuki,\N,\N,Toshio,Suzuki,10/03/1955,Japanese,http://en.wikipedia.org/wiki/Toshio_Suzuki_(driver),Larrousse,1955,38
+8518,372,127,37,15,13,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,6,1988,gugelmin,\N,\N,Maurício,Gugelmin,20/04/1963,Brazilian,http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin,March,1963,25
+6506,305,128,40,35,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,97,1991,poele,\N,\N,Eric,van de Poele,30/09/1961,Belgian,http://en.wikipedia.org/wiki/Eric_van_de_Poele,Lambo,1961,30
+7882,356,129,27,26,22,9,9,9,0,60,\N,\N,\N,\N,\N,\N,11,1989,grouillard,\N,\N,Olivier,Grouillard,02/09/1958,French,http://en.wikipedia.org/wiki/Olivier_Grouillard,Ligier,1958,31
+6022,289,130,36,14,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1992,chiesa,\N,\N,Andrea,Chiesa,06/05/1964,Swiss,http://en.wikipedia.org/wiki/Andrea_Chiesa,Fondmetal,1964,28
+9400,403,131,34,7,15,\N,R,20,0,31,\N,\N,\N,\N,\N,\N,68,1987,modena,\N,\N,Stefano,Modena,12/05/1963,Italian,http://en.wikipedia.org/wiki/Stefano_Modena,Brabham,1963,24
+6024,289,132,34,8,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1992,amati,\N,\N,Giovanna,Amati,20/07/1959,Italian,http://en.wikipedia.org/wiki/Giovanna_Amati,Brabham,1959,33
+9725,416,133,45,22,27,\N,N,11,0,45,\N,\N,\N,\N,\N,\N,62,1986,caffi,\N,\N,Alex,Caffi,18/03/1964,Italian,http://en.wikipedia.org/wiki/Alex_Caffi,Osella,1964,22
+8299,366,134,42,32,0,\N,F,39,0,0,\N,\N,\N,\N,\N,\N,97,1989,bertaggia,\N,\N,Enrico,Bertaggia,19/09/1964,Italian,http://en.wikipedia.org/wiki/Enrico_Bertaggia,Coloni,1964,25
+6116,292,135,38,35,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,97,1992,mccarthy,\N,\N,Perry,McCarthy,03/03/1961,British,http://en.wikipedia.org/wiki/Perry_McCarthy,Andrea Moda,1961,31
+12390,512,136,58,17,21,\N,R,14,0,42,\N,\N,\N,\N,\N,\N,7,1979,lammers,\N,\N,Jan,Lammers,02/06/1956,Dutch,http://en.wikipedia.org/wiki/Jan_Lammers,Shadow,1956,23
+13085,537,137,57,22,21,\N,R,16,0,31,\N,\N,\N,\N,\N,\N,5,1978,piquet,\N,\N,Nelson,Piquet,17/08/1952,Brazilian,http://en.wikipedia.org/wiki/Nelson_Piquet,Ensign,1952,26
+8995,388,138,32,11,12,7,7,7,0,59,\N,\N,\N,\N,\N,\N,12,1987,satoru_nakajima,\N,\N,Satoru,Nakajima,23/02/1953,Japanese,http://en.wikipedia.org/wiki/Satoru_Nakajima,Team Lotus,1953,34
+8114,362,139,22,20,24,9,9,9,0,78,\N,\N,\N,\N,\N,\N,12,1989,pirro,\N,\N,Emanuele,Pirro,12/01/1962,Italian,http://en.wikipedia.org/wiki/Emanuele_Pirro,Benetton,1962,27
+12019,498,140,58,17,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1980,johansson,\N,\N,Stefan,Johansson,08/09/1956,Swedish,http://en.wikipedia.org/wiki/Stefan_Johansson,Shadow,1956,24
+8520,372,141,25,4,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1988,bailey,\N,\N,Julian,Bailey,09/10/1961,British,http://en.wikipedia.org/wiki/Julian_Bailey,Tyrrell,1961,27
+6504,305,142,42,31,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,97,1991,chaves,\N,\N,Pedro,Chaves,27/02/1965,Portuguese,http://en.wikipedia.org/wiki/Pedro_Chaves,Coloni,1965,26
+6772,313,143,32,12,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1991,bartels,\N,\N,Michael,Bartels,08/03/1968,German,http://en.wikipedia.org/wiki/Michael_Bartels,Team Lotus,1968,23
+6979,319,144,42,31,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,97,1991,hattori,\N,\N,Naoki,Hattori,13/06/1966,Japanese,http://en.wikipedia.org/wiki/Naoki_Hattori,Coloni,1966,25
+9427,404,145,18,24,25,\N,R,20,0,18,\N,\N,\N,\N,\N,\N,8,1986,nannini,\N,\N,Alessandro,Nannini,07/07/1959,Italian,http://en.wikipedia.org/wiki/Alessandro_Nannini,Minardi,1959,27
+8523,372,146,49,10,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1988,schneider,\N,\N,Bernd,Schneider,20/07/1964,German,http://en.wikipedia.org/wiki/Bernd_Schneider_(racecar_driver),Zakspeed,1964,24
+8441,370,147,18,23,19,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,8,1989,barilla,\N,\N,Paolo,Barilla,20/04/1961,Italian,http://en.wikipedia.org/wiki/Paolo_Barilla,Minardi,1961,28
+7902,356,148,44,33,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1989,foitek,\N,\N,Gregor,Foitek,27/03/1965,Swiss,http://en.wikipedia.org/wiki/Gregor_Foitek,Euro Brun,1965,24
+7044,321,149,44,34,0,\N,F,33,0,0,\N,\N,\N,\N,\N,\N,97,1990,langes,\N,\N,Claudio,Langes,20/07/1960,Italian,http://en.wikipedia.org/wiki/Claudio_Langes,Euro Brun,1960,30
+7045,321,150,47,39,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,97,1990,gary_brabham,\N,\N,Gary,Brabham,29/03/1961,Australian,http://en.wikipedia.org/wiki/Gary_Brabham,Life,1961,29
+8117,362,151,21,9,14,12,12,12,0,77,\N,\N,\N,\N,\N,\N,13,1989,donnelly,\N,\N,Martin,Donnelly,26/03/1964,British,http://en.wikipedia.org/wiki/Martin_Donnelly_(racing_driver),Arrows,1964,25
+13629,556,152,1,14,15,\N,R,13,0,38,\N,\N,\N,\N,\N,\N,5,1977,giacomelli,\N,\N,Bruno,Giacomelli,10/09/1952,Italian,http://en.wikipedia.org/wiki/Bruno_Giacomelli,McLaren,1952,25
+7748,10,153,5,11,19,15,15,15,0,69,\N,\N,69,16,01:23.4,189.008,11,2009,alguersuari,\N,ALG,Jaime,Alguersuari,23/03/1990,Spanish,http://en.wikipedia.org/wiki/Jaime_Alguersuari,Toro Rosso,1990,19
+7768,11,154,4,8,14,15,15,15,0,57,+1:31.774,5843063,41,9,01:39.4,196.206,1,2009,grosjean,8,GRO,Romain,Grosjean,17/04/1986,French,http://en.wikipedia.org/wiki/Romain_Grosjean,Renault,1986,23
+7863,16,155,7,10,11,10,10,10,0,71,+1:03.324,5606405,71,11,01:14.7,207.729,1,2009,kobayashi,10,KOB,Kamui,Kobayashi,13/09/1986,Japanese,http://en.wikipedia.org/wiki/Kamui_Kobayashi,Toyota,1986,23
+11037,465,156,3,42,25,13,13,13,0,74,\N,\N,\N,\N,\N,\N,12,1983,palmer,\N,\N,Jonathan,Palmer,07/11/1956,British,http://en.wikipedia.org/wiki/Jonathan_Palmer,Williams,1956,27
+10149,432,157,49,30,22,\N,R,20,0,16,\N,\N,\N,\N,\N,\N,6,1985,danner,\N,\N,Christian,Danner,04/04/1958,German,http://en.wikipedia.org/wiki/Christian_Danner,Zakspeed,1958,27
+12805,527,158,55,32,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1978,cheever,\N,\N,Eddie,Cheever,10/01/1958,American,http://en.wikipedia.org/wiki/Eddie_Cheever,Theodore,1958,20
+8505,372,159,18,24,20,\N,R,12,0,46,\N,\N,\N,\N,\N,\N,83,1988,sala,\N,\N,Luis,Pérez-Sala,15/05/1959,Spanish,http://en.wikipedia.org/wiki/Luis_Perez-Sala,Minardi,1959,29
+11677,487,160,45,31,24,13,13,13,0,50,\N,\N,\N,\N,\N,\N,14,1981,ghinzani,\N,\N,Piercarlo,Ghinzani,16/01/1952,Italian,http://en.wikipedia.org/wiki/Piercarlo_Ghinzani,Osella,1952,29
+7906,356,161,48,39,0,\N,F,33,0,0,\N,\N,\N,\N,\N,\N,97,1989,weidler,\N,\N,Volker,Weidler,18/03/1962,German,http://en.wikipedia.org/wiki/Volker_Weidler,Rial,1962,27
+8986,387,162,33,29,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1988,raphanel,\N,\N,Pierre-Henri,Raphanel,27/05/1961,French,http://en.wikipedia.org/wiki/Pierre-Henri_Raphanel,Larrousse,1961,27
+12861,529,163,65,31,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1978,arnoux,\N,\N,René,Arnoux,04/07/1948,French,http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux,Martini,1948,30
+7908,356,164,39,41,0,\N,F,35,0,0,\N,\N,\N,\N,\N,\N,97,1989,joachim_winkelhock,\N,\N,Joachim,Winkelhock,24/10/1960,German,http://en.wikipedia.org/wiki/Joachim_Winkelhock,AGS,1960,29
+8519,372,165,44,32,26,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,10,1988,larrauri,\N,\N,Oscar,Larrauri,19/08/1954,Argentine,http://en.wikipedia.org/wiki/Oscar_Larrauri,Euro Brun,1954,34
+10649,451,166,4,33,13,\N,R,21,0,48,\N,\N,\N,\N,\N,\N,7,1984,streiff,\N,\N,Philippe,Streiff,26/06/1955,French,http://en.wikipedia.org/wiki/Philippe_Streiff,Renault,1955,29
+9010,388,167,18,23,16,\N,D,22,0,3,\N,\N,\N,\N,\N,\N,2,1987,campos,\N,\N,Adrián,Campos,17/06/1960,Spanish,http://en.wikipedia.org/wiki/Adri%C3%A1n_Campos,Minardi,1960,27
+10740,454,168,50,18,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1983,schlesser,\N,\N,Jean-Louis,Schlesser,12/09/1948,French,http://en.wikipedia.org/wiki/Jean-Louis_Schlesser,RAM,1948,35
+9000,388,169,39,14,22,12,12,12,0,55,\N,\N,\N,\N,\N,\N,16,1987,fabre,\N,\N,Pascal,Fabre,09/01/1960,French,http://en.wikipedia.org/wiki/Pascal_Fabre,AGS,1960,27
+11110,467,170,53,36,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,1982,fabi,\N,\N,Teo,Fabi,09/03/1955,Italian,http://en.wikipedia.org/wiki/Teo_Fabi,Toleman,1955,27
+9267,398,171,45,22,26,\N,R,21,0,27,\N,\N,\N,\N,\N,\N,101,1987,forini,\N,\N,Franco,Forini,22/09/1958,Swiss,http://en.wikipedia.org/wiki/Franco_Forini,Osella,1958,29
+14829,600,172,80,21,21,\N,R,23,0,2,\N,\N,\N,\N,\N,\N,22,1974,laffite,\N,\N,Jacques,Laffite,21/11/1943,French,http://en.wikipedia.org/wiki/Jacques_Laffite,Iso Marlboro,1943,31
+12383,512,173,58,18,16,7,7,7,0,52,\N,\N,\N,\N,\N,\N,11,1979,angelis,\N,\N,Elio,de Angelis,26/03/1958,Italian,http://en.wikipedia.org/wiki/Elio_de_Angelis,Shadow,1958,21
+9416,404,174,32,11,11,9,9,9,0,58,\N,\N,\N,\N,\N,\N,13,1986,dumfries,\N,\N,Johnny,Dumfries,26/04/1958,British,http://en.wikipedia.org/wiki/Johnny_Dumfries,Team Lotus,1958,28
+13486,551,175,63,18,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1977,tambay,\N,\N,Patrick,Tambay,25/06/1949,French,http://en.wikipedia.org/wiki/Patrick_Tambay,Surtees,1949,28
+12717,524,176,57,22,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1979,surer,\N,\N,Marc,Surer,18/09/1951,Swiss,http://en.wikipedia.org/wiki/Marc_Surer,Ensign,1951,28
+12857,529,177,55,32,24,\N,R,23,0,15,\N,\N,\N,\N,\N,\N,8,1978,keke_rosberg,\N,\N,Keke,Rosberg,06/12/1948,Finnish,http://en.wikipedia.org/wiki/Keke_Rosberg,Theodore,1948,30
+14256,579,178,64,25,20,\N,R,21,0,3,\N,\N,\N,\N,\N,\N,3,1975,jones,\N,\N,Alan,Jones,02/11/1946,Australian,http://en.wikipedia.org/wiki/Alan_Jones_(Formula_1),Hesketh,1946,29
+10402,442,179,52,21,24,\N,N,15,0,56,\N,\N,\N,\N,\N,\N,62,1984,rothengatter,\N,\N,Huub,Rothengatter,08/10/1954,Dutch,http://en.wikipedia.org/wiki/Huub_Rothengatter,Spirit,1954,30
+9578,410,180,45,22,25,\N,R,20,0,28,\N,\N,\N,\N,\N,\N,10,1986,berg,\N,\N,Allen,Berg,01/08/1961,Canadian,http://en.wikipedia.org/wiki/Allen_Berg,Osella,1961,25
+12319,509,181,21,30,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1980,manfred_winkelhock,\N,\N,Manfred,Winkelhock,06/10/1951,German,http://en.wikipedia.org/wiki/Manfred_Winkelhock,Arrows,1951,29
+15804,639,182,200,26,21,\N,R,17,0,20,\N,\N,\N,\N,\N,\N,64,1971,lauda,\N,\N,Niki,Lauda,22/02/1949,Austrian,http://en.wikipedia.org/wiki/Niki_Lauda,March-Ford,1949,22
+10244,436,183,27,25,19,\N,R,19,0,25,\N,\N,\N,\N,\N,\N,25,1984,hesnault,\N,\N,François,Hesnault,30/12/1956,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Hesnault,Ligier,1956,28
+11106,467,184,21,30,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1982,baldi,\N,\N,Mauro,Baldi,31/01/1954,Italian,http://en.wikipedia.org/wiki/Mauro_Baldi,Arrows,1954,28
+10250,436,185,25,4,22,\N,D,25,0,11,\N,\N,\N,\N,\N,\N,2,1984,bellof,\N,\N,Stefan,Bellof,20/11/1957,German,http://en.wikipedia.org/wiki/Stefan_Bellof,Tyrrell,1957,27
+10908,460,186,50,17,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1983,acheson,\N,\N,Kenny,Acheson,27/11/1957,British,http://en.wikipedia.org/wiki/Kenny_Acheson,RAM,1957,26
+15156,613,187,34,29,23,\N,R,16,0,36,\N,\N,\N,\N,\N,\N,69,1973,watson,\N,\N,John,Watson,04/05/1946,British,http://en.wikipedia.org/wiki/John_Watson_(racing_driver),Brabham,1946,27
+10667,452,188,55,34,19,13,13,12,0,60,\N,\N,\N,\N,\N,\N,13,1983,cecotto,\N,\N,Johnny,Cecotto,25/01/1956,Venezuelan,http://en.wikipedia.org/wiki/Johnny_Cecotto,Theodore,1956,27
+10322,439,189,45,30,26,\N,R,16,0,46,\N,\N,\N,\N,\N,\N,5,1984,gartner,\N,\N,Jo,Gartner,24/01/1954,Austrian,http://en.wikipedia.org/wiki/Jo_Gartner,Osella,1954,30
+10679,452,190,45,31,24,\N,R,24,0,17,\N,\N,\N,\N,\N,\N,5,1983,corrado_fabi,\N,\N,Corrado,Fabi,12/04/1961,Italian,http://en.wikipedia.org/wiki/Corrado_Fabi,Osella,1961,22
+12291,508,191,21,30,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1980,thackwell,\N,\N,Mike,Thackwell,30/03/1961,New Zealander,http://en.wikipedia.org/wiki/Mike_Thackwell,Arrows,1961,19
+11551,483,192,56,21,18,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,1981,serra,\N,\N,Chico,Serra,03/02/1957,Brazilian,http://en.wikipedia.org/wiki/Chico_Serra,Fittipaldi,1957,24
+10665,452,193,25,4,21,11,11,10,0,62,\N,\N,\N,\N,\N,\N,11,1983,sullivan,\N,\N,Danny,Sullivan,09/03/1950,American,http://en.wikipedia.org/wiki/Danny_Sullivan,Tyrrell,1950,33
+11573,483,194,37,18,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1981,salazar,\N,\N,Eliseo,Salazar,14/11/1954,Chilean,http://en.wikipedia.org/wiki/Eliseo_Salazar,March,1954,27
+11109,467,195,57,14,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1982,guerrero,\N,\N,Roberto,Guerrero,16/11/1958,Colombian,http://en.wikipedia.org/wiki/Roberto_Guerrero,Ensign,1958,24
+11094,467,196,37,18,21,15,15,15,0,72,\N,\N,\N,\N,\N,\N,15,1982,boesel,\N,\N,Raul,Boesel,04/12/1957,Brazilian,http://en.wikipedia.org/wiki/Raul_Boesel,March,1957,25
+15821,640,197,200,26,24,\N,N,12,0,47,\N,\N,\N,\N,\N,\N,62,1971,jarier,\N,\N,Jean-Pierre,Jarier,10/07/1946,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jarier,March-Ford,1946,25
+11961,496,198,21,30,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1981,villeneuve_sr,\N,\N,Jacques,Villeneuve Sr.,04/11/1953,Canadian,http://en.wikipedia.org/wiki/Jacques_Villeneuve_(elder),Arrows,1953,28
+15324,620,199,34,2,1,7,7,7,0,93,\N,\N,\N,\N,\N,\N,12,1972,reutemann,\N,\N,Carlos,Reutemann,12/04/1942,Argentine,http://en.wikipedia.org/wiki/Carlos_Reutemann,Brabham,1942,30
+15161,613,200,63,31,14,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,4,1973,mass,\N,\N,Jochen,Mass,30/09/1946,German,http://en.wikipedia.org/wiki/Jochen_Mass,Surtees,1946,27
+11645,486,201,54,10,24,13,13,13,0,57,\N,\N,\N,\N,\N,\N,13,1981,borgudd,\N,\N,Slim,Borgudd,25/11/1946,Swedish,http://en.wikipedia.org/wiki/Slim_Borgudd,ATS,1946,35
+12793,527,202,25,3,23,14,14,14,0,51,\N,\N,\N,\N,\N,\N,11,1978,pironi,\N,\N,Didier,Pironi,26/03/1952,French,http://en.wikipedia.org/wiki/Didier_Pironi,Tyrrell,1952,26
+13498,552,203,1,40,9,11,11,11,0,66,\N,\N,\N,\N,\N,\N,12,1977,gilles_villeneuve,\N,\N,Gilles,Villeneuve,18/01/1950,Canadian,http://en.wikipedia.org/wiki/Gilles_Villeneuve,McLaren,1950,27
+11107,467,204,45,32,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1982,paletti,\N,\N,Riccardo,Paletti,15/06/1958,Italian,http://en.wikipedia.org/wiki/Riccardo_Paletti,Osella,1958,24
+14404,585,205,32,15,21,16,16,16,0,53,\N,\N,\N,\N,\N,\N,3,1975,henton,\N,\N,Brian,Henton,19/09/1946,British,http://en.wikipedia.org/wiki/Brian_Henton,Team Lotus,1946,29
+12894,530,206,64,24,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,97,1978,daly,\N,\N,Derek,Daly,11/03/1953,Irish,http://en.wikipedia.org/wiki/Derek_Daly,Hesketh,1953,25
+16589,677,207,180,12,1,\N,R,18,0,32,\N,\N,\N,\N,\N,\N,8,1968,mario_andretti,\N,\N,Mario,Andretti,28/02/1940,American,http://en.wikipedia.org/wiki/Mario_Andretti,Lotus-Ford,1940,28
+13829,563,208,182,33,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1976,villota,\N,\N,Emilio,de Villota,26/07/1946,Spanish,http://en.wikipedia.org/wiki/Emilio_de_Villota,Brabham-Ford,1946,30
+13068,536,209,57,23,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1978,lees,\N,\N,Geoff,Lees,01/05/1951,British,http://en.wikipedia.org/wiki/Geoff_Lees,Ensign,1951,27
+11424,478,210,55,33,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1982,byrne,\N,\N,Tommy,Byrne,06/05/1958,Irish,http://en.wikipedia.org/wiki/Tommy_Byrne_%28racing_driver%29,Theodore,1958,24
+13355,547,211,64,24,16,\N,R,17,0,32,\N,\N,\N,\N,\N,\N,3,1977,keegan,\N,\N,Rupert,Keegan,26/02/1955,British,http://en.wikipedia.org/wiki/Rupert_Keegan,Hesketh,1955,22
+13426,549,212,64,39,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,1977,rebaque,\N,\N,Hector,Rebaque,05/02/1956,Mexican,http://en.wikipedia.org/wiki/Hector_Rebaque,Hesketh,1956,21
+13222,541,213,63,19,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1978,gabbiani,\N,\N,Beppe,Gabbiani,02/01/1957,Italian,http://en.wikipedia.org/wiki/Beppe_Gabbiani,Surtees,1957,21
+12349,510,214,3,51,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1980,cogan,\N,\N,Kevin,Cogan,31/03/1956,American,http://en.wikipedia.org/wiki/Kevin_Cogan,Williams,1956,24
+11571,483,215,45,31,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1981,guerra,\N,\N,Miguel Ángel,Guerra,31/08/1953,Argentine,http://en.wikipedia.org/wiki/Miguel_Angel_Guerra,Osella,1953,28
+11572,483,216,21,30,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1981,stohr,\N,\N,Siegfried,Stohr,10/10/1952,Italian,http://en.wikipedia.org/wiki/Siegfried_Stohr,Arrows,1952,29
+12726,525,217,182,5,17,7,7,7,0,68,\N,\N,\N,\N,\N,\N,14,1979,zunino,\N,\N,Ricardo,Zunino,13/04/1949,Argentine,http://en.wikipedia.org/wiki/Ricardo_Zunino,Brabham-Ford,1949,30
+11603,484,218,57,14,0,\N,W,30,0,0,\N,\N,\N,\N,\N,\N,54,1981,londono,\N,\N,Ricardo,Londoño,08/08/1949,Colombian,http://en.wikipedia.org/wiki/Ricardo_Londo%C3%B1o,Ensign,1949,32
+14768,598,219,80,21,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1974,jabouille,\N,\N,Jean-Pierre,Jabouille,01/10/1942,French,http://en.wikipedia.org/wiki/Jean-Pierre_Jabouille,Iso Marlboro,1942,32
+13650,556,220,34,21,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,81,1977,francia,\N,\N,Giorgio,Francia,08/11/1947,Italian,http://en.wikipedia.org/wiki/Giorgio_Francia,Brabham,1947,30
+15461,625,221,25,8,16,\N,N,20,0,33,\N,\N,\N,\N,\N,\N,62,1972,depailler,\N,\N,Patrick,Depailler,09/08/1944,French,http://en.wikipedia.org/wiki/Patrick_Depailler,Tyrrell,1944,28
+15604,631,222,1,21,8,9,9,9,0,58,\N,\N,\N,\N,\N,\N,11,1972,scheckter,\N,\N,Jody,Scheckter,29/01/1950,South African,http://en.wikipedia.org/wiki/Jody_Scheckter,McLaren,1950,22
+15975,647,223,6,26,6,4,4,4,3,79,\N,\N,\N,\N,\N,\N,11,1970,regazzoni,\N,\N,Clay,Regazzoni,05/09/1939,Swiss,http://en.wikipedia.org/wiki/Clay_Regazzoni,Ferrari,1939,31
+16026,649,224,32,28,21,8,8,8,0,78,\N,\N,\N,\N,\N,\N,12,1970,emerson_fittipaldi,\N,\N,Emerson,Fittipaldi,12/12/1946,Brazilian,http://en.wikipedia.org/wiki/Emerson_Fittipaldi,Team Lotus,1946,24
+12018,498,225,58,18,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,1980,kennedy,\N,\N,Dave,Kennedy,15/01/1953,Irish,http://en.wikipedia.org/wiki/David_Kennedy_(racing_driver),Shadow,1953,27
+12104,501,226,1,8,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1980,south,\N,\N,Stephen,South,19/02/1952,British,http://en.wikipedia.org/wiki/Stephen_South,McLaren,1952,28
+12124,502,227,57,14,23,\N,R,20,0,12,\N,\N,\N,\N,\N,\N,5,1980,needell,\N,\N,Tiff,Needell,29/10/1951,British,http://en.wikipedia.org/wiki/Tiff_Needell,Ensign,1951,29
+12212,505,228,3,43,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1980,desire_wilson,\N,\N,Desiré,Wilson,26/11/1953,South African,http://en.wikipedia.org/wiki/Desir%C3%A9_Wilson,Williams,1953,27
+14424,586,229,64,25,23,8,8,8,0,14,+7:40.9,6535000,\N,\N,\N,\N,1,1975,ertl,\N,\N,Harald,Ertl,31/08/1948,Austrian,http://en.wikipedia.org/wiki/Harald_Ertl,Hesketh,1948,27
+14584,592,230,37,10,19,10,10,10,0,77,\N,\N,\N,\N,\N,\N,11,1974,brambilla,\N,\N,Vittorio,Brambilla,11/11/1937,Italian,http://en.wikipedia.org/wiki/Vittorio_Brambilla,March,1937,37
+15078,610,231,37,27,18,9,9,9,0,73,\N,\N,\N,\N,\N,\N,5,1973,hunt,\N,\N,James,Hunt,29/08/1947,British,http://en.wikipedia.org/wiki/James_Hunt,March,1947,26
+15472,626,232,6,6,9,6,6,6,1,75,\N,\N,\N,\N,\N,\N,11,1972,merzario,\N,\N,Arturo,Merzario,11/03/1943,Italian,http://en.wikipedia.org/wiki/Arturo_Merzario,Ferrari,1943,29
+14541,590,233,37,9,23,\N,R,17,0,31,\N,\N,\N,\N,\N,\N,8,1974,stuck,\N,\N,Hans-Joachim,Stuck,01/01/1951,German,http://en.wikipedia.org/wiki/Hans_Joachim_Stuck,March,1951,23
+12507,516,234,61,36,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1979,brancatelli,\N,\N,Gianfranco,Brancatelli,18/01/1950,Italian,http://en.wikipedia.org/wiki/Gianfranco_Brancatelli,Kauhsen,1950,29
+16733,685,235,82,29,18,\N,R,13,0,12,\N,\N,\N,\N,\N,\N,22,1967,ickx,\N,\N,Jacky,Ickx,01/01/1945,Belgian,http://en.wikipedia.org/wiki/Jacky_Ickx,Matra,1945,22
+12586,519,236,57,22,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1979,gaillard,\N,\N,Patrick,Gaillard,12/02/1952,French,http://en.wikipedia.org/wiki/Patrick_Gaillard,Ensign,1952,27
+14120,574,237,64,25,22,12,12,12,0,57,\N,\N,\N,\N,\N,\N,12,1976,ribeiro,\N,\N,Alex,Ribeiro,07/11/1948,Brazilian,http://en.wikipedia.org/wiki/Alex_Ribeiro,Hesketh,1948,28
+15940,645,238,37,23,12,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,1970,peterson,\N,\N,Ronnie,Peterson,14/02/1944,Swedish,http://en.wikipedia.org/wiki/Ronnie_Peterson,March,1944,26
+14455,587,239,64,25,17,13,13,13,0,28,\N,\N,\N,\N,\N,\N,11,1975,lunger,\N,\N,Brett,Lunger,14/11/1945,American,http://en.wikipedia.org/wiki/Brett_Lunger,Hesketh,1945,30
+13675,557,240,67,14,26,\N,R,25,0,6,\N,\N,\N,\N,\N,\N,3,1977,ongais,\N,\N,Danny,Ongais,21/05/1942,American,http://en.wikipedia.org/wiki/Danny_Ongais,Penske,1942,35
+13643,556,241,63,18,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1977,leoni,\N,\N,Lamberto,Leoni,24/05/1953,Italian,http://en.wikipedia.org/wiki/Lamberto_Leoni,Surtees,1953,24
+13970,568,242,63,13,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1976,galica,\N,\N,Divina,Galica,13/08/1944,British,http://en.wikipedia.org/wiki/Divina_Galica,Surtees,1944,32
+15909,643,243,34,14,15,\N,R,21,0,23,\N,\N,\N,\N,\N,\N,5,1970,stommelen,\N,\N,Rolf,Stommelen,11/07/1943,German,http://en.wikipedia.org/wiki/Rolf_Stommelen,Brabham,1943,27
+12952,532,244,54,10,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1978,colombo,\N,\N,Alberto,Colombo,23/02/1946,Italian,http://en.wikipedia.org/wiki/Alberto_Colombo,ATS,1946,32
+14442,586,245,74,35,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1975,trimmer,\N,\N,Tony,Trimmer,24/01/1943,British,http://en.wikipedia.org/wiki/Tony_Trimmer,Maki,1943,32
+14013,570,246,57,22,19,\N,R,13,0,47,\N,\N,\N,\N,\N,\N,37,1976,binder,\N,\N,Hans,Binder,12/06/1948,Austrian,http://en.wikipedia.org/wiki/Hans_Binder,Ensign,1948,28
+13616,555,247,37,32,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,81,1977,bleekemolen,\N,\N,Michael,Bleekemolen,02/10/1949,Dutch,http://en.wikipedia.org/wiki/Michael_Bleekemolen,March,1949,28
+13191,540,248,63,18,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1978,gimax,\N,\N,Carlo,Franchi,01/01/1938,Italian,http://en.wikipedia.org/wiki/Gimax,Surtees,1938,40
+13207,541,249,59,21,20,12,12,12,0,58,\N,\N,\N,\N,\N,\N,11,1978,rahal,\N,\N,Bobby,Rahal,10/01/1953,American,http://en.wikipedia.org/wiki/Bobby_Rahal,Wolf,1953,25
+15356,621,250,37,22,24,17,17,17,0,73,\N,\N,\N,\N,\N,\N,16,1972,pace,\N,\N,Carlos,Pace,06/10/1944,Brazilian,http://en.wikipedia.org/wiki/Carlos_Pace,March,1944,28
+14587,592,251,32,29,22,13,13,13,0,76,\N,\N,\N,\N,\N,\N,12,1974,ian_scheckter,\N,\N,Ian,Scheckter,22/08/1947,South African,http://en.wikipedia.org/wiki/Ian_Scheckter,Team Lotus,1947,27
+14648,594,252,79,42,20,\N,R,20,0,66,\N,\N,\N,\N,\N,\N,4,1974,pryce,\N,\N,Tom,Pryce,11/06/1949,British,http://en.wikipedia.org/wiki/Tom_Pryce,Token,1949,25
+13738,560,253,56,31,20,11,11,11,0,39,\N,\N,\N,\N,\N,\N,11,1976,hoffmann,\N,\N,Ingo,Hoffmann,28/02/1953,Brazilian,http://en.wikipedia.org/wiki/Ingo_Hoffmann,Fittipaldi,1953,23
+14486,588,254,3,20,22,14,14,14,0,46,\N,\N,\N,\N,\N,\N,16,1975,zorzi,\N,\N,Renzo,Zorzi,12/12/1946,Italian,http://en.wikipedia.org/wiki/Renzo_Zorzi,Williams,1946,29
+13771,561,255,32,6,25,\N,R,22,0,18,\N,\N,\N,\N,\N,\N,8,1976,nilsson,\N,\N,Gunnar,Nilsson,20/11/1948,Swedish,http://en.wikipedia.org/wiki/Gunnar_Nilsson,Team Lotus,1948,28
+14836,600,256,78,30,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1974,perkins,\N,\N,Larry,Perkins,18/03/1950,Australian,http://en.wikipedia.org/wiki/Larry_Perkins,Amon,1950,24
+14039,571,257,67,39,21,\N,R,14,0,63,\N,\N,\N,\N,\N,\N,86,1976,hayje,\N,\N,Boy,Lunger,03/05/1949,Dutch,http://en.wikipedia.org/wiki/Boy_Hayje,Penske,1949,27
+13852,564,258,182,33,19,\N,R,21,0,26,\N,\N,\N,\N,\N,\N,86,1976,neve,\N,\N,Patrick,Nève,13/10/1949,Belgian,http://en.wikipedia.org/wiki/Patrick_Neve,Brabham-Ford,1949,27
+15089,610,259,37,18,23,\N,R,20,0,31,\N,\N,\N,\N,\N,\N,95,1973,purley,\N,\N,David,Purley,26/01/1945,British,http://en.wikipedia.org/wiki/David_Purley,March,1945,28
+14050,571,260,63,18,18,\N,R,25,0,9,\N,\N,\N,\N,\N,\N,5,1976,andersson,\N,\N,Conny,Andersson,28/12/1939,Swedish,http://en.wikipedia.org/wiki/Conny_Andersson_(racing_driver),Surtees,1939,37
+13425,549,261,37,38,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1977,dryver,\N,\N,Bernard,de Dryver,19/09/1952,Belgian,http://en.wikipedia.org/wiki/Bernard_de_Dryver,March,1952,25
+16725,685,262,180,24,19,5,5,5,0,15,+5:30.7,7886400,\N,\N,\N,\N,1,1967,oliver,\N,\N,Jackie,Oliver,14/08/1942,British,http://en.wikipedia.org/wiki/Jackie_Oliver,Lotus-Ford,1942,25
+13457,550,263,37,32,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,1977,kozarowitzky,\N,\N,Mikko,Kozarowitzky,17/05/1948,Finnish,http://en.wikipedia.org/wiki/Mikko_Kozarowitzky,March,1948,29
+13519,552,264,37,33,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,97,1977,sutcliffe,\N,\N,Andy,Sutcliffe,09/05/1947,British,http://en.wikipedia.org/wiki/Andy_Sutcliffe,March,1947,30
+14535,590,265,26,27,25,11,11,11,0,51,\N,\N,\N,\N,\N,\N,12,1974,edwards,\N,\N,Guy,Edwards,30/12/1942,British,http://en.wikipedia.org/wiki/Guy_Edwards,Lola,1942,32
+13522,552,266,69,45,0,\N,F,35,0,0,\N,\N,\N,\N,\N,\N,97,1977,mcguire,\N,\N,Brian,McGuire,13/12/1945,Australian,http://en.wikipedia.org/wiki/Brian_McGuire,McGuire,1945,32
+14643,594,267,57,22,14,15,15,15,0,82,\N,\N,\N,\N,\N,\N,13,1974,schuppan,\N,\N,Vern,Schuppan,19/03/1943,Australian,http://en.wikipedia.org/wiki/Vern_Schuppan,Ensign,1943,31
+13547,553,268,67,35,25,\N,F,24,0,9,\N,\N,\N,\N,\N,\N,81,1977,heyer,\N,\N,Hans,Heyer,16/03/1943,German,http://en.wikipedia.org/wiki/Hans_Heyer,Penske,1943,34
+14645,594,269,34,34,27,17,17,17,0,81,\N,\N,\N,\N,\N,\N,14,1974,pilette,\N,\N,Teddy,Pilette,26/07/1942,Belgian,http://en.wikipedia.org/wiki/Teddy_Pilette,Brabham,1942,32
+14820,600,270,79,32,20,14,14,14,0,13,\N,\N,\N,\N,\N,\N,11,1974,ashley,\N,\N,Ian,Ashley,26/10/1947,British,http://en.wikipedia.org/wiki/Ian_Ashley,Token,1947,27
+13827,563,271,182,32,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1976,kessel,\N,\N,Loris,Kessel,01/04/1950,Swiss,http://en.wikipedia.org/wiki/Loris_Kessel,Brabham-Ford,1950,26
+13713,559,272,25,50,22,9,9,9,0,71,\N,\N,\N,\N,\N,\N,12,1977,takahashi,\N,\N,Kunimitsu,Takahashi,29/01/1940,Japanese,http://en.wikipedia.org/wiki/Kunimitsu_Takahashi,Tyrrell,1940,37
+14154,575,273,25,52,21,\N,R,19,0,27,\N,\N,\N,\N,\N,\N,27,1976,hoshino,\N,\N,Kazuyoshi,Hoshino,01/07/1947,Japanese,http://en.wikipedia.org/wiki/Kazuyoshi_Hoshino,Tyrrell,1947,29
+14144,575,274,63,18,24,9,9,9,0,70,\N,\N,\N,\N,\N,\N,13,1976,takahara,\N,\N,Noritake,Takahara,06/06/1951,Japanese,http://en.wikipedia.org/wiki/Noritake_Takahara,Surtees,1951,25
+14801,599,275,34,208,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1974,lombardi,\N,\N,Lella,Lombardi,26/03/1941,Italian,http://en.wikipedia.org/wiki/Lella_Lombardi,Brabham,1941,33
+14222,578,276,66,14,24,15,15,15,0,76,\N,\N,\N,\N,\N,\N,12,1975,evans,\N,\N,Bob,Evans,11/06/1947,British,http://en.wikipedia.org/wiki/Bob_Evans_(race_driver),BRM,1947,28
+14520,589,277,25,15,20,\N,R,20,0,5,\N,\N,\N,\N,\N,\N,5,1975,leclere,\N,\N,Michel,Leclère,18/03/1946,French,http://en.wikipedia.org/wiki/Michel_Lecl%C3%A8re,Tyrrell,1946,29
+17410,719,278,26,15,0,\N,W,16,0,0,\N,\N,\N,\N,\N,\N,54,1963,amon,\N,\N,Chris,Amon,20/07/1943,New Zealander,http://en.wikipedia.org/wiki/Chris_Amon,Lola,1943,20
+13828,563,279,3,25,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1976,zapico,\N,\N,Emilio,Zapico,27/05/1944,Spanish,http://en.wikipedia.org/wiki/Emilio_Zapico,Williams,1944,32
+16561,676,280,82,19,19,\N,R,11,0,54,\N,\N,\N,\N,\N,\N,51,1968,pescarolo,\N,\N,Henri,Pescarolo,25/09/1942,French,http://en.wikipedia.org/wiki/Henri_Pescarolo,Matra,1942,26
+13912,566,281,182,33,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1976,nelleman,\N,\N,Jac,Nelleman,19/04/1944,Danish,http://en.wikipedia.org/wiki/Jac_Nelleman,Brabham-Ford,1944,32
+14325,582,282,3,20,22,14,14,14,0,78,\N,\N,\N,\N,\N,\N,12,1975,magee,\N,\N,Damien,Magee,17/11/1945,British,http://en.wikipedia.org/wiki/Damien_Magee,Williams,1945,30
+14805,599,283,37,35,0,\N,F,33,0,0,\N,\N,\N,\N,\N,\N,81,1974,wilds,\N,\N,Mike,Wilds,07/01/1946,British,http://en.wikipedia.org/wiki/Mike_Wilds,March,1946,28
+13986,569,284,25,40,26,14,14,14,0,13,\N,\N,\N,\N,\N,\N,11,1976,pesenti_rossi,\N,\N,Alessandro,Pesenti-Rossi,31/08/1942,Italian,http://en.wikipedia.org/wiki/Alessandro_Pesenti-Rossi,Tyrrell,1942,34
+14081,572,285,25,39,0,\N,W,29,0,0,\N,\N,\N,\N,\N,\N,54,1976,stuppacher,\N,\N,Otto,Stuppacher,03/03/1947,Austrian,http://en.wikipedia.org/wiki/Otto_Stuppacher,Tyrrell,1947,29
+14122,574,286,59,21,23,14,14,14,0,54,\N,\N,\N,\N,\N,\N,15,1976,brown,\N,\N,Warwick,Brown,24/12/1949,Australian,http://en.wikipedia.org/wiki/Warwick_Brown,Wolf,1949,27
+14146,575,287,72,51,10,11,11,11,0,66,\N,\N,\N,\N,\N,\N,17,1976,hasemi,\N,\N,Masahiro,Hasemi,13/11/1945,Japanese,http://en.wikipedia.org/wiki/Masahiro_Hasemi,Kojima,1945,31
+15836,641,288,1,10,8,3,3,3,4,64,+1:35.8,7008900,\N,\N,\N,\N,1,1971,donohue,\N,\N,Mark,Donohue,18/03/1937,American,http://en.wikipedia.org/wiki/Mark_Donohue,McLaren,1937,34
+18502,766,289,32,26,15,\N,R,9,0,69,\N,\N,\N,\N,\N,\N,86,1958,hill,\N,\N,Graham,Hill,15/02/1929,British,http://en.wikipedia.org/wiki/Graham_Hill,Team Lotus,1929,29
+15372,622,290,34,22,14,7,7,7,0,88,\N,\N,\N,\N,\N,\N,12,1972,wilson_fittipaldi,\N,\N,Wilson,Fittipaldi,25/12/1943,Brazilian,http://en.wikipedia.org/wiki/Wilson_Fittipaldi,Brabham,1943,29
+14218,578,291,32,34,25,11,11,11,0,76,\N,\N,\N,\N,\N,\N,12,1975,tunmer,\N,\N,Guy,Tunmer,01/12/1948,South African,http://en.wikipedia.org/wiki/Guy_Tunmer,Team Lotus,1948,27
+15012,607,292,25,26,22,\N,N,13,0,67,\N,\N,\N,\N,\N,\N,62,1973,keizan,\N,\N,Eddie,Keizan,12/09/1944,South African,http://en.wikipedia.org/wiki/Eddie_Keizan,Tyrrell,1944,29
+17011,699,293,180,32,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,97,1965,charlton,\N,\N,Dave,Charlton,27/10/1936,South African,http://en.wikipedia.org/wiki/Dave_Charlton,Lotus-Ford,1936,29
+14242,579,294,3,21,18,7,7,7,0,27,\N,\N,\N,\N,\N,\N,12,1975,brise,\N,\N,Tony,Brise,28/03/1952,British,http://en.wikipedia.org/wiki/Tony_Brise,Williams,1952,23
+14249,579,295,57,31,19,\N,R,14,0,20,\N,\N,\N,\N,\N,\N,7,1975,wunderink,\N,\N,Roelof,Wunderink,12/12/1948,Dutch,http://en.wikipedia.org/wiki/Roelof_Wunderink,Ensign,1948,27
+15540,628,296,84,29,25,\N,R,21,0,22,\N,\N,\N,\N,\N,\N,22,1972,migault,\N,\N,François,Migault,04/12/1944,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault,Connew,1944,28
+14285,580,297,64,25,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,1975,palm,\N,\N,Torsten,Palm,23/07/1947,Swedish,http://en.wikipedia.org/wiki/Torsten_Palm,Hesketh,1947,28
+15702,635,298,63,30,21,8,8,8,0,65,\N,\N,\N,\N,\N,\N,15,1971,lennep,\N,\N,Gijs,van Lennep,16/03/1942,Dutch,http://en.wikipedia.org/wiki/Gijs_Van_Lennep,Surtees,1942,29
+14362,583,299,74,35,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,1975,fushida,\N,\N,Hiroshi,Fushida,10/03/1946,Japanese,http://en.wikipedia.org/wiki/Hiroshi_Fushida,Maki,1946,29
+14803,599,300,76,29,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,1974,nicholson,\N,\N,John,Nicholson,06/10/1941,New Zealander,http://en.wikipedia.org/wiki/John_Nicholson_(racing_driver),Lyncar,1941,33
+14406,585,301,63,19,23,18,18,18,0,50,\N,\N,\N,\N,\N,\N,3,1975,morgan,\N,\N,Dave,Morgan,07/08/1944,British,http://en.wikipedia.org/wiki/Dave_Morgan_(racing_driver),Surtees,1944,31
+14409,585,302,32,6,25,\N,R,21,0,28,\N,\N,\N,\N,\N,\N,3,1975,crawford,\N,\N,Jim,Crawford,13/02/1948,British,http://en.wikipedia.org/wiki/Jim_Crawford_(driver),Team Lotus,1948,27
+14464,587,303,3,20,28,\N,R,22,0,14,\N,\N,\N,\N,\N,\N,5,1975,vonlanthen,\N,\N,Jo,Vonlanthen,31/05/1942,Swiss,http://en.wikipedia.org/wiki/Jo_Vonlanthen,Williams,1942,33
+17022,700,304,183,2,8,8,8,8,0,92,\N,\N,\N,\N,\N,\N,18,1965,hulme,\N,\N,Denny,Hulme,18/06/1936,New Zealander,http://en.wikipedia.org/wiki/Denny_Hulme,Brabham-Climax,1936,29
+17496,723,305,172,20,17,8,8,8,0,78,\N,\N,\N,\N,\N,\N,14,1963,hailwood,\N,\N,Mike,Hailwood,02/04/1940,British,http://en.wikipedia.org/wiki/Mike_Hailwood,Lotus-Climax,1940,23
+16648,680,306,82,1,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,1967,beltoise,\N,\N,Jean-Pierre,Beltoise,26/04/1937,French,http://en.wikipedia.org/wiki/Jean-Pierre_Beltoise,Matra,1937,30
+15643,632,307,66,27,24,\N,R,17,0,42,\N,\N,\N,\N,\N,\N,68,1971,ganley,\N,\N,Howden,Ganley,24/12/1941,New Zealander,http://en.wikipedia.org/wiki/Howden_Ganley,BRM,1941,30
+14540,590,308,34,8,22,\N,R,16,0,36,\N,\N,\N,\N,\N,\N,6,1974,robarts,\N,\N,Richard,Robarts,22/09/1944,British,http://en.wikipedia.org/wiki/Richard_Robarts,Brabham,1944,30
+17206,709,309,176,2,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,1964,revson,\N,\N,Peter,Revson,27/02/1939,American,http://en.wikipedia.org/wiki/Peter_Revson,Lotus-BRM,1939,25
+20320,728,310,176,15,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,3,1963,driver,\N,\N,Paddy,Driver,13/05/1934,South African,http://en.wikipedia.org/wiki/Paddy_Driver,Lotus-BRM,1934,29
+14601,592,311,80,21,27,\N,R,27,0,0,\N,\N,\N,\N,\N,\N,8,1974,belso,\N,\N,Tom,Belsø,27/08/1942,Danish,http://en.wikipedia.org/wiki/Tom_Bels%C3%B8,Iso Marlboro,1942,32
+16400,667,312,167,14,21,\N,R,21,0,4,\N,\N,\N,\N,\N,\N,44,1968,redman,\N,\N,Brian,Redman,09/03/1937,British,http://en.wikipedia.org/wiki/Brian_Redman,Cooper-Maserati,1937,31
+15130,612,313,57,29,25,15,15,15,0,51,\N,\N,\N,\N,\N,\N,13,1973,opel,\N,\N,Rikky,von Opel,14/10/1947,Liechtensteiner,http://en.wikipedia.org/wiki/Rikky_von_Opel,Ensign,1947,26
+16104,651,314,86,26,19,\N,R,18,0,25,\N,\N,\N,\N,\N,\N,5,1970,schenken,\N,\N,Tim,Schenken,26/09/1943,Australian,http://en.wikipedia.org/wiki/Tim_Schenken,De Tomaso,1943,27
+14653,594,315,34,43,11,\N,R,25,0,53,\N,\N,\N,\N,\N,\N,27,1974,larrousse,\N,\N,Gérard,Larrousse,23/05/1940,French,http://en.wikipedia.org/wiki/G%C3%A9rard_Larrousse,Brabham,1940,34
+14660,594,316,63,44,0,\N,F,32,0,0,\N,\N,\N,\N,\N,\N,81,1974,kinnunen,\N,\N,Leo,Kinnunen,05/08/1943,Finnish,http://en.wikipedia.org/wiki/Leo_Kinnunen,Surtees,1943,31
+16160,654,317,32,23,9,3,3,3,4,108,45.17,7097960,\N,\N,\N,\N,1,1970,wisell,\N,\N,Reine,Wisell,30/09/1941,Swedish,http://en.wikipedia.org/wiki/Reine_Wisell,Team Lotus,1941,29
+14713,596,318,58,16,23,\N,R,25,0,2,\N,\N,\N,\N,\N,\N,6,1974,roos,\N,\N,Bertil,Roos,12/10/1943,Swedish,http://en.wikipedia.org/wiki/Bertil_Roos,Shadow,1943,31
+14770,598,319,63,18,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1974,dolhem,\N,\N,José,Dolhem,26/04/1944,French,http://en.wikipedia.org/wiki/Jos%C3%A9_Dolhem,Surtees,1944,30
+15989,647,320,187,20,11,\N,R,18,0,18,\N,\N,\N,\N,\N,\N,3,1970,gethin,\N,\N,Peter,Gethin,21/02/1940,British,http://en.wikipedia.org/wiki/Peter_Gethin,McLaren-Ford,1940,30
+16547,675,321,6,7,8,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,69,1968,bell,\N,\N,Derek,Bell,31/10/1941,British,http://en.wikipedia.org/wiki/Derek_Bell_(auto_racer),Ferrari,1941,27
+16707,684,322,66,20,14,8,8,8,0,77,\N,\N,\N,\N,\N,\N,13,1967,hobbs,\N,\N,David,Hobbs,09/06/1939,British,http://en.wikipedia.org/wiki/David_Hobbs_(racing_driver),BRM,1939,28
+14847,601,323,63,30,25,9,9,9,0,51,\N,\N,\N,\N,\N,\N,13,1974,quester,\N,\N,Dieter,Quester,30/05/1939,Austrian,http://en.wikipedia.org/wiki/Dieter_Quester,Surtees,1939,35
+14869,601,324,34,32,0,\N,F,31,0,0,\N,\N,\N,\N,\N,\N,81,1974,koinigg,\N,\N,Helmuth,Koinigg,03/11/1948,Austrian,http://en.wikipedia.org/wiki/Helmuth_Koinigg,Brabham,1948,26
+14896,602,325,34,31,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1974,facetti,\N,\N,Carlo,Facetti,26/06/1935,Italian,http://en.wikipedia.org/wiki/Carlo_Facetti,Brabham,1935,39
+16757,686,326,180,5,16,\N,D,13,0,69,\N,\N,\N,\N,\N,\N,2,1967,wietzes,\N,\N,Eppie,Wietzes,28/05/1938,Canadian,http://en.wikipedia.org/wiki/Eppie_Wietzes,Lotus-Ford,1938,29
+15984,647,327,37,6,15,\N,R,13,0,31,\N,\N,\N,\N,\N,\N,5,1970,cevert,\N,\N,François,Cevert,25/02/1944,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert,March,1944,26
+16989,699,328,66,4,11,6,6,6,1,83,\N,\N,\N,\N,\N,\N,12,1965,stewart,\N,\N,Jackie,Stewart,11/06/1939,British,http://en.wikipedia.org/wiki/Jackie_Stewart,BRM,1939,26
+15761,637,329,200,6,20,\N,R,21,0,21,\N,\N,\N,\N,\N,\N,51,1971,beuttler,\N,\N,Mike,Beuttler,13/04/1940,British,http://en.wikipedia.org/wiki/Mike_Beuttler,March-Ford,1940,31
+16136,652,330,198,36,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1970,galli,\N,\N,Nanni,Galli,02/10/1940,Italian,http://en.wikipedia.org/wiki/Nanni_Galli,McLaren-Alfa Romeo,1940,30
+14991,606,331,63,23,20,12,12,12,0,36,\N,\N,\N,\N,\N,\N,14,1973,bueno,\N,\N,Luiz,Bueno,16/01/1937,Brazilian,http://en.wikipedia.org/wiki/Luiz_Bueno,Surtees,1937,36
+15005,607,332,58,23,21,6,6,6,1,77,\N,\N,\N,\N,\N,\N,12,1973,follmer,\N,\N,George,Follmer,27/01/1934,American,http://en.wikipedia.org/wiki/George_Follmer,Shadow,1934,39
+16398,667,333,6,10,7,\N,R,19,0,13,\N,\N,\N,\N,\N,\N,3,1968,adamich,\N,\N,Andrea,de Adamich,03/10/1941,Italian,http://en.wikipedia.org/wiki/Andrea_de_Adamich,Ferrari,1941,27
+17010,699,334,185,29,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,97,1965,pretorius,\N,\N,Jackie,Pretorius,22/11/1934,South African,http://en.wikipedia.org/wiki/Jackie_Pretorius,LDS-Alfa Romeo,1934,31
+15165,613,335,37,14,22,\N,R,25,0,0,\N,\N,\N,\N,\N,\N,4,1973,williamson,\N,\N,Roger,Williamson,02/02/1948,British,http://en.wikipedia.org/wiki/Roger_Williamson,March,1948,25
+15168,613,336,80,26,28,\N,R,28,0,0,\N,\N,\N,\N,\N,\N,37,1973,mcrae,\N,\N,Graham,McRae,05/03/1940,New Zealander,http://en.wikipedia.org/wiki/Graham_McRae,Iso Marlboro,1940,33
+15798,639,337,66,16,17,11,11,11,0,52,\N,\N,\N,\N,\N,\N,12,1971,marko,\N,\N,Helmut,Marko,27/04/1943,Austrian,http://en.wikipedia.org/wiki/Helmut_Marko,BRM,1943,28
+15716,635,338,201,15,22,\N,R,22,0,5,\N,\N,\N,\N,\N,\N,3,1971,walker,\N,\N,David,Walker,10/06/1941,Australian,http://en.wikipedia.org/wiki/David_Walker_(racing_driver),Lotus-Pratt &amp; Whitney,1941,30
+15933,644,339,32,23,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1970,roig,\N,\N,Alex,Soler-Roig,29/10/1932,Spanish,http://en.wikipedia.org/wiki/Alex_Soler-Roig,Team Lotus,1932,38
+17835,737,340,170,18,12,8,8,8,0,78,\N,\N,\N,\N,\N,\N,14,1962,love,\N,\N,John,Love,07/12/1924,Rhodesian,http://en.wikipedia.org/wiki/John_Love_(racing_driver),Cooper-Climax,1924,38
+18103,747,341,32,26,15,\N,R,15,0,17,\N,\N,\N,\N,\N,\N,7,1960,surtees,\N,\N,John,Surtees,11/02/1934,British,http://en.wikipedia.org/wiki/John_Surtees,Team Lotus,1934,26
+15694,634,342,200,28,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1971,barber,\N,\N,Skip,Barber,16/11/1936,American,http://en.wikipedia.org/wiki/Skip_Barber,March-Ford,1936,35
+16568,676,343,180,27,20,\N,R,18,0,18,\N,\N,\N,\N,\N,\N,86,1968,brack,\N,\N,Bill,Brack,26/12/1935,Canadian,http://en.wikipedia.org/wiki/Bill_Brack,Lotus-Ford,1935,33
+15884,642,344,63,19,17,\N,R,25,0,15,\N,\N,\N,\N,\N,\N,5,1971,posey,\N,\N,Sam,Posey,26/05/1944,American,http://en.wikipedia.org/wiki/Sam_Posey,Surtees,1944,27
+17592,726,345,172,10,13,\N,R,16,0,36,\N,\N,\N,\N,\N,\N,5,1963,rodriguez,\N,\N,Pedro,Rodríguez,18/01/1940,Mexican,http://en.wikipedia.org/wiki/Pedro_Rodr%C3%ADguez_(racing_driver),Lotus-Climax,1940,23
+17664,730,346,172,46,0,\N,F,17,0,0,\N,\N,\N,\N,\N,\N,81,1962,siffert,\N,\N,Jo,Siffert,07/07/1936,Swiss,http://en.wikipedia.org/wiki/Jo_Siffert,Lotus-Climax,1936,26
+20284,791,347,105,34,8,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,5,1956,bonnier,\N,\N,Jo,Bonnier,31/01/1930,Swedish,http://en.wikipedia.org/wiki/Joakim_Bonnier,Maserati,1930,26
+15730,636,348,200,34,23,13,13,13,0,50,\N,\N,\N,\N,\N,\N,15,1971,mazet,\N,\N,François,Mazet,24/02/1943,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Mazet,March-Ford,1943,28
+15731,636,349,200,28,22,\N,N,14,0,46,\N,\N,\N,\N,\N,\N,62,1971,jean,\N,\N,Max,Jean,27/07/1943,French,http://en.wikipedia.org/wiki/Max_Jean,March-Ford,1943,28
+16475,672,350,195,30,17,4,4,4,3,58,\N,\N,\N,\N,\N,\N,12,1968,elford,\N,\N,Vic,Elford,10/06/1935,British,http://en.wikipedia.org/wiki/Vic_Elford,Cooper-BRM,1935,33
+16714,684,351,193,22,20,\N,R,15,0,29,\N,\N,\N,\N,\N,\N,51,1967,moser,\N,\N,Silvio,Moser,24/04/1941,Swiss,http://en.wikipedia.org/wiki/Silvio_Moser,Cooper-ATS,1941,26
+16354,665,352,66,22,9,\N,R,10,0,76,\N,\N,\N,\N,\N,\N,5,1969,eaton,\N,\N,George,Eaton,12/11/1945,Canadian,http://en.wikipedia.org/wiki/George_Eaton,BRM,1945,24
+18310,756,353,32,42,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1959,lovely,\N,\N,Pete,Lovely,11/04/1926,American,http://en.wikipedia.org/wiki/Pete_Lovely,Team Lotus,1926,33
+15859,641,354,34,26,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1971,craft,\N,\N,Chris,Craft,17/11/1939,British,http://en.wikipedia.org/wiki/Chris_Craft_(racing_driver),Brabham,1939,32
+15873,642,355,66,28,24,14,14,14,0,56,\N,\N,\N,\N,\N,\N,13,1971,Cannoc,\N,\N,John,Cannon,21/06/1933,Canadian,http://en.wikipedia.org/wiki/John_Cannon_(auto_racer),BRM,1933,38
+19177,797,356,87,40,25,\N,R,12,0,30,\N,\N,\N,\N,\N,\N,5,1955,jack_brabham,\N,\N,Jack,Brabham,02/04/1926,Australian,http://en.wikipedia.org/wiki/Jack_Brabham,Cooper,1926,29
+16278,660,357,180,14,12,\N,R,13,0,1,\N,\N,\N,\N,\N,\N,48,1969,miles,\N,\N,John,Miles,14/06/1943,British,http://en.wikipedia.org/wiki/John_Miles_(auto_racer),Lotus-Ford,1943,26
+17322,715,358,181,12,13,\N,R,10,0,58,\N,\N,\N,\N,\N,\N,38,1964,rindt,\N,\N,Jochen,Rindt,18/04/1942,Austrian,http://en.wikipedia.org/wiki/Jochen_Rindt,Brabham-BRM,1942,22
+16645,680,359,82,2,11,\N,R,15,0,4,\N,\N,\N,\N,\N,\N,98,1967,gavin,\N,\N,Johnny,Servoz-Gavin,18/01/1942,French,http://en.wikipedia.org/wiki/Johnny_Servoz-Gavin,Matra,1942,25
+18640,772,360,87,20,12,5,5,5,0,15,+6:26.3,8861300,\N,\N,\N,\N,1,1958,mclaren,\N,\N,Bruce,McLaren,30/08/1937,New Zealander,http://en.wikipedia.org/wiki/Bruce_McLaren,Cooper,1937,21
+16622,679,361,176,16,18,\N,R,10,0,51,\N,\N,\N,\N,\N,\N,69,1967,courage,\N,\N,Piers,Courage,27/05/1942,British,http://en.wikipedia.org/wiki/Piers_Courage,Lotus-BRM,1942,25
+20314,728,362,51,18,16,\N,R,15,0,53,\N,\N,\N,\N,\N,\N,6,1963,klerk,\N,\N,Peter,de Klerk,16/03/1935,South African,http://en.wikipedia.org/wiki/Peter_de_Klerk,Alfa Romeo,1935,28
+15958,646,363,6,28,8,4,4,4,3,28,+2:38.5,6048600,\N,\N,\N,\N,1,1970,giunti,\N,\N,Ignazio,Giunti,30/08/1941,Italian,http://en.wikipedia.org/wiki/Ignazio_Giunti,Ferrari,1941,29
+18375,759,364,6,28,12,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,21,1959,gurney,\N,\N,Dan,Gurney,13/04/1931,American,http://en.wikipedia.org/wiki/Dan_Gurney,Ferrari,1931,28
+16737,685,365,26,17,14,\N,R,17,0,6,\N,\N,\N,\N,\N,\N,22,1967,hahne,\N,\N,Hubert,Hahne,28/03/1935,German,http://en.wikipedia.org/wiki/Hubert_Hahne,Lola,1935,32
+16178,654,366,34,31,22,\N,R,21,0,21,\N,\N,\N,\N,\N,\N,95,1970,hutchison,\N,\N,Gus,Hutchison,26/04/1937,American,http://en.wikipedia.org/wiki/Gus_Hutchison,Brabham,1937,33
+16182,654,367,66,32,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,1970,westbury,\N,\N,Peter,Westbury,26/05/1938,British,http://en.wikipedia.org/wiki/Peter_Westbury,BRM,1938,32
+17848,737,368,172,19,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,1962,tingle,\N,\N,Sam,Tingle,24/08/1921,Rhodesian,http://en.wikipedia.org/wiki/Sam_Tingle,Lotus-Climax,1921,41
+16395,667,369,170,25,20,\N,R,16,0,22,\N,\N,\N,\N,\N,\N,5,1968,rooyen,\N,\N,Basil,van Rooyen,19/04/1939,South African,http://en.wikipedia.org/wiki/Basil_van_Rooyen,Cooper-Climax,1939,29
+17289,713,370,66,21,24,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,1964,attwood,\N,\N,Richard,Attwood,04/04/1940,British,http://en.wikipedia.org/wiki/Richard_Attwood,BRM,1940,24
+16759,686,371,189,11,15,\N,N,15,0,47,\N,\N,\N,\N,\N,\N,62,1967,pease,\N,\N,Al,Pease,15/10/1921,Canadian,http://en.wikipedia.org/wiki/Al_Pease,Eagle-Climax,1921,46
+16341,664,372,183,26,19,\N,R,17,0,10,\N,\N,\N,\N,\N,\N,44,1969,cordts,\N,\N,John,Cordts,23/07/1935,Canadian,http://en.wikipedia.org/wiki/John_Cordts,Brabham-Climax,1935,34
+18157,749,373,32,6,11,\N,R,12,0,42,\N,\N,\N,\N,\N,\N,7,1960,clark,\N,\N,Jim,Clark,04/03/1936,British,http://en.wikipedia.org/wiki/Jim_Clark,Team Lotus,1936,24
+17556,725,374,172,6,9,13,13,13,0,73,\N,\N,\N,\N,\N,\N,51,1963,spence,\N,\N,Mike,Spence,30/12/1936,British,http://en.wikipedia.org/wiki/Mike_Spence,Lotus-Climax,1936,27
+17441,720,375,6,11,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,1963,scarfiotti,\N,\N,Ludovico,Scarfiotti,18/10/1933,Italian,http://en.wikipedia.org/wiki/Ludovico_Scarfiotti,Ferrari,1933,30
+18308,756,376,170,10,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,1959,bianchi,\N,BIA,Lucien,Bianchi,10/11/1934,Belgian,http://en.wikipedia.org/wiki/Lucien_Bianchi,Cooper-Climax,1934,25
+16744,685,377,82,23,21,\N,R,24,0,2,\N,\N,\N,\N,\N,\N,5,1967,jo_schlesser,\N,\N,Jo,Schlesser,18/05/1928,French,http://en.wikipedia.org/wiki/Jo_Schlesser,Matra,1928,39
+16501,673,378,195,16,18,\N,R,13,0,34,\N,\N,\N,\N,\N,\N,80,1968,widdows,\N,\N,Robin,Widdows,27/05/1942,British,http://en.wikipedia.org/wiki/Robin_Widdows,Cooper-BRM,1942,26
+16741,685,379,90,26,23,\N,R,21,0,4,\N,\N,\N,\N,\N,\N,21,1967,ahrens,\N,\N,Kurt,Ahrens,19/04/1940,German,"http://en.wikipedia.org/wiki/Kurt_Ahrens,_Jr.",Protos,1940,27
+17287,713,380,182,26,19,\N,R,23,0,0,\N,\N,\N,\N,\N,\N,3,1964,gardner,\N,\N,Frank,Gardner,01/10/1930,Australian,http://en.wikipedia.org/wiki/Frank_Gardner_(driver),Brabham-Ford,1930,34
+16588,677,381,66,9,19,\N,R,17,0,35,\N,\N,\N,\N,\N,\N,5,1968,unser,\N,\N,Bobby,Unser,20/02/1934,American,http://en.wikipedia.org/wiki/Bobby_Unser,BRM,1934,34
+17611,727,382,66,13,11,11,11,11,0,57,\N,\N,\N,\N,\N,\N,5,1963,solana,\N,\N,Moisés,Solana,26/12/1935,Mexican,http://en.wikipedia.org/wiki/Mois%C3%A9s_Solana,BRM,1935,28
+17500,723,383,26,22,16,12,12,12,0,75,\N,\N,\N,\N,\N,\N,17,1963,anderson,\N,\N,Bob,Anderson,19/05/1931,British,http://en.wikipedia.org/wiki/Bob_Anderson_(racing_driver),Lola,1931,32
+16620,679,384,183,20,17,\N,N,8,0,60,\N,\N,\N,\N,\N,\N,62,1967,botha,\N,\N,Luki,Botha,16/01/1930,South African,http://en.wikipedia.org/wiki/Luki_Botha,Brabham-Climax,1930,37
+17902,740,385,167,46,17,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,67,1961,bandini,\N,\N,Lorenzo,Bandini,21/12/1935,Italian,http://en.wikipedia.org/wiki/Lorenzo_Bandini,Cooper-Maserati,1935,26
+18094,747,386,6,34,9,6,6,6,1,70,\N,\N,\N,\N,\N,\N,123,1960,ginther,\N,\N,Richie,Ginther,05/08/1930,American,http://en.wikipedia.org/wiki/Richie_Ginther,Ferrari,1930,30
+18409,760,387,123,60,0,\N,F,27,0,0,\N,\N,\N,\N,\N,\N,81,1959,parkes,\N,\N,Mike,Parkes,24/09/1931,British,http://en.wikipedia.org/wiki/Mike_Parkes,Fry,1931,28
+16875,693,388,183,7,12,7,7,7,0,78,\N,\N,\N,\N,\N,\N,12,1966,irwin,\N,\N,Chris,Irwin,27/06/1942,British,http://en.wikipedia.org/wiki/Chris_Irwin,Brabham-Climax,1942,24
+16823,690,389,167,21,15,\N,N,6,0,75,\N,\N,\N,\N,\N,\N,62,1966,ligier,\N,\N,Guy,Ligier,12/07/1930,French,http://en.wikipedia.org/wiki/Guy_Ligier,Cooper-Maserati,1930,36
+16708,684,390,167,14,15,9,9,9,0,76,\N,\N,\N,\N,\N,\N,14,1967,rees,\N,\N,Alan,Rees,12/01/1938,British,http://en.wikipedia.org/wiki/Alan_Rees_(racing_driver),Cooper-Maserati,1938,29
+16734,685,391,90,25,25,\N,N,14,0,12,\N,\N,\N,\N,\N,\N,13,1967,hart,\N,\N,Brian,Hart,07/09/1936,British,http://en.wikipedia.org/wiki/Brian_Hart,Protos,1936,31
+16755,686,392,176,6,17,11,11,11,0,81,\N,\N,\N,\N,\N,\N,19,1967,fisher,\N,\N,Mike,Fisher,13/03/1943,American,http://en.wikipedia.org/wiki/Mike_Fisher_(driver),Lotus-BRM,1943,24
+16762,686,393,170,41,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,1967,tom_jones,\N,\N,Tom,Jones,26/04/1943,American,http://en.wikipedia.org/wiki/Tom_Jones_(auto_racer),Cooper-Climax,1943,24
+17913,741,394,6,50,12,1,1,1,9,52,14:17.5,8057500,\N,\N,\N,\N,1,1961,baghetti,\N,\N,Giancarlo,Baghetti,25/12/1934,Italian,http://en.wikipedia.org/wiki/Giancarlo_Baghetti,Ferrari,1934,27
+16806,689,395,6,12,16,8,8,8,0,63,\N,\N,\N,\N,\N,\N,12,1967,williams,\N,\N,Jonathan,Williams,26/10/1942,British,http://en.wikipedia.org/wiki/Jonathan_Williams_(racing_driver),Ferrari,1942,25
+17160,707,396,6,24,14,9,9,9,0,106,\N,\N,\N,\N,\N,\N,14,1965,bondurant,\N,\N,Bob,Bondurant,27/04/1933,American,http://en.wikipedia.org/wiki/Bob_Bondurant,Ferrari,1933,32
+17715,732,397,32,16,0,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,54,1962,arundell,\N,\N,Peter,Arundell,08/11/1933,British,http://en.wikipedia.org/wiki/Peter_Arundell,Team Lotus,1933,29
+18263,754,398,170,30,16,\N,R,15,0,23,\N,\N,\N,\N,\N,\N,5,1960,vic_wilson,\N,\N,Vic,Wilson,14/04/1931,British,http://en.wikipedia.org/wiki/Vic_Wilson_(motor_racing_driver),Cooper-Climax,1931,29
+17278,713,399,170,22,20,14,14,14,0,56,\N,\N,\N,\N,\N,\N,117,1964,taylor,\N,\N,John,Taylor,23/03/1933,British,http://en.wikipedia.org/wiki/John_Taylor_(racer),Cooper-Climax,1933,31
+16879,693,400,192,24,19,11,11,11,0,73,\N,\N,\N,\N,\N,\N,17,1966,lawrence,\N,\N,Chris,Lawrence,27/07/1933,British,http://en.wikipedia.org/wiki/Chris_Lawrence_(racing_driver),Cooper-Ferrari,1933,33
+18411,760,401,170,44,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1959,trevor_taylor,\N,\N,Trevor,Taylor,26/12/1936,British,http://en.wikipedia.org/wiki/Trevor_Taylor,Cooper-Climax,1936,23
+17354,716,402,181,36,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1964,geki,\N,\N,Giacomo,Russo,23/10/1937,Italian,http://en.wikipedia.org/wiki/Geki_(driver),Brabham-BRM,1937,27
+18601,770,403,105,36,13,7,7,7,0,49,\N,\N,\N,\N,\N,\N,11,1958,phil_hill,\N,\N,Phil,Hill,20/04/1927,American,http://en.wikipedia.org/wiki/Phil_Hill,Maserati,1927,31
+18349,758,404,32,12,9,4,4,4,3,74,\N,\N,\N,\N,\N,\N,11,1959,ireland,\N,\N,Innes,Ireland,12/06/1930,British,http://en.wikipedia.org/wiki/Innes_Ireland,Team Lotus,1930,29
+17302,714,405,11,20,22,13,13,13,0,11,\N,\N,\N,\N,\N,\N,3,1964,bucknum,\N,\N,Ronnie,Bucknum,05/04/1936,American,http://en.wikipedia.org/wiki/Ronnie_Bucknum,Honda,1936,28
+16992,699,406,182,18,16,9,9,9,0,81,\N,\N,\N,\N,\N,\N,14,1965,hawkins,\N,\N,Paul,Hawkins,12/10/1937,Australian,http://en.wikipedia.org/wiki/Paul_Hawkins_(racing_driver),Brabham-Ford,1937,28
+20315,728,407,34,22,14,\N,R,16,0,49,\N,\N,\N,\N,\N,\N,51,1963,prophet,\N,\N,David,Prophet,09/10/1937,British,http://en.wikipedia.org/wiki/David_Prophet,Brabham,1937,26
+17956,742,408,172,50,24,13,13,13,0,69,\N,\N,\N,\N,\N,\N,16,1961,maggs,\N,\N,Tony,Maggs,09/02/1937,South African,http://en.wikipedia.org/wiki/Tony_Maggs,Lotus-Climax,1937,24
+20311,728,409,167,23,19,12,12,12,0,77,\N,\N,\N,\N,\N,\N,18,1963,blokdyk,\N,\N,Trevor,Blokdyk,30/11/1935,South African,http://en.wikipedia.org/wiki/Trevor_Blokdyk,Cooper-Maserati,1935,28
+17833,737,410,172,20,10,6,6,6,1,78,\N,\N,\N,\N,\N,\N,14,1962,lederle,\N,\N,Neville,Lederle,25/09/1938,South African,http://en.wikipedia.org/wiki/Neville_Lederle,Lotus-Climax,1938,24
+17840,737,411,89,21,14,\N,R,13,0,62,\N,\N,\N,\N,\N,\N,21,1962,serrurier,\N,\N,Doug,Serrurier,09/12/1920,South African,http://en.wikipedia.org/wiki/Doug_Serrurier,LDS,1920,42
+20313,728,412,180,21,15,14,14,14,0,66,\N,\N,\N,\N,\N,\N,124,1963,niemann,\N,\N,Brausch,Niemann,07/01/1939,South African,http://en.wikipedia.org/wiki/Brausch_Niemann,Lotus-Ford,1939,24
+17837,737,413,172,14,13,10,10,10,0,71,\N,\N,\N,\N,\N,\N,45,1962,pieterse,\N,\N,Ernie,Pieterse,04/07/1938,South African,http://en.wikipedia.org/wiki/Ernie_Pieterse,Lotus-Climax,1938,24
+17009,699,414,172,24,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,97,1965,puzey,\N,\N,Clive,Puzey,11/07/1941,Rhodesian,http://en.wikipedia.org/wiki/Clive_Puzey,Lotus-Climax,1941,24
+17012,699,415,93,26,0,\N,W,29,0,0,\N,\N,\N,\N,\N,\N,54,1965,reed,\N,\N,Ray,Reed,30/04/1932,South African,http://en.wikipedia.org/wiki/Ray_Reed,RE,1932,33
+17013,699,416,167,31,0,\N,W,30,0,0,\N,\N,\N,\N,\N,\N,54,1965,clapham,\N,\N,David,Clapham,18/05/1931,South African,http://en.wikipedia.org/wiki/David_Clapham,Cooper-Maserati,1931,34
+17014,699,417,170,33,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,1965,blignaut,\N,\N,Alex,Blignaut,30/11/1932,South African,http://en.wikipedia.org/wiki/Alex_Blignaut,Cooper-Climax,1932,33
+18739,777,418,105,2,10,3,3,3,4,103,\N,\N,\N,\N,\N,\N,12,1957,gregory,\N,\N,Masten,Gregory,29/02/1932,American,http://en.wikipedia.org/wiki/Masten_Gregory,Maserati,1932,25
+17083,703,419,170,20,21,\N,R,16,0,38,\N,\N,\N,\N,\N,\N,80,1965,rhodes,\N,\N,John,Rhodes,18/08/1927,British,http://en.wikipedia.org/wiki/John_Rhodes_(driver),Cooper-Climax,1927,38
+17505,723,420,97,26,19,\N,R,17,0,59,\N,\N,\N,\N,\N,\N,6,1963,raby,\N,\N,Ian,Raby,22/09/1921,British,http://en.wikipedia.org/wiki/Ian_Raby,Gilby,1921,42
+17089,703,421,186,25,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1965,rollinson,\N,\N,Alan,Rollinson,15/05/1943,British,http://en.wikipedia.org/wiki/Alan_Rollinson,Cooper-Ford,1943,22
+17090,703,422,172,26,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1965,gubby,\N,\N,Brian,Gubby,17/04/1934,British,http://en.wikipedia.org/wiki/Brian_Gubby,Lotus-Climax,1934,31
+17462,721,423,95,34,16,\N,R,19,0,2,\N,\N,\N,\N,\N,\N,8,1963,mitter,\N,\N,Gerhard,Mitter,30/08/1935,German,http://en.wikipedia.org/wiki/Gerhard_Mitter,Porsche,1935,28
+18036,744,424,175,54,24,\N,R,29,0,1,\N,\N,\N,\N,\N,\N,5,1961,bussinello,\N,\N,Roberto,Bussinello,04/10/1927,Italian,http://en.wikipedia.org/wiki/Roberto_Bussinello,De Tomaso-Alfa Romeo,1927,34
+18026,744,425,175,50,20,\N,R,19,0,13,\N,\N,\N,\N,\N,\N,5,1961,vaccarella,\N,\N,Nino,Vaccarella,04/03/1933,Italian,http://en.wikipedia.org/wiki/Nino_Vaccarella,De Tomaso-Alfa Romeo,1933,28
+17151,706,426,66,52,22,\N,R,23,0,8,\N,\N,\N,\N,\N,\N,5,1965,bassi,\N,\N,Giorgio,Bassi,20/01/1934,Italian,http://en.wikipedia.org/wiki/Giorgio_Bassi,BRM,1934,31
+20061,834,427,141,12,13,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,3,1950,trintignant,\N,\N,Maurice,Trintignant,30/10/1917,French,http://en.wikipedia.org/wiki/Maurice_Trintignant,Simca,1917,33
+17935,741,428,170,52,21,\N,R,23,0,6,\N,\N,\N,\N,\N,\N,5,1961,collomb,\N,\N,Bernard,Collomb,07/10/1930,French,http://en.wikipedia.org/wiki/Bernard_Collomb,Cooper-Climax,1930,31
+19910,827,429,154,24,12,6,6,6,0,33,\N,\N,\N,\N,\N,\N,13,1951,andre_pilette,\N,\N,André,Pilette,06/10/1918,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Pilette,Talbot-Lago,1918,33
+18838,781,430,95,27,20,14,14,14,0,20,\N,\N,\N,\N,\N,\N,12,1957,beaufort,\N,\N,Carel Godin,de Beaufort,10/04/1934,Dutch,http://en.wikipedia.org/wiki/Carel_Godin_de_Beaufort,Porsche,1934,23
+19575,814,431,146,35,24,\N,R,20,0,12,\N,\N,\N,\N,\N,\N,43,1953,barth,\N,\N,Edgar,Barth,26/01/1917,German,http://en.wikipedia.org/wiki/Edgar_Barth,EMW,1917,36
+18437,762,432,167,18,14,10,10,10,0,56,\N,\N,\N,\N,\N,\N,16,1959,cabral,\N,\N,Mário de Araújo,Cabral,15/01/1934,Portuguese,http://en.wikipedia.org/wiki/Mario_de_Araujo_Cabral,Cooper-Maserati,1934,25
+18064,745,433,170,60,14,\N,R,18,0,14,\N,\N,\N,\N,\N,\N,3,1961,hansgen,\N,\N,Walt,Hansgen,28/10/1919,American,http://en.wikipedia.org/wiki/Walt_Hansgen,Cooper-Climax,1919,42
+18056,745,434,170,3,17,10,10,10,0,93,\N,\N,\N,\N,\N,\N,17,1961,sharp,\N,\N,Hap,Sharp,01/01/1928,American,http://en.wikipedia.org/wiki/Hap_Sharp,Cooper-Climax,1928,33
+18175,750,435,6,22,13,\N,R,9,0,23,\N,\N,\N,\N,\N,\N,7,1960,mairesse,\N,\N,Willy,Mairesse,01/10/1928,Belgian,http://en.wikipedia.org/wiki/Willy_Mairesse,Ferrari,1928,32
+18007,743,436,170,39,0,\N,W,33,0,0,\N,\N,\N,\N,\N,\N,54,1961,campbell-jones,\N,\N,John,Campbell-Jones,21/01/1930,British,http://en.wikipedia.org/wiki/John_Campbell-Jones,Cooper-Climax,1930,31
+18628,771,437,87,12,16,\N,R,13,0,40,\N,\N,\N,\N,\N,\N,8,1958,burgess,\N,\N,Ian,Burgess,06/07/1930,British,http://en.wikipedia.org/wiki/Ian_Burgess,Cooper,1930,28
+17730,733,438,99,40,19,11,11,11,0,71,\N,\N,\N,\N,\N,\N,14,1962,settember,\N,\N,Tony,Settember,10/07/1926,American,http://en.wikipedia.org/wiki/Tony_Settember,Emeryson,1926,36
+18080,746,439,105,10,20,14,14,14,0,70,\N,\N,\N,\N,\N,\N,88,1960,estefano,\N,\N,Nasif,Estéfano,18/11/1932,Argentine,http://en.wikipedia.org/wiki/Nasif_Est%C3%A9fano,Maserati,1932,28
+18272,755,440,32,24,12,7,7,7,0,73,\N,\N,\N,\N,\N,\N,11,1960,hall,\N,\N,Jim,Hall,23/07/1935,American,http://en.wikipedia.org/wiki/Jim_Hall_(race_car_driver),Team Lotus,1935,25
+18412,760,441,170,66,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1959,parnell,\N,\N,Tim,Parnell,25/06/1932,British,http://en.wikipedia.org/wiki/Tim_Parnell,Cooper-Climax,1932,27
+17807,735,442,177,58,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,1962,kuhnke,\N,\N,Kurt,Kuhnke,30/04/1910,German,http://en.wikipedia.org/wiki/Kurt_Kuhnke,Lotus-Borgward,1910,52
+17569,725,443,167,62,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1963,ernesto_brambilla,\N,\N,Ernesto,Brambilla,31/01/1934,Italian,http://en.wikipedia.org/wiki/Ernesto_Brambilla,Cooper-Maserati,1934,29
+18038,744,444,174,52,32,\N,R,31,0,1,\N,\N,\N,\N,\N,\N,5,1961,lippi,\N,\N,Roberto,Lippi,17/10/1926,Italian,http://en.wikipedia.org/wiki/Roberto_Lippi,De Tomaso-Osca,1926,35
+17775,734,445,176,34,0,\N,F,30,0,0,\N,\N,\N,\N,\N,\N,81,1962,seiffert,\N,\N,Günther,Seiffert,18/10/1937,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Seiffert,Lotus-BRM,1937,25
+17718,732,446,172,,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,1962,abate,\N,\N,Carlo,Abate,10/07/1932,Italian,http://en.wikipedia.org/wiki/Carlo_Mario_Abate,Lotus-Climax,1932,30
+18022,744,447,173,72,30,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,5,1961,starrabba,\N,\N,Gaetano,Starrabba,03/12/1932,Italian,http://en.wikipedia.org/wiki/Gaetano_Starrabba,Lotus-Maserati,1932,29
+17583,726,448,98,21,21,7,7,7,0,88,\N,\N,\N,\N,\N,\N,115,1963,broeker,\N,\N,Peter,Broeker,15/05/1926,Canadian,http://en.wikipedia.org/wiki/Peter_Broeker,Stebro,1926,37
+19898,826,449,139,48,25,\N,R,27,0,34,\N,\N,\N,\N,\N,\N,108,1951,ward,\N,\N,Rodger,Ward,10/01/1921,American,http://en.wikipedia.org/wiki/Rodger_Ward,Bromme,1921,30
+17600,726,450,98,19,0,\N,W,24,0,0,\N,\N,\N,\N,\N,\N,54,1963,vos,\N,\N,Ernie,de Vos,01/07/1941,Dutch,http://en.wikipedia.org/wiki/Ernie_de_Vos,Stebro,1941,22
+17622,727,451,170,20,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,1963,dochnal,\N,\N,Frank,Dochnal,08/10/1920,American,http://en.wikipedia.org/wiki/Frank_Dochnal,Cooper-Climax,1920,43
+17625,727,452,172,19,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,1963,monarch,\N,\N,Thomas,Monarch,03/09/1945,American,http://en.wikipedia.org/wiki/Talk:1963_Mexican_Grand_Prix#Who_was_Thomas_Monarch.3F,Lotus-Climax,1945,18
+17895,740,453,170,40,13,9,9,9,0,29,\N,\N,\N,\N,\N,\N,11,1961,lewis,\N,\N,Jackie,Lewis,01/11/1936,British,http://en.wikipedia.org/wiki/Jackie_Lewis,Cooper-Climax,1936,25
+18024,744,454,6,8,2,\N,R,17,0,13,\N,\N,\N,\N,\N,\N,69,1961,ricardo_rodriguez,\N,\N,Ricardo,Rodríguez,14/02/1942,Mexican,http://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(Formula_One),Ferrari,1942,19
+19571,814,455,144,22,29,16,16,16,0,14,\N,\N,\N,\N,\N,\N,14,1953,seidel,\N,\N,Wolfgang,Seidel,04/07/1926,German,http://en.wikipedia.org/wiki/Wolfgang_Seidel,Veritas,1926,27
+19743,821,456,6,14,19,8,8,8,0,82,\N,\N,\N,\N,\N,\N,13,1952,salvadori,\N,\N,Roy,Salvadori,12/05/1922,British,http://en.wikipedia.org/wiki/Roy_Salvadori,Ferrari,1922,30
+17645,729,457,95,15,10,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,3,1962,pon,\N,\N,Ben,Pon,09/12/1936,Dutch,http://en.wikipedia.org/wiki/Ben_Pon,Porsche,1936,26
+17646,729,458,95,16,0,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,54,1962,slotemaker,\N,\N,Rob,Slotemaker,13/06/1929,Dutch,http://en.wikipedia.org/wiki/Rob_Slotemaker,Porsche,1929,33
+18839,781,459,87,25,22,15,15,15,0,17,\N,\N,\N,\N,\N,\N,15,1957,marsh,\N,\N,Tony,Marsh,20/07/1931,British,http://en.wikipedia.org/wiki/Tony_Marsh_(racing_driver),Cooper,1931,26
+17971,742,460,172,40,26,\N,R,28,0,7,\N,\N,\N,\N,\N,\N,80,1961,ashmore,\N,\N,Gerry,Ashmore,25/07/1936,British,http://en.wikipedia.org/wiki/Gerry_Ashmore,Lotus-Climax,1936,25
+17696,731,461,95,8,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,1962,schiller,\N,\N,Heinz,Schiller,25/01/1930,Swiss,http://en.wikipedia.org/wiki/Heinz_Schiller,Porsche,1930,32
+18380,759,462,167,20,17,\N,R,20,0,7,\N,\N,\N,\N,\N,\N,44,1959,davis,\N,\N,Colin,Davis,29/07/1933,British,http://en.wikipedia.org/wiki/Colin_Davis_(driver),Cooper-Maserati,1933,26
+17734,733,463,172,46,20,15,15,15,0,64,\N,\N,\N,\N,\N,\N,45,1962,chamberlain,\N,\N,Jay,Chamberlain,29/12/1925,American,http://en.wikipedia.org/wiki/Jay_Chamberlain,Lotus-Climax,1925,37
+17740,733,464,172,48,18,\N,R,21,0,6,\N,\N,\N,\N,\N,\N,5,1962,shelly,\N,\N,Tony,Shelly,02/02/1937,New Zealander,http://en.wikipedia.org/wiki/Tony_Shelly,Lotus-Climax,1937,25
+18407,760,465,170,54,0,\N,F,25,0,0,\N,\N,\N,\N,\N,\N,81,1959,greene,\N,\N,Keith,Greene,05/01/1938,British,http://en.wikipedia.org/wiki/Keith_Greene,Cooper-Climax,1938,21
+17759,734,466,95,32,14,14,14,14,0,14,\N,\N,\N,\N,\N,\N,11,1962,walter,\N,\N,Heini,Walter,28/07/1927,Swiss,http://en.wikipedia.org/wiki/Heini_Walter,Porsche,1927,35
+18044,744,467,172,64,0,\N,W,37,0,0,\N,\N,\N,\N,\N,\N,54,1961,prinoth,\N,\N,Ernesto,Prinoth,15/04/1923,Italian,http://en.wikipedia.org/wiki/Ernesto_Prinoth,Lotus-Climax,1923,38
+18054,745,468,170,6,16,8,8,8,0,96,\N,\N,\N,\N,\N,\N,14,1961,penske,\N,\N,Roger,Penske,20/02/1937,American,http://en.wikipedia.org/wiki/Roger_Penske,Cooper-Climax,1937,24
+17817,736,469,172,26,17,10,10,10,0,93,\N,\N,\N,\N,\N,\N,17,1962,schroeder,\N,\N,Rob,Schroeder,11/05/1926,British,http://en.wikipedia.org/wiki/Rob_Schroeder,Lotus-Climax,1926,36
+17823,736,470,170,23,12,\N,R,16,0,31,\N,\N,\N,\N,\N,\N,80,1962,mayer,\N,\N,Timmy,Mayer,22/02/1938,American,http://en.wikipedia.org/wiki/Timmy_Mayer,Cooper-Climax,1938,24
+17836,737,471,66,5,17,9,9,9,0,76,\N,\N,\N,\N,\N,\N,16,1962,johnstone,\N,\N,Bruce,Johnstone,30/01/1937,South African,http://en.wikipedia.org/wiki/Bruce_Johnstone_(racing_driver),BRM,1937,25
+17842,737,472,178,22,15,\N,R,15,0,31,\N,\N,\N,\N,\N,\N,67,1962,harris,\N,\N,Mike,Harris,25/05/1939,South African,http://en.wikipedia.org/wiki/Mike_Harris_(race_car_driver),Cooper-Alfa Romeo,1939,23
+17845,737,473,172,12,0,\N,W,18,0,0,\N,\N,\N,\N,\N,\N,54,1962,hocking,\N,\N,Gary,Hocking,30/09/1937,Rhodesian,http://en.wikipedia.org/wiki/Gary_Hocking,Lotus-Climax,1937,25
+17846,737,474,172,16,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,1962,vyver,\N,\N,Syd,van der Vyver,01/06/1920,South African,http://en.wikipedia.org/wiki/Syd_van_der_Vyver,Lotus-Climax,1920,42
+19858,825,475,133,14,14,8,8,8,0,40,\N,\N,\N,\N,\N,\N,12,1951,moss,\N,\N,Stirling,Moss,17/09/1929,British,http://en.wikipedia.org/wiki/Stirling_Moss,HWM,1929,22
+19056,791,476,6,50,0,\N,W,25,0,0,\N,\N,\N,\N,\N,\N,54,1956,trips,\N,\N,Wolfgang,von Trips,04/05/1928,German,http://en.wikipedia.org/wiki/Wolfgang_Graf_Berghe_von_Trips,Ferrari,1928,28
+18499,766,477,32,24,13,6,6,6,0,87,\N,\N,\N,\N,\N,\N,53,1958,allison,\N,\N,Cliff,Allison,08/02/1932,British,http://en.wikipedia.org/wiki/Cliff_Allison,Team Lotus,1932,26
+19564,814,478,144,31,14,9,9,9,0,17,\N,\N,\N,\N,\N,\N,11,1953,herrmann,\N,\N,Hans,Herrmann,23/02/1928,German,http://en.wikipedia.org/wiki/Hans_Herrmann,Veritas,1928,25
+18912,785,479,66,12,0,\N,W,17,0,0,\N,\N,\N,\N,\N,\N,5,1956,brooks,\N,\N,Tony,Brooks,25/02/1932,British,http://en.wikipedia.org/wiki/Tony_Brooks,BRM,1932,24
+17862,738,480,172,8,14,\N,R,14,0,42,\N,\N,\N,\N,\N,\N,108,1961,may,\N,\N,Michael,May,18/08/1934,Swiss,http://en.wikipedia.org/wiki/Michael_May_(racing_driver),Lotus-Climax,1934,27
+18393,760,481,170,58,21,11,11,11,0,69,\N,\N,\N,\N,\N,\N,16,1959,henry_taylor,\N,\N,Henry,Taylor,16/12/1932,British,http://en.wikipedia.org/wiki/Henry_Taylor_(racing_driver),Cooper-Climax,1932,27
+18887,784,482,6,38,10,5,5,5,2,91,\N,\N,\N,\N,\N,\N,17,1956,gendebien,\N,\N,Olivier,Gendebien,12/01/1924,Belgian,http://en.wikipedia.org/wiki/Olivier_Gendebien,Ferrari,1924,32
+18910,785,483,6,36,0,\N,F,15,0,0,\N,\N,\N,\N,\N,\N,81,1956,scarlatti,\N,\N,Giorgio,Scarlatti,02/10/1921,Italian,http://en.wikipedia.org/wiki/Giorgio_Scarlatti,Ferrari,1921,35
+18837,781,484,87,28,17,13,13,13,0,20,\N,\N,\N,\N,\N,\N,12,1957,naylor,\N,\N,Brian,Naylor,24/03/1923,British,http://en.wikipedia.org/wiki/Brian_Naylor,Cooper,1923,34
+17940,741,485,172,,0,\N,W,28,0,0,\N,\N,\N,\N,\N,\N,54,1961,bordeu,\N,\N,Juan Manuel,Bordeu,28/01/1934,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Bordeu,Lotus-Climax,1934,27
+19545,813,486,133,4,27,\N,R,17,0,54,\N,\N,\N,\N,\N,\N,8,1953,fairman,\N,\N,Jack,Fairman,15/03/1913,British,http://en.wikipedia.org/wiki/Jack_Fairman,HWM,1913,40
+17973,742,487,167,62,28,\N,R,30,0,0,\N,\N,\N,\N,\N,\N,6,1961,natili,\N,\N,Massimo,Natili,28/07/1935,Italian,http://en.wikipedia.org/wiki/Massimo_Natili,Cooper-Maserati,1935,26
+18004,743,488,103,29,0,\N,W,30,0,0,\N,\N,\N,\N,\N,\N,54,1961,monteverdi,\N,\N,Peter,Monteverdi,07/06/1934,Swiss,http://en.wikipedia.org/wiki/Peter_Monteverdi,MBM,1934,27
+18005,743,489,170,34,0,\N,W,31,0,0,\N,\N,\N,\N,\N,\N,54,1961,pirocchi,\N,\N,Renato,Pirocchi,26/03/1933,Italian,http://en.wikipedia.org/wiki/Renato_Pirocchi,Cooper-Climax,1933,28
+18006,743,490,170,35,0,\N,W,32,0,0,\N,\N,\N,\N,\N,\N,54,1961,duke,\N,\N,Geoff,Duke,29/03/1923,British,http://en.wikipedia.org/wiki/Geoff_Duke,Cooper-Climax,1923,38
+18260,754,491,167,34,9,\N,R,12,0,32,\N,\N,\N,\N,\N,\N,6,1960,thiele,\N,\N,Alfonso,Thiele,05/04/1920,American-Italian,http://en.wikipedia.org/wiki/Alfonso_Thiele,Cooper-Maserati,1920,40
+18045,744,492,170,66,0,\N,W,38,0,0,\N,\N,\N,\N,\N,\N,54,1961,boffa,\N,\N,Menato,Boffa,04/01/1930,Italian,http://en.wikipedia.org/wiki/Menato_Boffa,Cooper-Climax,1930,31
+18055,745,493,172,16,13,9,9,9,0,96,\N,\N,\N,\N,\N,\N,14,1961,ryan,\N,\N,Peter,Ryan,10/06/1940,Canadian,http://en.wikipedia.org/wiki/Peter_Ryan_(driver),Lotus-Climax,1940,21
+18119,748,494,107,98,12,7,7,7,0,200,+4:25.59,13236950,\N,\N,\N,\N,1,1960,ruby,\N,\N,Lloyd,Ruby,12/01/1928,American,http://en.wikipedia.org/wiki/Lloyd_Ruby,Watson,1928,32
+18066,745,495,172,23,0,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,54,1961,ken_miles,\N,\N,Ken,Miles,01/11/1918,British,http://en.wikipedia.org/wiki/Ken_Miles,Lotus-Climax,1918,43
+19429,808,496,128,32,10,\N,R,14,0,24,\N,\N,\N,\N,\N,\N,6,1953,menditeguy,\N,\N,Carlos,Menditeguy,10/08/1914,Argentine,http://en.wikipedia.org/wiki/Carlos_Menditeguy,Gordini,1914,39
+18075,746,497,32,46,15,9,9,9,0,77,\N,\N,\N,\N,\N,\N,13,1960,larreta,\N,\N,Alberto Rodriguez,Larreta,14/01/1934,Argentine,http://en.wikipedia.org/wiki/Alberto_Rodriguez_Larreta,Team Lotus,1934,26
+20055,834,498,105,2,3,\N,R,10,0,1,\N,\N,\N,\N,\N,\N,3,1950,gonzalez,\N,\N,José Froilán,González,05/10/1922,Argentine,http://en.wikipedia.org/wiki/Jos%C3%A9_Froil%C3%A1n_Gonz%C3%A1lez,Maserati,1922,28
+18077,746,499,167,4,17,11,11,11,0,76,\N,\N,\N,\N,\N,\N,14,1960,bonomi,\N,\N,Roberto,Bonomi,30/09/1919,Argentine,http://en.wikipedia.org/wiki/Roberto_Bonomi,Cooper-Maserati,1919,41
+18079,746,500,105,14,19,13,13,13,0,72,\N,\N,\N,\N,\N,\N,18,1960,munaron,\N,\N,Gino,Munaron,02/04/1928,Italian,http://en.wikipedia.org/wiki/Gino_Munaron,Maserati,1928,32
+20064,834,501,87,8,20,\N,R,19,0,0,\N,\N,\N,\N,\N,\N,4,1950,schell,\N,\N,Harry,Schell,29/06/1921,American,http://en.wikipedia.org/wiki/Harry_Schell,Cooper,1921,29
+18633,771,502,32,18,20,\N,R,18,0,19,\N,\N,\N,\N,\N,\N,25,1958,stacey,\N,\N,Alan,Stacey,29/08/1933,British,http://en.wikipedia.org/wiki/Alan_Stacey,Team Lotus,1933,25
+18086,746,503,105,44,21,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,68,1960,chimeri,\N,\N,Ettore,Chimeri,04/06/1921,Venezuelan,http://en.wikipedia.org/wiki/Ettore_Chimeri,Maserati,1921,39
+18087,746,504,105,12,22,\N,R,21,0,16,\N,\N,\N,\N,\N,\N,68,1960,creus,\N,\N,Antonio,Creus,28/10/1924,Spanish,http://en.wikipedia.org/wiki/Antonio_Creus,Maserati,1924,36
+18392,760,505,169,48,16,10,10,10,0,70,\N,\N,\N,\N,\N,\N,15,1959,bristow,\N,\N,Chris,Bristow,02/12/1937,British,http://en.wikipedia.org/wiki/Chris_Bristow,Cooper-Borgward,1937,22
+19003,789,506,105,29,20,\N,R,22,0,22,\N,\N,\N,\N,\N,\N,5,1956,halford,\N,\N,Bruce,Halford,18/05/1931,British,http://en.wikipedia.org/wiki/Bruce_Halford,Maserati,1931,25
+18109,747,507,106,46,0,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,1960,daigh,\N,\N,Chuck,Daigh,29/11/1923,American,http://en.wikipedia.org/wiki/Chuck_Daigh,Scarab,1923,37
+18111,747,508,106,48,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1960,reventlow,\N,\N,Lance,Reventlow,24/02/1936,American,http://en.wikipedia.org/wiki/Lance_Reventlow,Scarab,1936,24
+20090,835,509,160,76,28,24,24,24,0,122,\N,\N,\N,\N,\N,\N,116,1950,rathmann,\N,\N,Jim,Rathmann,16/07/1928,American,http://en.wikipedia.org/wiki/Jim_Rathmann,Wetteroth,1928,22
+18572,768,510,113,31,16,\N,R,30,0,0,\N,\N,\N,\N,\N,\N,3,1958,goldsmith,\N,\N,Paul,Goldsmith,02/10/1925,American,http://en.wikipedia.org/wiki/Paul_Goldsmith,Kurtis Kraft,1925,33
+18336,757,511,109,9,10,\N,R,24,0,112,\N,\N,\N,\N,\N,\N,22,1959,branson,\N,\N,Don,Branson,02/06/1920,American,http://en.wikipedia.org/wiki/Don_Branson,Phillips,1920,39
+20205,809,512,113,62,18,\N,R,19,0,166,\N,\N,\N,\N,\N,\N,44,1953,thomson,\N,\N,Johnny,Thomson,09/04/1922,American,http://en.wikipedia.org/wiki/Johnny_Thomson,Kurtis Kraft,1922,31
+19676,818,513,111,81,24,16,16,16,0,193,\N,\N,\N,\N,\N,\N,17,1952,johnson,\N,\N,Eddie,Johnson,10/02/1919,American,http://en.wikipedia.org/wiki/Eddie_Johnson_(auto_racer),Trevis,1919,33
+18920,786,514,113,14,23,7,7,7,0,200,+6:25.63,14394470,\N,\N,\N,\N,1,1956,veith,\N,\N,Bob,Veith,01/11/1926,American,http://en.wikipedia.org/wiki/Bob_Veith,Kurtis Kraft,1926,30
+18121,748,515,111,18,28,9,9,9,0,200,+8:19.91,13471270,\N,\N,\N,\N,1,1960,tingelstad,\N,\N,Bud,Tingelstad,04/04/1928,American,http://en.wikipedia.org/wiki/Bud_Tingelstad,Trevis,1928,32
+18926,786,516,113,57,25,13,13,13,0,196,\N,\N,\N,\N,\N,\N,14,1956,christie,\N,\N,Bob,Christie,04/04/1924,American,http://en.wikipedia.org/wiki/Bob_Christie_(racing_driver),Kurtis Kraft,1924,32
+18343,757,517,113,87,26,\N,R,31,0,45,\N,\N,\N,\N,\N,\N,3,1959,amick,\N,\N,Red,Amick,19/01/1929,American,http://en.wikipedia.org/wiki/Red_Amick,Kurtis Kraft,1929,30
+20078,835,518,129,18,13,12,12,12,0,133,\N,\N,\N,\N,\N,\N,15,1950,darter,\N,\N,Duane,Carter,05/05/1913,American,http://en.wikipedia.org/wiki/Duane_Carter,Stevens,1913,37
+19264,800,519,113,51,18,\N,R,33,0,74,\N,\N,\N,\N,\N,\N,3,1954,homeier,\N,\N,Bill,Homeier,31/08/1918,American,http://en.wikipedia.org/wiki/Bill_Homeier,Kurtis Kraft,1918,36
+20082,835,520,157,75,31,16,16,16,0,128,\N,\N,\N,\N,\N,\N,88,1950,hartley,\N,\N,Gene,Hartley,28/01/1926,American,http://en.wikipedia.org/wiki/Gene_Hartley,Langley,1926,24
+19891,826,521,156,8,19,\N,R,20,0,93,\N,\N,\N,\N,\N,\N,42,1951,stevenson,\N,\N,Chuck,Stevenson,15/10/1919,American,http://en.wikipedia.org/wiki/Chuck_Stevenson,Marchese,1919,32
+18338,757,522,113,48,5,\N,R,26,0,85,\N,\N,\N,\N,\N,\N,121,1959,grim,\N,\N,Bobby,Grim,04/09/1924,American,http://en.wikipedia.org/wiki/Bobby_Grim,Kurtis Kraft,1924,35
+19118,794,523,111,81,31,\N,R,18,0,142,\N,\N,\N,\N,\N,\N,7,1955,templeman,\N,\N,Shorty,Templeman,12/08/1919,American,http://en.wikipedia.org/wiki/Shorty_Templeman,Trevis,1919,36
+18130,748,524,115,56,23,18,18,18,0,185,\N,\N,\N,\N,\N,\N,5,1960,hurtubise,\N,\N,Jim,Hurtubise,05/12/1932,American,http://en.wikipedia.org/wiki/Jim_Hurtubise,Christensen,1932,28
+19666,818,525,113,77,21,6,6,6,0,200,+9:24.32,14526200,\N,\N,\N,\N,1,1952,bryan,\N,\N,Jimmy,Bryan,28/01/1926,American,http://en.wikipedia.org/wiki/Jimmy_Bryan,Kurtis Kraft,1926,26
+20081,835,526,110,55,24,15,15,15,0,130,\N,\N,\N,\N,\N,\N,18,1950,ruttman,\N,\N,Troy,Ruttman,11/03/1930,American,http://en.wikipedia.org/wiki/Troy_Ruttman,Lesovsky,1930,20
+18780,778,527,114,88,2,\N,R,23,0,105,\N,\N,\N,\N,\N,\N,95,1957,sachs,\N,\N,Eddie,Sachs,28/05/1927,American,http://en.wikipedia.org/wiki/Eddie_Sachs,Kuzma,1927,30
+19458,809,528,107,38,15,\N,R,27,0,76,\N,\N,\N,\N,\N,\N,3,1953,freeland,\N,\N,Don,Freeland,25/03/1925,American,http://en.wikipedia.org/wiki/Don_Freeland,Watson,1925,28
+20097,835,529,150,14,8,\N,R,31,0,30,\N,\N,\N,\N,\N,\N,67,1950,bettenhausen,\N,\N,Tony,Bettenhausen,12/09/1916,American,http://en.wikipedia.org/wiki/Tony_Bettenhausen,Deidt,1916,34
+18136,748,530,108,32,15,24,24,24,0,103,\N,\N,\N,\N,\N,\N,3,1960,weiler,\N,\N,Wayne,Weiler,09/12/1934,American,http://en.wikipedia.org/wiki/Wayne_Weiler,Epperly,1934,26
+18558,768,531,114,29,12,\N,R,16,0,148,\N,\N,\N,\N,\N,\N,20,1958,foyt,\N,\N,Anthony,Foyt,16/01/1935,American,http://en.wikipedia.org/wiki/A.J._Foyt,Kuzma,1935,23
+19122,794,532,135,37,13,\N,R,22,0,112,\N,\N,\N,\N,\N,\N,80,1955,russo,\N,\N,Eddie,Russo,19/11/1925,American,http://en.wikipedia.org/wiki/Eddie_Russo,Pawl,1925,30
+19129,794,533,113,39,26,\N,R,29,0,53,\N,\N,\N,\N,\N,\N,3,1955,boyd,\N,\N,Johnny,Boyd,19/08/1926,American,http://en.wikipedia.org/wiki/Johnny_Boyd,Kurtis Kraft,1926,29
+19882,826,534,113,69,22,\N,R,11,0,142,\N,\N,\N,\N,\N,\N,5,1951,force,\N,\N,Gene,Force,15/06/1916,American,http://en.wikipedia.org/wiki/Gene_Force,Kurtis Kraft,1916,35
+18328,757,535,113,58,33,16,16,16,0,200,+11:41.69,13950890,\N,\N,\N,\N,1,1959,mcwithey,\N,\N,Jim,McWithey,04/07/1927,American,http://en.wikipedia.org/wiki/Jim_McWithey,Kurtis Kraft,1927,32
+18574,768,536,113,68,27,\N,R,32,0,0,\N,\N,\N,\N,\N,\N,3,1958,sutton,\N,\N,Len,Sutton,09/08/1925,American,http://en.wikipedia.org/wiki/Len_Sutton,Kurtis Kraft,1925,33
+20098,835,537,107,45,18,\N,R,32,0,25,\N,\N,\N,\N,\N,\N,85,1950,dick_rathmann,\N,\N,Dick,Rathmann,06/01/1924,American,http://en.wikipedia.org/wiki/Dick_Rathmann,Watson,1924,26
+19107,794,538,113,71,16,7,7,7,0,200,+6:24.24,14423770,\N,\N,\N,\N,1,1955,herman,\N,\N,Al,Herman,15/03/1927,American,http://en.wikipedia.org/wiki/Al_Herman,Kurtis Kraft,1927,28
+18557,768,539,114,59,32,\N,R,15,0,151,\N,\N,\N,\N,\N,\N,42,1958,dempsey_wilson,\N,\N,Dempsey,Wilson,11/03/1927,American,http://en.wikipedia.org/wiki/Dempsey_Wilson,Kuzma,1927,31
+18405,760,540,170,50,24,\N,R,23,0,17,\N,\N,\N,\N,\N,\N,7,1959,mike_taylor,\N,\N,Mike,Taylor,24/04/1934,British,http://en.wikipedia.org/wiki/Mike_Taylor_(driver),Cooper-Climax,1934,25
+20239,803,541,105,6,10,\N,R,20,0,44,\N,\N,\N,\N,\N,\N,3,1954,flockhart,\N,\N,Ron,Flockhart,16/06/1923,British,http://en.wikipedia.org/wiki/Ron_Flockhart_(auto_racing),Maserati,1923,31
+18403,760,542,32,64,22,\N,R,21,0,19,\N,\N,\N,\N,\N,\N,25,1959,piper,\N,\N,David,Piper,02/12/1930,British,http://en.wikipedia.org/wiki/David_Piper,Team Lotus,1930,29
+18517,766,543,127,52,0,\N,F,24,0,0,\N,\N,\N,\N,\N,\N,81,1958,cabianca,\N,\N,Giulio,Cabianca,19/02/1923,Italian,http://en.wikipedia.org/wiki/Giulio_Cabianca,OSCA,1923,35
+18256,754,544,170,12,15,8,8,8,0,45,\N,\N,\N,\N,\N,\N,15,1960,drogo,\N,\N,Piero,Drogo,08/08/1926,Italian,http://en.wikipedia.org/wiki/Piero_Drogo,Cooper-Climax,1926,34
+18258,754,545,104,28,14,10,10,10,0,41,\N,\N,\N,\N,\N,\N,19,1960,gamble,\N,\N,Fred,Gamble,17/03/1932,American,http://en.wikipedia.org/wiki/Fred_Gamble_(racing_driver),Behra-Porsche,1932,28
+18264,754,546,170,8,11,\N,R,16,0,0,\N,\N,\N,\N,\N,\N,3,1960,owen,\N,\N,Arthur,Owen,23/03/1915,British,http://en.wikipedia.org/wiki/Arthur_Owen,Cooper-Climax,1915,45
+19315,803,547,87,28,20,15,15,15,0,44,\N,\N,\N,\N,\N,\N,125,1954,gould,\N,\N,Horace,Gould,20/09/1918,British,http://en.wikipedia.org/wiki/Horace_Gould,Cooper,1918,36
+18278,755,548,105,20,22,13,13,13,0,68,\N,\N,\N,\N,\N,\N,17,1960,drake,\N,\N,Bob,Drake,14/12/1919,American,http://en.wikipedia.org/wiki/Bob_Drake_(Formula_One),Maserati,1919,41
+18747,777,549,125,12,16,\N,R,11,0,47,\N,\N,\N,\N,\N,\N,95,1957,bueb,\N,\N,Ivor,Bueb,06/06/1923,British,http://en.wikipedia.org/wiki/Ivor_Bueb,Connaught,1923,34
+18307,756,550,170,12,0,\N,F,19,0,0,\N,\N,\N,\N,\N,\N,81,1959,Changy,\N,\N,Alain,de Changy,05/02/1922,Belgian,http://en.wikipedia.org/wiki/Alain_de_Changy,Cooper-Climax,1922,37
+18515,766,551,105,44,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1958,filippis,\N,\N,Maria,de Filippis,11/11/1926,Italian,http://en.wikipedia.org/wiki/Maria_Teresa_de_Filippis,Maserati,1926,32
+18311,756,552,170,14,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1959,lucienbonnet,\N,\N,Jean,Lucienbonnet,07/01/1923,French,http://en.wikipedia.org/wiki/Jean_Lucienbonnet,Cooper-Climax,1923,36
+18516,766,553,105,56,0,\N,F,23,0,0,\N,\N,\N,\N,\N,\N,81,1958,testut,\N,\N,André,Testut,13/04/1926,Monegasque,http://en.wikipedia.org/wiki/Andr%C3%A9_Testut,Maserati,1926,32
+19642,817,554,128,6,7,3,3,3,4,61,\N,\N,\N,\N,\N,\N,11,1952,behra,\N,\N,Jean,Behra,16/02/1921,French,http://en.wikipedia.org/wiki/Jean_Behra,Gordini,1921,31
+20075,835,555,138,7,19,9,9,9,0,135,\N,\N,\N,\N,\N,\N,13,1950,paul_russo,\N,\N,Paul,Russo,10/04/1914,American,http://en.wikipedia.org/wiki/Paul_Russo,Nichels,1914,36
+19437,809,556,113,48,21,6,6,6,0,200,+8:10.21,14471900,\N,\N,\N,\N,1,1953,daywalt,\N,\N,Jimmy,Daywalt,28/08/1924,American,http://en.wikipedia.org/wiki/Jimmy_Daywalt,Kurtis Kraft,1924,29
+18327,757,557,113,71,21,15,15,15,0,200,+8:19.86,13749060,\N,\N,\N,\N,1,1959,arnold,\N,\N,Chuck,Arnold,30/05/1926,American,http://en.wikipedia.org/wiki/Chuck_Arnold,Kurtis Kraft,1926,33
+19127,794,558,113,42,22,\N,R,27,0,54,\N,\N,\N,\N,\N,\N,3,1955,keller,\N,\N,Al,Keller,11/04/1920,American,http://en.wikipedia.org/wiki/Al_Keller,Kurtis Kraft,1920,35
+20076,835,559,113,59,11,10,10,10,0,135,\N,\N,\N,\N,\N,\N,13,1950,flaherty,\N,\N,Pat,Flaherty,06/01/1926,American,http://en.wikipedia.org/wiki/Pat_Flaherty_(racing_driver),Kurtis Kraft,1926,24
+18783,778,560,113,31,23,\N,R,26,0,81,\N,\N,\N,\N,\N,\N,95,1957,cheesbourg,\N,\N,Bill,Cheesbourg,12/06/1927,American,http://en.wikipedia.org/wiki/Bill_Cheesbourg,Kurtis Kraft,1927,30
+19123,794,561,113,49,23,\N,R,23,0,111,\N,\N,\N,\N,\N,\N,5,1955,ray_crawford,\N,\N,Ray,Crawford,26/10/1915,American,http://en.wikipedia.org/wiki/Ray_Crawford,Kurtis Kraft,1915,40
+18938,786,562,113,54,24,\N,R,25,0,131,\N,\N,\N,\N,\N,\N,5,1956,turner,\N,\N,Jack,Turner,12/02/1920,American,http://en.wikipedia.org/wiki/Jack_Turner_(driver),Kurtis Kraft,1920,36
+19112,794,563,113,41,25,12,12,12,0,196,\N,\N,\N,\N,\N,\N,14,1955,weyant,\N,\N,Chuck,Weyant,03/04/1923,American,http://en.wikipedia.org/wiki/Chuck_Weyant,Kurtis Kraft,1923,32
+18550,768,564,107,44,19,8,8,8,0,200,+5:34.02,13787820,\N,\N,\N,\N,1,1958,larson,\N,\N,Jud,Larson,21/01/1923,American,http://en.wikipedia.org/wiki/Jud_Larson,Watson,1923,35
+18781,778,565,113,77,18,\N,R,24,0,101,\N,\N,\N,\N,\N,\N,3,1957,magill,\N,\N,Mike,Magill,08/02/1920,American,http://en.wikipedia.org/wiki/Mike_Magill,Kurtis Kraft,1920,37
+18614,770,566,105,28,17,\N,R,20,0,9,\N,\N,\N,\N,\N,\N,5,1958,shelby,\N,\N,Carroll,Shelby,11/01/1923,American,http://en.wikipedia.org/wiki/Carroll_Shelby,Maserati,1923,35
+18370,759,567,105,38,18,10,10,10,0,40,\N,\N,\N,\N,\N,\N,88,1959,orey,\N,\N,Fritz,d'Orey,25/03/1938,Brazilian,http://en.wikipedia.org/wiki/Fritz_d%27Orey,Maserati,1938,21
+18382,759,568,105,36,0,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,1959,fontes,\N,\N,Azdrubal,Fontes,26/12/1922,Uruguayan,http://en.wikipedia.org/wiki/Azdrubal_Fontes,Maserati,1922,37
+18394,760,569,170,52,23,12,12,12,0,69,\N,\N,\N,\N,\N,\N,16,1959,ashdown,\N,\N,Peter,Ashdown,16/10/1934,British,http://en.wikipedia.org/wiki/Peter_Ashdown,Cooper-Climax,1934,25
+18408,760,570,170,56,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1959,bill_moss,\N,\N,Bill,Moss,04/09/1933,British,http://en.wikipedia.org/wiki/Bill_Moss_(racing_driver),Cooper-Climax,1933,26
+18410,760,571,32,62,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1959,dennis_taylor,\N,\N,Dennis,Taylor,12/06/1921,British,http://en.wikipedia.org/wiki/Dennis_Taylor_(racing_driver),Team Lotus,1921,38
+18471,764,572,95,17,16,7,7,7,0,38,\N,\N,\N,\N,\N,\N,14,1959,blanchard,\N,\N,Harry,Blanchard,13/06/1929,American,http://en.wikipedia.org/wiki/Harry_Blanchard,Porsche,1929,30
+18731,776,573,6,26,12,9,9,9,0,91,\N,\N,\N,\N,\N,\N,19,1957,tomaso,\N,\N,Alessandro,de Tomaso,10/07/1928,Argentine-Italian,http://en.wikipedia.org/wiki/Alessandro_de_Tomaso,Ferrari,1928,29
+18480,764,574,169,16,15,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,25,1959,constantine,\N,\N,George,Constantine,22/02/1918,American,http://en.wikipedia.org/wiki/George_Constantine,Cooper-Borgward,1918,41
+18482,764,575,125,18,13,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,1959,said,\N,\N,Bob,Said,05/05/1932,American,http://en.wikipedia.org/wiki/Bob_Said,Connaught,1932,27
+18483,764,576,105,22,0,\N,W,19,0,0,\N,\N,\N,\N,\N,\N,54,1959,cade,\N,\N,Phil,Cade,12/06/1916,American,http://en.wikipedia.org/wiki/Phil_Cade,Maserati,1916,43
+20215,816,577,105,56,12,7,7,7,0,76,\N,\N,\N,\N,\N,\N,14,1953,musso,\N,\N,Luigi,Musso,28/07/1924,Italian,http://en.wikipedia.org/wiki/Luigi_Musso,Maserati,1924,29
+19697,819,578,87,8,6,4,4,4,3,35,\N,\N,\N,\N,\N,\N,11,1952,hawthorn,\N,\N,Mike,Hawthorn,10/04/1929,British,http://en.wikipedia.org/wiki/Mike_Hawthorn,Cooper,1929,23
+20036,833,579,51,1,3,\N,R,12,0,62,\N,\N,\N,\N,\N,\N,44,1950,fangio,\N,\N,Juan,Fangio,24/06/1911,Argentine,http://en.wikipedia.org/wiki/Juan_Manuel_Fangio,Alfa Romeo,1911,39
+20014,832,580,105,44,17,10,10,10,0,60,\N,\N,\N,\N,\N,\N,88,1951,godia,\N,\N,Paco,Godia,21/03/1921,Spanish,http://en.wikipedia.org/wiki/Paco_Godia,Maserati,1921,30
+19655,817,581,133,18,6,\N,R,16,0,12,\N,\N,\N,\N,\N,\N,86,1952,collins,\N,\N,Peter,Collins,06/11/1931,British,http://en.wikipedia.org/wiki/Peter_Collins_(racing_driver),HWM,1931,21
+18511,766,582,105,50,0,\N,F,18,0,0,\N,\N,\N,\N,\N,\N,81,1958,kavanagh,\N,\N,Ken,Kavanagh,12/12/1923,Australian,http://en.wikipedia.org/wiki/Ken_Kavanagh,Maserati,1923,35
+20268,784,583,105,10,11,4,4,4,2,92,\N,\N,\N,\N,\N,\N,16,1956,gerini,\N,\N,Gerino,Gerini,10/08/1928,Italian,http://en.wikipedia.org/wiki/Gerino_Gerini_(racing_driver),Maserati,1928,28
+18513,766,584,125,12,0,\N,F,20,0,0,\N,\N,\N,\N,\N,\N,81,1958,kessler,\N,\N,Bruce,Kessler,23/03/1936,American,http://en.wikipedia.org/wiki/Bruce_Kessler,Connaught,1936,22
+19006,789,585,99,32,23,\N,R,25,0,12,\N,\N,\N,\N,\N,\N,80,1956,emery,\N,\N,Paul,Emery,12/11/1916,British,http://en.wikipedia.org/wiki/Paul_Emery,Emeryson,1916,40
+19213,798,586,137,46,0,\N,W,23,0,0,\N,\N,\N,\N,\N,\N,54,1955,piotti,\N,\N,Luigi,Piotti,27/10/1913,Italian,http://en.wikipedia.org/wiki/Luigi_Piotti,Arzani-Volpini,1913,42
+18521,766,587,125,12,0,\N,F,28,0,0,\N,\N,\N,\N,\N,\N,81,1958,ecclestone,\N,\N,Bernie,Ecclestone,28/10/1930,British,http://en.wikipedia.org/wiki/Bernie_Ecclestone,Connaught,1930,28
+18522,766,588,105,50,0,\N,F,29,0,0,\N,\N,\N,\N,\N,\N,81,1958,taramazzo,\N,\N,Luigi,Taramazzo,05/05/1932,Italian,http://en.wikipedia.org/wiki/Luigi_Taramazzo,Maserati,1932,26
+20042,833,589,105,19,11,\N,R,18,0,26,\N,\N,\N,\N,\N,\N,8,1950,chiron,\N,\N,Louis,Chiron,03/08/1899,Monegasque,http://en.wikipedia.org/wiki/Louis_Chiron,Maserati,1899,51
+18740,777,590,125,10,13,4,4,4,3,102,\N,\N,\N,\N,\N,\N,13,1957,lewis-evans,\N,\N,Stuart,Lewis-Evans,20/04/1930,British,http://en.wikipedia.org/wiki/Stuart_Lewis-Evans,Connaught,1930,27
+18544,768,591,108,99,25,2,2,2,6,200,27.63,13481430,\N,\N,\N,\N,1,1958,george_amick,\N,\N,George,Amick,24/10/1924,American,http://en.wikipedia.org/wiki/George_Amick,Epperly,1924,34
+19667,818,592,113,37,23,7,7,7,0,200,+10:35.24,14597120,\N,\N,\N,\N,1,1952,reece,\N,\N,Jimmy,Reece,17/11/1929,American,http://en.wikipedia.org/wiki/Jimmy_Reece,Kurtis Kraft,1929,23
+20067,835,593,113,1,5,1,1,1,9,138,46:56.0,10015970,\N,\N,\N,\N,1,1950,parsons,\N,\N,Johnnie,Parsons,04/07/1918,American,http://en.wikipedia.org/wiki/Johnnie_Parsons,Kurtis Kraft,1918,32
+18934,786,594,113,34,31,\N,R,21,0,173,\N,\N,\N,\N,\N,\N,5,1956,tolan,\N,\N,Johnnie,Tolan,22/10/1917,American,http://en.wikipedia.org/wiki/Johnnie_Tolan,Kurtis Kraft,1917,39
+18929,786,595,114,41,29,16,16,16,0,194,\N,\N,\N,\N,\N,\N,16,1956,garrett,\N,\N,Billy,Garrett,24/04/1933,American,http://en.wikipedia.org/wiki/Billy_Garrett,Kuzma,1933,23
+19249,800,596,129,27,31,18,18,18,0,193,\N,\N,\N,\N,\N,\N,17,1954,elisian,\N,\N,Ed,Elisian,09/12/1926,American,http://en.wikipedia.org/wiki/Ed_Elisian,Stevens,1926,28
+19252,800,597,113,35,12,\N,R,21,0,181,\N,\N,\N,\N,\N,\N,20,1954,connor,\N,\N,Pat,O'Connor,09/10/1928,American,http://en.wikipedia.org/wiki/Pat_O%27Connor_(auto_racer),Kurtis Kraft,1928,26
+18573,768,598,113,92,24,\N,R,31,0,0,\N,\N,\N,\N,\N,\N,3,1958,jerry_unser,\N,\N,Jerry,Unser,15/11/1932,American,http://en.wikipedia.org/wiki/Jerry_Unser,Kurtis Kraft,1932,26
+18575,768,599,114,57,28,\N,R,33,0,0,\N,\N,\N,\N,\N,\N,3,1958,bisch,\N,\N,Art,Bisch,10/11/1926,American,http://en.wikipedia.org/wiki/Art_Bisch,Kuzma,1926,32
+18651,772,600,87,27,23,\N,R,16,0,4,\N,\N,\N,\N,\N,\N,48,1958,goethals,\N,\N,Christian,Goethals,04/08/1928,Belgian,http://en.wikipedia.org/wiki/Christian_Goethals,Cooper,1928,30
+18847,781,601,87,29,24,\N,R,23,0,3,\N,\N,\N,\N,\N,\N,38,1957,gibson,\N,\N,Dick,Gibson,16/04/1918,British,http://en.wikipedia.org/wiki/Dick_Gibson,Cooper,1918,39
+18711,775,602,87,58,23,14,14,14,0,48,\N,\N,\N,\N,\N,\N,15,1958,la_caze,\N,\N,Robert,La Caze,26/02/1917,French,http://en.wikipedia.org/wiki/Robert_La_Caze,Cooper,1917,41
+18712,775,603,87,48,25,15,15,15,0,48,\N,\N,\N,\N,\N,\N,15,1958,guelfi,\N,\N,André,Guelfi,06/05/1919,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Guelfi,Cooper,1919,39
+18715,775,604,87,54,24,\N,R,18,0,31,\N,\N,\N,\N,\N,\N,3,1958,picard,\N,\N,François,Picard,26/04/1921,French,http://en.wikipedia.org/wiki/Fran%C3%A7ois_Picard,Cooper,1921,37
+18716,775,605,87,56,22,\N,R,19,0,30,\N,\N,\N,\N,\N,\N,3,1958,bridger,\N,\N,Tom,Bridger,24/06/1934,British,http://en.wikipedia.org/wiki/Tom_Bridger,Cooper,1934,24
+18977,788,606,6,16,9,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,6,1956,portago,\N,\N,Alfonso,de Portago,11/10/1928,Spanish,http://en.wikipedia.org/wiki/Alfonso_de_Portago,Ferrari,1928,28
+19087,793,607,105,40,11,\N,R,10,0,86,\N,\N,\N,\N,\N,\N,20,1955,perdisa,\N,\N,Cesare,Perdisa,21/10/1932,Italian,http://en.wikipedia.org/wiki/Cesare_Perdisa,Maserati,1932,23
+19068,792,608,132,36,12,\N,R,12,0,35,\N,\N,\N,\N,\N,\N,3,1955,castellotti,\N,\N,Eugenio,Castellotti,10/10/1930,Italian,http://en.wikipedia.org/wiki/Eugenio_Castellotti,Lancia,1930,25
+19936,828,609,141,34,21,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,5,1951,simon,\N,\N,André,Simon,05/01/1920,French,http://en.wikipedia.org/wiki/Andr%C3%A9_Simon_(racing_driver),Simca,1920,31
+19054,791,610,125,2,20,\N,R,23,0,6,\N,\N,\N,\N,\N,\N,22,1956,leston,\N,\N,Les,Leston,16/12/1920,British,http://en.wikipedia.org/wiki/Les_Leston,Connaught,1920,36
+20096,835,611,113,23,25,\N,R,30,0,42,\N,\N,\N,\N,\N,\N,51,1950,hanks,\N,\N,Sam,Hanks,13/07/1914,American,http://en.wikipedia.org/wiki/Sam_Hanks,Kurtis Kraft,1914,36
+19875,826,612,149,57,31,4,4,4,3,200,+4:40.12,14538170,\N,\N,\N,\N,1,1951,linden,\N,\N,Andy,Linden,05/04/1922,American,http://en.wikipedia.org/wiki/Andy_Linden_(racing_driver),Sherman,1922,29
+19449,809,613,113,22,22,\N,R,18,0,169,\N,\N,\N,\N,\N,\N,44,1953,teague,\N,\N,Marshall,Teague,22/02/1921,American,http://en.wikipedia.org/wiki/Marshall_Teague,Kurtis Kraft,1921,32
+18776,778,614,113,92,27,\N,R,19,0,170,\N,\N,\N,\N,\N,\N,20,1957,edmunds,\N,\N,Don,Edmunds,23/09/1930,American,http://en.wikipedia.org/wiki/Don_Edmunds,Kurtis Kraft,1930,27
+20094,835,615,113,28,2,\N,R,28,0,64,\N,\N,\N,\N,\N,\N,44,1950,agabashian,\N,\N,Fred,Agabashian,21/08/1913,American,http://en.wikipedia.org/wiki/Fred_Agabashian,Kurtis Kraft,1913,37
+18790,778,616,113,23,9,\N,R,33,0,0,\N,\N,\N,\N,\N,\N,3,1957,george,\N,\N,Elmer,George,15/07/1928,American,http://en.wikipedia.org/wiki/Elmer_George,Kurtis Kraft,1928,29
+18797,779,617,87,24,15,7,7,7,0,68,\N,\N,\N,\N,\N,\N,19,1957,macdowel,\N,\N,Mike,MacDowel,13/09/1932,British,http://en.wikipedia.org/wiki/Mike_MacDowel,Cooper,1932,25
+18801,779,618,66,28,12,\N,R,11,0,24,\N,\N,\N,\N,\N,\N,7,1957,mackay-fraser,\N,\N,Herbert,MacKay-Fraser,23/06/1927,American,http://en.wikipedia.org/wiki/Herbert_MacKay-Fraser,BRM,1927,30
+20030,833,619,151,12,13,6,6,6,0,67,\N,\N,\N,\N,\N,\N,13,1950,gerard,\N,\N,Bob,Gerard,19/01/1914,British,http://en.wikipedia.org/wiki/Bob_Gerard,ERA,1914,36
+19617,816,620,6,10,11,8,8,8,0,75,\N,\N,\N,\N,\N,\N,15,1953,maglioli,\N,\N,Umberto,Maglioli,05/06/1928,Italian,http://en.wikipedia.org/wiki/Umberto_Maglioli,Ferrari,1928,25
+18846,781,621,87,26,23,\N,R,22,0,4,\N,\N,\N,\N,\N,\N,99,1957,england,\N,\N,Paul,England,28/03/1929,Australian,http://en.wikipedia.org/wiki/Paul_England,Cooper,1929,28
+20002,831,622,6,12,16,\N,R,20,0,0,\N,\N,\N,\N,\N,\N,7,1951,landi,\N,\N,Chico,Landi,14/07/1907,Brazilian,http://en.wikipedia.org/wiki/Chico_Landi,Ferrari,1907,44
+19070,792,623,105,30,21,\N,R,14,0,22,\N,\N,\N,\N,\N,\N,60,1955,uria,\N,\N,Alberto,Uria,11/07/1924,Uruguayan,http://en.wikipedia.org/wiki/Alberto_Uria,Maserati,1924,31
+19157,796,624,128,22,14,8,8,8,0,92,\N,\N,\N,\N,\N,\N,18,1955,ramos,\N,\N,Hernando,da Silva Ramos,07/12/1925,Brazilian,http://en.wikipedia.org/wiki/Hernando_da_Silva_Ramos,Gordini,1925,30
+19839,824,625,127,34,10,\N,R,24,0,0,\N,\N,\N,\N,\N,\N,6,1952,bayol,\N,\N,Élie,Bayol,28/02/1914,French,http://en.wikipedia.org/wiki/%C3%89lie_Bayol,OSCA,1914,38
+20059,834,626,141,10,11,\N,R,14,0,0,\N,\N,\N,\N,\N,\N,3,1950,manzon,\N,\N,Robert,Manzon,12/04/1917,French,http://en.wikipedia.org/wiki/Robert_Manzon,Simca,1917,33
+20029,833,627,154,15,9,5,5,5,2,68,\N,\N,\N,\N,\N,\N,12,1950,rosier,\N,\N,Louis,Rosier,05/11/1905,French,http://en.wikipedia.org/wiki/Louis_Rosier,Talbot-Lago,1905,45
+19686,818,628,113,73,32,\N,R,26,0,77,\N,\N,\N,\N,\N,\N,24,1952,sweikert,\N,\N,Bob,Sweikert,20/05/1926,American,http://en.wikipedia.org/wiki/Bob_Sweikert,Kurtis Kraft,1926,26
+19899,826,629,113,23,18,\N,R,28,0,30,\N,\N,\N,\N,\N,\N,109,1951,griffith,\N,\N,Cliff,Griffith,06/02/1916,American,http://en.wikipedia.org/wiki/Cliff_Griffith,Kurtis Kraft,1916,35
+20099,835,630,113,69,7,\N,R,33,0,10,\N,\N,\N,\N,\N,\N,44,1950,dinsmore,\N,\N,Duke,Dinsmore,10/04/1913,American,http://en.wikipedia.org/wiki/Duke_Dinsmore,Kurtis Kraft,1913,37
+19120,794,631,134,31,28,\N,R,20,0,120,\N,\N,\N,\N,\N,\N,48,1955,andrews,\N,\N,Keith,Andrews,15/06/1920,American,http://en.wikipedia.org/wiki/Keith_Andrews_(driver),Schroeder,1920,35
+19698,819,632,133,28,8,5,5,5,2,34,\N,\N,\N,\N,\N,\N,12,1952,frere,\N,\N,Paul,Frère,30/01/1917,Belgian,http://en.wikipedia.org/wiki/Paul_Fr%C3%A8re,HWM,1917,35
+20053,834,633,6,38,6,\N,R,8,0,63,\N,\N,\N,\N,\N,\N,109,1950,villoresi,\N,\N,Luigi,Villoresi,16/05/1909,Italian,http://en.wikipedia.org/wiki/Luigi_Villoresi,Ferrari,1909,41
+18959,787,634,125,28,12,\N,R,13,0,10,\N,\N,\N,\N,\N,\N,5,1956,scotti,\N,\N,Piero,Scotti,11/11/1909,Italian,http://en.wikipedia.org/wiki/Piero_Scotti,Connaught,1909,47
+18981,788,635,118,26,5,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,3,1956,chapman,\N,\N,Colin,Chapman,19/05/1928,British,http://en.wikipedia.org/wiki/Colin_Chapman,Vanwall,1928,28
+18995,789,636,125,20,11,\N,R,14,0,74,\N,\N,\N,\N,\N,\N,5,1956,titterington,\N,\N,Desmond,Titterington,01/05/1928,British,http://en.wikipedia.org/wiki/Desmond_Titterington,Connaught,1928,28
+19005,789,637,125,19,10,\N,R,24,0,16,\N,\N,\N,\N,\N,\N,7,1956,scott_Brown,\N,\N,Archie,Scott Brown,13/05/1927,British,http://en.wikipedia.org/wiki/Archie_Scott_Brown,Connaught,1927,29
+20243,807,638,105,22,21,\N,R,11,0,57,\N,\N,\N,\N,\N,\N,5,1954,volonterio,\N,\N,Ottorino,Volonterio,07/12/1917,Swiss,http://en.wikipedia.org/wiki/Ottorino_Volonterio,Maserati,1917,37
+19017,790,639,128,11,21,\N,R,8,0,15,\N,\N,\N,\N,\N,\N,5,1956,milhoux,\N,\N,André,Milhoux,09/12/1928,Belgian,http://en.wikipedia.org/wiki/Andr%C3%A9_Milhoux,Gordini,1928,28
+20041,833,640,105,20,8,\N,R,17,0,36,\N,\N,\N,\N,\N,\N,5,1950,graffenried,\N,\N,Toulo,de Graffenried,18/05/1914,Swiss,http://en.wikipedia.org/wiki/Toulo_de_Graffenried,Maserati,1914,36
+20162,839,641,51,60,7,\N,R,13,0,34,\N,\N,\N,\N,\N,\N,5,1950,taruffi,\N,\N,Piero,Taruffi,12/10/1906,Italian,http://en.wikipedia.org/wiki/Piero_Taruffi,Alfa Romeo,1906,44
+20025,833,642,51,2,1,1,1,1,9,70,13:23.6,8003600,\N,\N,\N,\N,1,1950,farina,\N,\N,Nino,Farina,30/10/1906,Italian,http://en.wikipedia.org/wiki/Nino_Farina,Alfa Romeo,1906,44
+19479,810,643,128,22,19,\N,R,15,0,28,\N,\N,\N,\N,\N,\N,7,1953,mieres,\N,\N,Roberto,Mieres,03/12/1924,Argentine,http://en.wikipedia.org/wiki/Roberto_Mieres,Gordini,1924,29
+19616,816,644,105,56,12,7,7,7,0,76,\N,\N,\N,\N,\N,\N,14,1953,mantovani,\N,\N,Sergio,Mantovani,22/05/1929,Italian,http://en.wikipedia.org/wiki/Sergio_Mantovani,Maserati,1929,24
+19325,803,645,128,18,13,\N,R,25,0,18,\N,\N,\N,\N,\N,\N,3,1954,bucci,\N,\N,Clemar,Bucci,04/09/1920,Argentine,http://en.wikipedia.org/wiki/Clemar_Bucci,Gordini,1920,34
+19066,792,646,128,42,17,\N,R,10,0,38,\N,\N,\N,\N,\N,\N,7,1955,iglesias,\N,\N,Jesús,Iglesias,22/02/1922,Argentine,http://en.wikipedia.org/wiki/Jes%C3%BAs_Iglesias,Gordini,1922,33
+20047,834,647,6,40,7,2,2,2,6,99,\N,\N,\N,\N,\N,\N,11,1950,ascari,\N,\N,Alberto,Ascari,13/07/1918,Italian,http://en.wikipedia.org/wiki/Alberto_Ascari,Ferrari,1918,32
+19280,802,648,131,20,2,2,2,2,6,61,0.1,9768000,\N,\N,\N,\N,1,1954,kling,\N,\N,Karl,Kling,16/09/1910,German,http://en.wikipedia.org/wiki/Karl_Kling,Mercedes,1910,44
+19430,808,649,141,34,14,\N,R,15,0,21,\N,\N,\N,\N,\N,\N,24,1953,birger,\N,\N,Pablo,Birger,07/01/1924,Argentine,http://en.wikipedia.org/wiki/Pablo_Birger,Simca,1924,29
+19298,802,650,128,26,18,\N,R,20,0,8,\N,\N,\N,\N,\N,\N,5,1954,pollet,\N,\N,Jacques,Pollet,02/07/1922,French,http://en.wikipedia.org/wiki/Jacques_Pollet,Gordini,1922,32
+19652,817,651,133,20,12,\N,W,13,0,24,\N,\N,\N,\N,\N,\N,54,1952,macklin,\N,\N,Lance,Macklin,02/09/1919,British,http://en.wikipedia.org/wiki/Lance_Macklin,HWM,1919,33
+19099,793,652,133,24,0,\N,F,22,0,0,\N,\N,\N,\N,\N,\N,81,1955,whiteaway,\N,\N,Ted,Whiteaway,01/11/1928,British,http://en.wikipedia.org/wiki/Ted_Whiteaway,HWM,1928,27
+20083,835,653,116,22,27,17,17,17,0,128,\N,\N,\N,\N,\N,\N,88,1950,davies,\N,\N,Jimmy,Davies,08/08/1929,American,http://en.wikipedia.org/wiki/Jimmy_Davies,Ewing,1929,21
+20073,835,654,113,98,1,7,7,7,0,135,\N,\N,\N,\N,\N,\N,13,1950,faulkner,\N,\N,Walt,Faulkner,16/02/1920,American,http://en.wikipedia.org/wiki/Walt_Faulkner,Kurtis Kraft,1920,30
+19461,809,655,113,99,30,\N,R,30,0,30,\N,\N,\N,\N,\N,\N,121,1953,niday,\N,\N,Cal,Niday,29/04/1914,American,http://en.wikipedia.org/wiki/Cal_Niday,Kurtis Kraft,1914,39
+19665,818,656,113,33,20,5,5,5,2,200,+8:40.15,14482030,\N,\N,\N,\N,1,1952,cross,\N,\N,Art,Cross,24/01/1918,American,http://en.wikipedia.org/wiki/Art_Cross,Kurtis Kraft,1918,34
+19900,826,657,111,81,20,\N,R,29,0,29,\N,\N,\N,\N,\N,\N,44,1951,vukovich,\N,\N,Bill,Vukovich,13/12/1918,American,http://en.wikipedia.org/wiki/Bill_Vukovich,Trevis,1918,33
+20080,835,658,113,49,6,14,14,14,0,131,\N,\N,\N,\N,\N,\N,20,1950,mcgrath,\N,\N,Jack,McGrath,08/10/1919,American,http://en.wikipedia.org/wiki/Jack_McGrath_(racing_driver),Kurtis Kraft,1919,31
+20087,835,659,113,81,15,21,21,21,0,125,\N,\N,\N,\N,\N,\N,53,1950,hoyt,\N,\N,Jerry,Hoyt,29/01/1929,American,http://en.wikipedia.org/wiki/Jerry_Hoyt,Kurtis Kraft,1929,21
+20035,833,660,154,18,21,11,11,11,0,64,\N,\N,\N,\N,\N,\N,16,1950,claes,\N,\N,Johnny,Claes,11/08/1916,Belgian,http://en.wikipedia.org/wiki/Johnny_Claes,Talbot-Lago,1916,34
+20044,833,661,151,9,10,\N,R,20,0,5,\N,\N,\N,\N,\N,\N,6,1950,peter_walker,\N,\N,Peter,Walker,07/10/1912,British,http://en.wikipedia.org/wiki/Peter_Walker_(driver),ERA,1912,38
+19172,797,662,128,26,23,7,7,7,0,81,\N,\N,\N,\N,\N,\N,19,1955,sparken,\N,\N,Mike,Sparken,16/06/1930,French,http://en.wikipedia.org/wiki/Mike_Sparken,Gordini,1930,25
+19643,817,663,148,22,13,4,4,4,3,60,\N,\N,\N,\N,\N,\N,12,1952,wharton,\N,\N,Ken,Wharton,21/03/1916,British,http://en.wikipedia.org/wiki/Ken_Wharton,Frazer Nash,1916,36
+19751,821,664,125,3,17,16,16,16,0,79,\N,\N,\N,\N,\N,\N,16,1952,mcalpine,\N,\N,Kenneth,McAlpine,21/09/1920,British,http://en.wikipedia.org/wiki/Kenneth_McAlpine,Connaught,1920,32
+19313,803,665,125,23,22,13,13,13,0,82,\N,\N,\N,\N,\N,\N,18,1954,marr,\N,\N,Leslie,Marr,14/08/1922,British,http://en.wikipedia.org/wiki/Leslie_Marr,Connaught,1922,32
+20178,833,666,151,9,10,\N,R,20,0,5,\N,\N,\N,\N,\N,\N,6,1950,rolt,\N,\N,Tony,Rolt,16/10/1918,British,http://en.wikipedia.org/wiki/Tony_Rolt,ERA,1918,32
+19637,816,667,133,18,26,\N,R,28,0,14,\N,\N,\N,\N,\N,\N,5,1953,fitch,\N,\N,John,Fitch,04/08/1917,American,http://en.wikipedia.org/wiki/John_Fitch_(driver),HWM,1917,36
+19209,798,668,128,24,22,\N,R,19,0,7,\N,\N,\N,\N,\N,\N,5,1955,lucas,\N,\N,Jean,Lucas,25/04/1917,French,http://en.wikipedia.org/wiki/Jean_Lucas,Gordini,1917,38
+20038,833,669,105,21,5,\N,R,14,0,49,\N,\N,\N,\N,\N,\N,60,1950,bira,\N,\N,Prince,Bira,15/07/1914,Thai,http://en.wikipedia.org/wiki/Prince_Bira,Maserati,1914,36
+19938,828,670,105,50,15,\N,R,21,0,2,\N,\N,\N,\N,\N,\N,5,1951,marimon,\N,\N,Onofre,Marimón,19/12/1923,Argentine,http://en.wikipedia.org/wiki/Onofre_Marim%C3%B3n,Maserati,1923,28
+19227,799,671,128,22,16,\N,R,14,0,19,\N,\N,\N,\N,\N,\N,51,1954,loyer,\N,\N,Roger,Loyer,05/08/1907,French,http://en.wikipedia.org/wiki/Roger_Loyer,Gordini,1907,47
+19228,799,672,105,34,18,\N,R,15,0,19,\N,\N,\N,\N,\N,\N,6,1954,daponte,\N,\N,Jorge,Daponte,05/06/1923,Argentine,http://en.wikipedia.org/wiki/Jorge_Daponte,Maserati,1923,31
+19873,826,673,113,83,7,2,2,2,6,200,+1:47.24,14365290,\N,\N,\N,\N,1,1951,nazaruk,\N,\N,Mike,Nazaruk,02/10/1921,American,http://en.wikipedia.org/wiki/Mike_Nazaruk,Kurtis Kraft,1921,30
+19240,800,674,113,28,25,9,9,9,0,200,+7:07.24,14184510,\N,\N,\N,\N,1,1954,crockett,\N,\N,Larry,Crockett,23/10/1926,American,http://en.wikipedia.org/wiki/Larry_Crockett,Kurtis Kraft,1926,28
+20185,826,675,113,9,3,3,3,3,2,200,+2:51.39,14429440,\N,\N,\N,\N,1,1951,ayulo,\N,\N,Manny,Ayulo,20/10/1921,American,http://en.wikipedia.org/wiki/Manny_Ayulo,Kurtis Kraft,1921,30
+19250,800,676,113,71,33,19,19,19,0,193,\N,\N,\N,\N,\N,\N,17,1954,armi,\N,\N,Frank,Armi,12/10/1918,American,http://en.wikipedia.org/wiki/Frank_Armi,Kurtis Kraft,1918,36
+20086,835,677,105,21,14,20,20,20,0,126,\N,\N,\N,\N,\N,\N,55,1950,webb,\N,\N,Travis,Webb,08/10/1910,American,http://en.wikipedia.org/wiki/Travis_Webb,Maserati,1910,40
+19262,800,678,134,33,26,\N,R,31,0,101,\N,\N,\N,\N,\N,\N,23,1954,duncan,\N,\N,Len,Duncan,25/07/1911,American,http://en.wikipedia.org/wiki/Len_Duncan,Schroeder,1911,43
+19439,809,679,129,12,20,8,8,8,0,200,+10:04.55,14586240,\N,\N,\N,\N,1,1953,mccoy,\N,\N,Ernie,McCoy,19/02/1921,American,http://en.wikipedia.org/wiki/Ernie_McCoy,Stevens,1921,32
+19970,830,680,154,93,22,10,10,10,0,18,\N,\N,\N,\N,\N,\N,12,1951,swaters,\N,\N,Jacques,Swaters,30/10/1926,American,http://en.wikipedia.org/wiki/Jacques_Swaters,Talbot-Lago,1926,25
+19502,811,681,141,34,20,\N,R,19,0,3,\N,\N,\N,\N,\N,\N,5,1953,georges_berger,\N,\N,Georges,Berger,14/09/1918,Belgian,http://en.wikipedia.org/wiki/Georges_Berger,Simca,1918,35
+19311,803,682,125,25,17,11,11,11,0,84,\N,\N,\N,\N,\N,\N,16,1954,beauman,\N,\N,Don,Beauman,26/07/1928,British,http://en.wikipedia.org/wiki/Don_Beauman,Connaught,1928,26
+19314,803,683,125,26,23,14,14,14,0,78,\N,\N,\N,\N,\N,\N,55,1954,thorne,\N,\N,Leslie,Thorne,23/06/1916,British,http://en.wikipedia.org/wiki/Leslie_Thorne,Connaught,1916,38
+19317,803,684,125,22,19,\N,R,17,0,63,\N,\N,\N,\N,\N,\N,69,1954,whitehouse,\N,\N,Bill,Whitehouse,01/04/1909,British,http://en.wikipedia.org/wiki/Bill_Whitehouse,Connaught,1909,45
+19322,803,685,125,24,21,\N,R,22,0,40,\N,\N,\N,\N,\N,\N,3,1954,riseley_prichard,\N,\N,John,Riseley-Prichard,17/01/1924,British,http://en.wikipedia.org/wiki/John_Riseley-Prichard,Connaught,1924,30
+20027,833,686,51,4,4,3,3,3,4,70,52,8055600,\N,\N,\N,\N,1,1950,reg_parnell,\N,\N,Reg,Parnell,02/07/1911,British,http://en.wikipedia.org/wiki/Reg_Parnell,Alfa Romeo,1911,39
+20065,834,687,6,28,21,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,5,1950,whitehead,\N,\N,Peter,Whitehead,12/11/1914,British,http://en.wikipedia.org/wiki/Peter_Whitehead_(racing_driver),Ferrari,1914,36
+19647,817,688,87,24,17,8,8,8,0,55,\N,\N,\N,\N,\N,\N,17,1952,brandon,\N,\N,Eric,Brandon,18/07/1920,British,http://en.wikipedia.org/wiki/Eric_Brandon,Cooper,1920,32
+19644,817,689,87,26,15,5,5,5,2,59,\N,\N,\N,\N,\N,\N,13,1952,alan_brown,\N,\N,Alan,Brown,20/11/1919,British,http://en.wikipedia.org/wiki/Alan_Brown_(racing_driver),Cooper,1919,33
+19566,814,690,87,40,20,11,11,11,0,16,\N,\N,\N,\N,\N,\N,12,1953,nuckey,\N,\N,Rodney,Nuckey,26/06/1929,British,http://en.wikipedia.org/wiki/Rodney_Nuckey,Cooper,1929,24
+19594,815,691,105,34,11,5,5,5,2,62,\N,\N,\N,\N,\N,\N,13,1953,lang,\N,\N,Hermann,Lang,06/04/1909,German,http://en.wikipedia.org/wiki/Hermann_Lang,Maserati,1909,44
+19794,822,692,144,122,18,\N,R,27,0,1,\N,\N,\N,\N,\N,\N,31,1952,helfrich,\N,\N,Theo,Helfrich,13/05/1913,German,http://en.wikipedia.org/wiki/Theo_Helfrich,Veritas,1913,39
+19492,811,693,128,38,15,9,9,9,0,32,\N,\N,\N,\N,\N,\N,14,1953,wacker,\N,\N,Fred,Wacker,10/07/1918,American,http://en.wikipedia.org/wiki/Fred_Wacker,Gordini,1918,35
+19393,806,694,105,20,21,\N,F,21,0,0,\N,\N,\N,\N,\N,\N,81,1954,riu,\N,\N,Giovanni,de Riu,10/03/1925,Italian,http://en.wikipedia.org/wiki/Giovanni_de_Riu,Maserati,1925,29
+19420,808,695,105,8,9,5,5,5,2,96,\N,\N,\N,\N,\N,\N,11,1953,galvez,\N,\N,Oscar,Gálvez,17/08/1913,Argentine,http://en.wikipedia.org/wiki/%C3%93scar_Alfredo_G%C3%A1lvez,Maserati,1913,40
+19423,808,696,87,22,16,8,8,8,0,90,\N,\N,\N,\N,\N,\N,17,1953,john_barber,\N,\N,John,Barber,22/07/1929,British,http://en.wikipedia.org/wiki/John_Barber_(racing_driver),Cooper,1929,24
+20104,836,697,105,34,12,5,5,5,2,40,\N,\N,\N,\N,\N,\N,12,1950,bonetto,\N,\N,Felice,Bonetto,09/06/1903,Italian,http://en.wikipedia.org/wiki/Felice_Bonetto,Maserati,1903,47
+19431,808,698,87,24,13,\N,R,16,0,20,\N,\N,\N,\N,\N,\N,36,1953,cruz,\N,\N,Adolfo,Cruz,28/06/1923,Argentine,http://en.wikipedia.org/wiki/Adolfo_Schewelm_Cruz,Cooper,1923,30
+19881,826,699,113,18,1,\N,R,10,0,151,\N,\N,\N,\N,\N,\N,31,1951,nalon,\N,\N,Duke,Nalon,02/03/1913,American,http://en.wikipedia.org/wiki/Duke_Nalon,Kurtis Kraft,1913,38
+19889,826,700,113,73,15,\N,R,18,0,93,\N,\N,\N,\N,\N,\N,42,1951,scarborough,\N,\N,Carl,Scarborough,03/07/1914,American,http://en.wikipedia.org/wiki/Carl_Scarborough,Kurtis Kraft,1914,37
+20068,835,701,150,3,10,2,2,2,6,137,\N,\N,\N,\N,\N,\N,11,1950,holland,\N,\N,Bill,Holland,18/12/1907,American,http://en.wikipedia.org/wiki/Bill_Holland,Deidt,1907,43
+19689,818,702,113,93,25,\N,R,29,0,49,\N,\N,\N,\N,\N,\N,7,1952,bob_scott,\N,\N,Bob,Scott,04/10/1928,American,http://en.wikipedia.org/wiki/Bob_Scott_(auto_racer),Kurtis Kraft,1928,24
+19706,819,703,144,38,21,13,13,13,0,31,\N,\N,\N,\N,\N,\N,15,1952,legat,\N,\N,Arthur,Legat,01/11/1898,Belgian,http://en.wikipedia.org/wiki/Arthur_Legat,Veritas,1898,54
+20028,833,704,154,14,6,4,4,4,3,68,\N,\N,\N,\N,\N,\N,12,1950,cabantous,\N,\N,Yves,Cabantous,08/10/1904,French,http://en.wikipedia.org/wiki/Yves_Giraud_Cabantous,Talbot-Lago,1904,46
+19756,821,705,148,23,25,21,21,21,0,75,\N,\N,\N,\N,\N,\N,88,1952,crook,\N,\N,Tony,Crook,16/02/1920,British,http://en.wikipedia.org/wiki/Tony_Crook,Frazer Nash,1920,32
+19539,813,706,87,18,15,\N,R,11,0,79,\N,\N,\N,\N,\N,\N,20,1953,jimmy_stewart,\N,\N,Jimmy,Stewart,06/03/1931,British,http://en.wikipedia.org/wiki/Jimmy_Stewart_(racing_driver),Cooper,1931,22
+19550,813,707,125,15,20,\N,R,22,0,24,\N,\N,\N,\N,\N,\N,80,1953,ian_stewart,\N,\N,Ian,Stewart,15/07/1929,British,http://en.wikipedia.org/wiki/Ian_Stewart_(racing_driver),Connaught,1929,24
+19952,829,708,154,18,11,12,12,12,0,81,\N,\N,\N,\N,\N,\N,19,1951,duncan_hamilton,\N,\N,Duncan,Hamilton,30/04/1920,British,http://en.wikipedia.org/wiki/Duncan_Hamilton_(racing_driver),Talbot-Lago,1920,31
+19779,822,709,145,135,29,12,12,12,0,14,\N,\N,\N,\N,\N,\N,14,1952,klodwig,\N,\N,Ernst,Klodwig,23/05/1903,East German,http://en.wikipedia.org/wiki/Ernst_Klodwig,BMW,1903,49
+19787,822,710,145,136,23,\N,R,20,0,3,\N,\N,\N,\N,\N,\N,31,1952,krause,\N,\N,Rudolf,Krause,30/03/1907,East German,http://en.wikipedia.org/wiki/Rudolf_Krause,BMW,1907,45
+19577,814,711,144,26,34,\N,R,22,0,10,\N,\N,\N,\N,\N,\N,31,1953,karch,\N,\N,Oswald,Karch,06/03/1917,German,http://en.wikipedia.org/wiki/Oswald_Karch,Veritas,1917,36
+19781,822,712,147,123,9,\N,R,14,0,7,\N,\N,\N,\N,\N,\N,31,1952,heeks,\N,\N,Willi,Heeks,13/02/1922,German,http://en.wikipedia.org/wiki/Willi_Heeks,AFM,1922,30
+19582,814,713,147,28,21,\N,R,27,0,3,\N,\N,\N,\N,\N,\N,31,1953,fitzau,\N,\N,Theo,Fitzau,10/02/1923,East German,http://en.wikipedia.org/wiki/Theo_Fitzau,AFM,1923,30
+19583,814,714,6,34,27,\N,R,28,0,3,\N,\N,\N,\N,\N,\N,31,1953,adolff,\N,\N,Kurt,Adolff,05/11/1921,German,http://en.wikipedia.org/wiki/Kurt_Adolff,Ferrari,1921,32
+19785,822,715,145,130,30,\N,R,18,0,5,\N,\N,\N,\N,\N,\N,80,1952,bechem,\N,\N,Günther,Bechem,21/12/1921,German,http://en.wikipedia.org/wiki/G%C3%BCnther_Bechem,BMW,1921,31
+19587,814,716,144,32,33,\N,R,32,0,1,\N,\N,\N,\N,\N,\N,31,1953,bauer,\N,\N,Erwin,Bauer,17/07/1912,German,http://en.wikipedia.org/wiki/Erwin_Bauer,Veritas,1912,41
+19657,817,717,147,2,14,\N,R,18,0,4,\N,\N,\N,\N,\N,\N,5,1952,hans_stuck,\N,\N,Hans,von Stuck,27/12/1900,German,http://en.wikipedia.org/wiki/Hans_Von_Stuck,AFM,1900,52
+19589,814,718,144,30,31,\N,R,34,0,0,\N,\N,\N,\N,\N,\N,48,1953,loof,\N,\N,Ernst,Loof,04/07/1907,German,http://en.wikipedia.org/wiki/Ernst_Loof,Veritas,1907,46
+19598,815,719,133,18,18,9,9,9,0,49,\N,\N,\N,\N,\N,\N,116,1953,scherrer,\N,\N,Albert,Scherrer,28/02/1908,Swiss,http://en.wikipedia.org/wiki/Albert_Scherrer,HWM,1908,45
+19660,817,720,141,50,21,\N,R,21,0,1,\N,\N,\N,\N,\N,\N,121,1952,terra,\N,\N,Max,de Terra,06/10/1918,Swiss,http://en.wikipedia.org/wiki/Max_de_Terra,Simca,1918,34
+19871,825,721,144,52,16,\N,R,21,0,0,\N,\N,\N,\N,\N,\N,69,1951,hirt,\N,\N,Peter,Hirt,30/03/1910,Swiss,http://en.wikipedia.org/wiki/Peter_Hirt,Veritas,1910,41
+19735,820,722,6,40,19,\N,R,20,0,2,\N,\N,\N,\N,\N,\N,5,1952,carini,\N,\N,Piero,Carini,06/03/1921,Italian,http://en.wikipedia.org/wiki/Piero_Carini,Ferrari,1921,31
+19861,825,723,6,38,10,11,11,11,0,39,\N,\N,\N,\N,\N,\N,13,1951,fischer,\N,\N,Rudi,Fischer,19/04/1912,Swiss,http://en.wikipedia.org/wiki/Rudi_Fischer,Ferrari,1912,39
+19658,817,724,144,4,16,\N,R,19,0,4,\N,\N,\N,\N,\N,\N,95,1952,ulmen,\N,\N,Toni,Ulmen,25/01/1906,German,http://en.wikipedia.org/wiki/Toni_Ulmen,Veritas,1906,46
+19867,825,725,133,12,20,\N,R,17,0,23,\N,\N,\N,\N,\N,\N,121,1951,abecassis,\N,\N,George,Abecassis,21/03/1913,British,http://en.wikipedia.org/wiki/George_Abecassis,HWM,1913,38
+20074,835,726,110,5,4,8,8,8,0,135,\N,\N,\N,\N,\N,\N,13,1950,george_connor,\N,\N,George,Connor,16/08/1906,American,http://en.wikipedia.org/wiki/George_Connor_(driver),Lesovsky,1906,44
+19672,818,727,107,29,26,12,12,12,0,200,+16:05.10,14926980,\N,\N,\N,\N,1,1952,rigsby,\N,\N,Jim,Rigsby,06/06/1923,American,http://en.wikipedia.org/wiki/Jim_Rigsby,Watson,1923,29
+19904,826,728,107,26,30,\N,R,33,0,8,\N,\N,\N,\N,\N,\N,7,1951,james,\N,\N,Joe,James,23/05/1925,American,http://en.wikipedia.org/wiki/Joe_James_(racing_driver),Watson,1925,26
+20092,835,729,162,67,22,\N,R,26,0,111,\N,\N,\N,\N,\N,\N,7,1950,schindler,\N,\N,Bill,Schindler,06/03/1909,American,http://en.wikipedia.org/wiki/Bill_Schindler,Snowberger,1909,41
+19675,818,730,149,65,13,15,15,15,0,197,\N,\N,\N,\N,\N,\N,13,1952,fonder,\N,\N,George,Fonder,22/06/1917,American,http://en.wikipedia.org/wiki/George_Fonder,Sherman,1917,35
+20091,835,731,105,12,21,\N,R,25,0,112,\N,\N,\N,\N,\N,\N,70,1950,banks,\N,\N,Henry,Banks,14/06/1913,American,http://en.wikipedia.org/wiki/Henry_Banks,Maserati,1913,37
+20084,835,732,113,62,33,18,18,18,0,128,\N,\N,\N,\N,\N,\N,88,1950,mcdowell,\N,\N,Johnny,McDowell,29/01/1915,American,http://en.wikipedia.org/wiki/Johnny_McDowell,Kurtis Kraft,1915,35
+19896,826,733,113,32,28,\N,R,25,0,56,\N,\N,\N,\N,\N,\N,80,1951,miller,\N,\N,Chet,Miller,19/07/1902,American,http://en.wikipedia.org/wiki/Chet_Miller,Kurtis Kraft,1902,49
+19876,826,734,134,52,29,5,5,5,2,200,+4:52.23,14550280,\N,\N,\N,\N,1,1951,ball,\N,\N,Bobby,Ball,26/08/1925,American,http://en.wikipedia.org/wiki/Bobby_Ball_(auto_racer),Schroeder,1925,26
+19700,819,735,6,34,13,7,7,7,0,33,\N,\N,\N,\N,\N,\N,13,1952,tornaco,\N,\N,Charles,de Tornaco,07/06/1927,Belgian,http://en.wikipedia.org/wiki/Charles_de_Tornaco,Ferrari,1927,25
+19705,819,736,133,30,20,12,12,12,0,32,\N,\N,\N,\N,\N,\N,14,1952,laurent,\N,\N,Roger,Laurent,21/02/1913,Belgian,http://en.wikipedia.org/wiki/Roger_Laurent,HWM,1913,39
+19707,819,737,141,44,22,14,14,14,0,30,\N,\N,\N,\N,\N,\N,16,1952,obrien,\N,\N,Robert,O'Brien,11/04/1908,American,http://en.wikipedia.org/wiki/Robert_O%27Brien_(auto_racer),Simca,1908,44
+19708,819,738,133,42,16,15,15,15,0,30,\N,\N,\N,\N,\N,\N,16,1952,gaze,\N,\N,Tony,Gaze,03/02/1920,Australian,http://en.wikipedia.org/wiki/Tony_Gaze,HWM,1920,32
+19709,819,739,152,40,15,\N,R,16,0,17,\N,\N,\N,\N,\N,\N,5,1952,charrington,\N,\N,Robin,Montgomerie-Charrington,23/06/1915,British,http://en.wikipedia.org/wiki/Robin_Montgomerie-Charrington,Aston Butterworth,1915,37
+20169,839,740,105,62,26,\N,R,20,0,15,\N,\N,\N,\N,\N,\N,31,1950,comotti,\N,\N,Franco,Comotti,24/07/1906,Italian,http://en.wikipedia.org/wiki/Franco_Comotti,Maserati,1906,44
+20032,833,741,154,16,14,8,8,8,0,65,\N,\N,\N,\N,\N,\N,15,1950,etancelin,\N,\N,Philippe,Étancelin,28/12/1896,French,http://en.wikipedia.org/wiki/Philippe_%C3%89tancelin,Talbot-Lago,1896,54
+19739,821,742,125,6,8,4,4,4,3,83,\N,\N,\N,\N,\N,\N,12,1952,poore,\N,\N,Dennis,Poore,19/08/1916,British,http://en.wikipedia.org/wiki/Dennis_Poore,Connaught,1916,36
+19740,821,743,125,5,9,5,5,5,2,82,\N,\N,\N,\N,\N,\N,13,1952,thompson,\N,\N,Eric,Thompson,04/11/1919,British,http://en.wikipedia.org/wiki/Eric_Thompson_(racing_driver),Connaught,1919,33
+19744,821,744,125,4,5,9,9,9,0,82,\N,\N,\N,\N,\N,\N,13,1952,downing,\N,\N,Ken,Downing,05/12/1917,British,http://en.wikipedia.org/wiki/Ken_Downing,Connaught,1917,35
+19747,821,745,126,1,12,12,12,12,0,80,\N,\N,\N,\N,\N,\N,15,1952,graham_whitehead,\N,\N,Graham,Whitehead,15/04/1922,British,http://en.wikipedia.org/wiki/Graham_Whitehead,Alta,1922,30
+19753,821,746,105,34,28,18,18,18,0,77,\N,\N,\N,\N,\N,\N,18,1952,bianco,\N,\N,Gino,Bianco,22/07/1916,Brazilian,http://en.wikipedia.org/wiki/Gino_Bianco,Maserati,1916,36
+20039,833,747,105,5,18,\N,R,15,0,44,\N,\N,\N,\N,\N,\N,5,1950,murray,\N,\N,David,Murray,28/12/1909,British,http://en.wikipedia.org/wiki/David_Murray_(driver),Maserati,1909,41
+19766,821,748,105,35,27,\N,R,31,0,0,\N,\N,\N,\N,\N,\N,23,1952,cantoni,\N,\N,Eitel,Cantoni,04/10/1906,Uruguayan,http://en.wikipedia.org/wiki/Eitel_Cantoni,Maserati,1906,46
+19767,821,749,152,2,0,\N,W,32,0,0,\N,\N,\N,\N,\N,\N,54,1952,aston,\N,\N,Bill,Aston,29/03/1900,British,http://en.wikipedia.org/wiki/Bill_Aston,Aston Butterworth,1900,52
+19783,822,750,144,126,19,\N,R,16,0,5,\N,\N,\N,\N,\N,\N,5,1952,brudes,\N,\N,Adolf,Brudes,15/10/1899,German,http://en.wikipedia.org/wiki/Adolf_Brudes,Veritas,1899,53
+19774,822,751,144,121,12,7,7,7,0,16,\N,\N,\N,\N,\N,\N,12,1952,riess,\N,\N,Fritz,Riess,11/07/1922,German,http://en.wikipedia.org/wiki/Fritz_Riess,Veritas,1922,30
+19776,822,752,147,124,22,9,9,9,0,15,\N,\N,\N,\N,\N,\N,13,1952,niedermayr,\N,\N,Helmut,Niedermayr,29/11/1915,German,http://en.wikipedia.org/wiki/Helmut_Niedermayr,AFM,1915,37
+19778,822,753,144,128,8,11,11,11,0,14,\N,\N,\N,\N,\N,\N,14,1952,klenk,\N,\N,Hans,Klenk,28/10/1919,German,http://en.wikipedia.org/wiki/Hans_Klenk,Veritas,1919,33
+19784,822,754,145,110,25,\N,R,17,0,5,\N,\N,\N,\N,\N,\N,31,1952,balsa,\N,\N,Marcel,Balsa,01/01/1909,French,http://en.wikipedia.org/wiki/Marcel_Balsa,BMW,1909,43
+19788,822,755,6,118,24,\N,R,21,0,3,\N,\N,\N,\N,\N,\N,22,1952,schoeller,\N,\N,Rudolf,Schoeller,27/04/1902,Swiss,http://en.wikipedia.org/wiki/Rudolf_Schoeller,Ferrari,1902,50
+20175,839,756,105,28,27,\N,R,26,0,0,\N,\N,\N,\N,\N,\N,5,1950,pietsch,\N,\N,Paul,Pietsch,20/06/1911,German,http://en.wikipedia.org/wiki/Paul_Pietsch,Maserati,1911,39
+19795,822,757,144,129,20,\N,R,28,0,1,\N,\N,\N,\N,\N,\N,31,1952,peters,\N,\N,Josef,Peters,16/09/1914,German,http://en.wikipedia.org/wiki/Josef_Peters_(driver),Veritas,1914,38
+19809,823,758,133,30,14,\N,N,12,0,70,\N,\N,\N,\N,\N,\N,62,1952,lof,\N,\N,Dries,van der Lof,23/08/1919,Dutch,http://en.wikipedia.org/wiki/Dries_van_der_Lof,HWM,1919,33
+20193,823,759,105,16,16,9,9,9,0,83,\N,\N,\N,\N,\N,\N,17,1952,flinterman,\N,\N,Jan,Flinterman,02/10/1919,Dutch,http://en.wikipedia.org/wiki/Jan_Flinterman,Maserati,1919,33
+19849,824,760,153,44,0,\N,F,34,0,0,\N,\N,\N,\N,\N,\N,81,1952,dusio,\N,\N,Piero,Dusio,13/10/1899,Italian,http://en.wikipedia.org/wiki/Piero_Dusio,Cisitalia,1899,53
+19841,824,761,105,58,0,\N,F,26,0,0,\N,\N,\N,\N,\N,\N,81,1952,crespo,\N,\N,Alberto,Crespo,16/01/1920,Argentine,http://en.wikipedia.org/wiki/Alberto_Crespo,Maserati,1920,32
+20063,834,762,105,44,17,\N,R,18,0,0,\N,\N,\N,\N,\N,\N,3,1950,rol,\N,\N,Franco,Rol,05/06/1908,Italian,http://en.wikipedia.org/wiki/Franco_Rol,Maserati,1908,42
+20172,839,763,51,46,4,\N,R,23,0,11,\N,\N,\N,\N,\N,\N,5,1950,sanesi,\N,\N,Consalvo,Sanesi,28/03/1911,Italian,http://en.wikipedia.org/wiki/Consalvo_Sanesi,Alfa Romeo,1911,39
+20160,839,764,154,40,11,\N,R,11,0,42,\N,\N,\N,\N,\N,\N,108,1950,guy_mairesse,\N,\N,Guy,Mairesse,10/08/1910,French,http://en.wikipedia.org/wiki/Guy_Mairesse,Talbot-Lago,1910,40
+20168,839,765,154,64,16,\N,R,19,0,16,\N,\N,\N,\N,\N,\N,23,1950,louveau,\N,\N,Henri,Louveau,25/01/1910,French,http://en.wikipedia.org/wiki/Henri_Louveau,Talbot-Lago,1910,40
+20072,835,766,119,8,23,6,6,6,0,136,\N,\N,\N,\N,\N,\N,12,1950,wallard,\N,\N,Lee,Wallard,07/09/1910,American,http://en.wikipedia.org/wiki/Lee_Wallard,Moore,1910,40
+19878,826,767,113,68,24,7,7,7,0,193,\N,\N,\N,\N,\N,\N,17,1951,forberg,\N,\N,Carl,Forberg,04/03/1911,American,http://en.wikipedia.org/wiki/Carl_Forberg,Kurtis Kraft,1911,40
+20069,835,768,150,31,3,3,3,3,4,137,\N,\N,\N,\N,\N,\N,11,1950,rose,\N,\N,Mauri,Rose,26/05/1906,American,http://en.wikipedia.org/wiki/Mauri_Rose,Deidt,1906,44
+19890,826,769,155,71,33,\N,R,19,0,97,\N,\N,\N,\N,\N,\N,8,1951,mackey,\N,\N,Bill,Mackey,15/12/1927,American,http://en.wikipedia.org/wiki/Bill_Mackey,Hall,1927,24
+20070,835,770,113,54,12,4,4,4,3,137,\N,\N,\N,\N,\N,\N,11,1950,green,\N,\N,Cecil,Green,30/09/1919,American,http://en.wikipedia.org/wiki/Cecil_Green,Kurtis Kraft,1919,31
+20085,835,771,113,4,20,19,19,19,0,127,\N,\N,\N,\N,\N,\N,45,1950,walt_brown,\N,\N,Walt,Brown,30/12/1911,American,http://en.wikipedia.org/wiki/Walt_Brown_(auto_racer),Kurtis Kraft,1911,39
+20079,835,772,113,15,26,13,13,13,0,132,\N,\N,\N,\N,\N,\N,16,1950,hellings,\N,\N,Mack,Hellings,14/09/1915,American,http://en.wikipedia.org/wiki/Mack_Hellings,Kurtis Kraft,1915,35
+20124,837,773,154,22,10,7,7,7,0,33,\N,\N,\N,\N,\N,\N,12,1950,levegh,\N,\N,Pierre,Levegh,22/12/1905,French,http://en.wikipedia.org/wiki/Pierre_Levegh,Talbot-Lago,1905,45
+20128,837,774,154,20,13,\N,R,11,0,22,\N,\N,\N,\N,\N,\N,108,1950,chaboud,\N,\N,Eugène,Chaboud,12/04/1907,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Chaboud,Talbot-Lago,1907,43
+19932,828,775,141,36,17,\N,R,15,0,27,\N,\N,\N,\N,\N,\N,5,1951,gordini,\N,\N,Aldo,Gordini,20/05/1921,French,http://en.wikipedia.org/wiki/Aldo_Gordini,Simca,1921,30
+20037,833,776,126,23,19,\N,N,13,0,57,\N,\N,\N,\N,\N,\N,62,1950,kelly,\N,\N,Joe,Kelly,13/03/1913,Irish,http://en.wikipedia.org/wiki/Joe_Kelly_(Formula_One),Alta,1913,37
+19957,829,777,105,17,16,\N,R,17,0,46,\N,\N,\N,\N,\N,\N,44,1951,parker,\N,\N,Philip,Fotheringham-Parker,22/09/1907,British,http://en.wikipedia.org/wiki/Philip_Fotheringham-Parker,Maserati,1907,44
+20034,833,778,105,10,20,10,10,10,0,64,\N,\N,\N,\N,\N,\N,16,1950,shawe_taylor,\N,\N,Brian,Shawe Taylor,28/01/1915,British,http://en.wikipedia.org/wiki/Brian_Shawe_Taylor,Maserati,1915,35
+19960,829,779,105,16,17,\N,R,20,0,23,\N,\N,\N,\N,\N,\N,21,1951,john_james,\N,\N,John,James,10/05/1914,British,http://en.wikipedia.org/wiki/John_James_(auto_racer),Maserati,1914,37
+20110,836,780,105,40,17,11,11,11,0,35,\N,\N,\N,\N,\N,\N,17,1950,branca,\N,\N,Toni,Branca,15/09/1916,Swiss,http://en.wikipedia.org/wiki/Toni_Branca,Maserati,1916,34
+20004,831,781,66,32,10,\N,W,22,0,0,\N,\N,\N,\N,\N,\N,54,1951,richardson,\N,\N,Ken,Richardson,21/08/1911,British,http://en.wikipedia.org/wiki/Ken_Richardson_(race_car_driver),BRM,1911,40
+20024,832,782,105,46,18,\N,W,20,0,0,\N,\N,\N,\N,\N,\N,5,1951,jover,\N,\N,Juan,Jover,23/11/1903,Spanish,http://en.wikipedia.org/wiki/Juan_Jover,Maserati,1903,48
+20020,832,783,154,38,16,\N,R,16,0,23,\N,\N,\N,\N,\N,\N,5,1951,grignard,\N,\N,Georges,Grignard,25/07/1905,French,http://en.wikipedia.org/wiki/Georges_Grignard,Talbot-Lago,1905,46
+20033,833,784,105,6,16,9,9,9,0,64,\N,\N,\N,\N,\N,\N,16,1950,hampshire,\N,\N,David,Hampshire,29/12/1917,British,http://en.wikipedia.org/wiki/David_Hampshire,Maserati,1917,33
+20040,833,785,126,24,17,\N,R,16,0,43,\N,\N,\N,\N,\N,\N,7,1950,crossley,\N,\N,Geoff,Crossley,11/05/1921,British,http://en.wikipedia.org/wiki/Geoff_Crossley,Alta,1921,29
+20026,833,786,51,3,2,2,2,2,6,70,2.6,8006200,\N,\N,\N,\N,1,1950,fagioli,\N,\N,Luigi,Fagioli,09/06/1898,Italian,http://en.wikipedia.org/wiki/Luigi_Fagioli,Alfa Romeo,1898,52
+20031,833,787,151,11,15,7,7,7,0,67,\N,\N,\N,\N,\N,\N,13,1950,harrison,\N,\N,Cuth,Harrison,06/07/1906,British,http://en.wikipedia.org/wiki/Cuth_Harrison,ERA,1906,44
+20177,833,788,105,10,20,10,10,10,0,64,\N,\N,\N,\N,\N,\N,16,1950,fry,\N,\N,Joe,Fry,26/10/1915,British,http://en.wikipedia.org/wiki/Joe_Fry,Maserati,1915,35
+20043,833,789,154,17,7,\N,R,19,0,8,\N,\N,\N,\N,\N,\N,51,1950,martin,\N,\N,Eugène,Martin,24/03/1915,French,http://en.wikipedia.org/wiki/Eug%C3%A8ne_Martin,Talbot-Lago,1915,35
+20045,833,790,151,8,12,\N,R,21,0,2,\N,\N,\N,\N,\N,\N,126,1950,leslie_johnson,\N,\N,Leslie,Johnson,22/03/1912,British,http://en.wikipedia.org/wiki/Leslie_Johnson_(racing_driver),ERA,1912,38
+20167,839,791,6,22,25,\N,R,18,0,17,\N,\N,\N,\N,\N,\N,5,1950,biondetti,\N,\N,Clemente,Biondetti,18/08/1898,Italian,http://en.wikipedia.org/wiki/Clemente_Biondetti,Ferrari,1898,52
+20066,834,792,105,4,18,\N,W,21,0,0,\N,\N,\N,\N,\N,\N,3,1950,pian,\N,\N,Alfredo,Pián,21/10/1912,Argentine,http://en.wikipedia.org/wiki/Alfredo_Pi%C3%A0n,Maserati,1912,38
+20049,834,793,6,42,9,4,4,4,3,97,\N,\N,\N,\N,\N,\N,13,1950,sommer,\N,\N,Raymond,Sommer,31/08/1906,French,http://en.wikipedia.org/wiki/Raymond_Sommer,Ferrari,1906,44
+20071,835,794,113,17,9,5,5,5,1,136,\N,\N,\N,\N,\N,\N,12,1950,chitwood,\N,\N,Joie,Chitwood,14/04/1912,American,http://en.wikipedia.org/wiki/Joie_Chitwood,Kurtis Kraft,1912,38
+20077,835,795,156,2,16,11,11,11,0,133,\N,\N,\N,\N,\N,\N,15,1950,fohr,\N,\N,Myron,Fohr,17/06/1912,American,http://en.wikipedia.org/wiki/Myron_Fohr,Marchese,1912,38
+20088,835,796,158,27,29,22,22,22,0,123,\N,\N,\N,\N,\N,\N,112,1950,ader,\N,\N,Walt,Ader,15/12/1913,American,http://en.wikipedia.org/wiki/Walt_Ader,Rae,1913,37
+20089,835,797,159,77,30,23,23,23,0,123,\N,\N,\N,\N,\N,\N,20,1950,holmes,\N,\N,Jackie,Holmes,04/09/1920,American,http://en.wikipedia.org/wiki/Jackie_Holmes,Olson,1920,30
+20093,835,798,161,24,17,\N,R,27,0,108,\N,\N,\N,\N,\N,\N,51,1950,levrett,\N,\N,Bayliss,Levrett,14/02/1914,American,http://en.wikipedia.org/wiki/Bayliss_Levrett,Adams,1914,36
+20095,835,799,113,61,32,\N,R,29,0,52,\N,\N,\N,\N,\N,\N,126,1950,jackson,\N,\N,Jimmy,Jackson,25/07/1910,American,http://en.wikipedia.org/wiki/Jimmy_Jackson_(driver),Kurtis Kraft,1910,40
+20106,836,800,105,2,15,7,7,7,0,39,\N,\N,\N,\N,\N,\N,13,1950,pagani,\N,\N,Nello,Pagani,11/10/1911,Italian,http://en.wikipedia.org/wiki/Nello_Pagani,Maserati,1911,39
+20137,838,801,154,26,15,6,6,6,0,56,\N,\N,\N,\N,\N,\N,18,1950,pozzi,\N,\N,Charles,Pozzi,27/08/1909,French,http://en.wikipedia.org/wiki/Charles_Pozzi,Talbot-Lago,1909,41
+20151,839,802,6,48,6,2,2,2,3,80,+1:18.6,10356000,\N,\N,\N,\N,1,1950,serafini,\N,\N,Dorino,Serafini,22/07/1909,Italian,http://en.wikipedia.org/wiki/Dorino_Serafini,Ferrari,1909,41
+20180,835,803,161,24,17,\N,R,27,0,108,\N,\N,\N,\N,\N,\N,51,1950,cantrell,\N,\N,Bill,Cantrell,31/01/1908,American,http://en.wikipedia.org/wiki/William_Cantrell,Adams,1908,42
+20204,809,804,113,23,14,17,17,17,0,176,\N,\N,\N,\N,\N,\N,117,1953,mantz,\N,\N,Johnny,Mantz,18/09/1918,American,http://en.wikipedia.org/wiki/Johnny_Mantz,Kurtis Kraft,1918,35
+20236,800,805,139,65,29,\N,R,30,0,104,\N,\N,\N,\N,\N,\N,48,1954,kladis,\N,\N,Danny,Kladis,10/02/1917,American,http://en.wikipedia.org/wiki/Danny_Kladis,Bromme,1917,37
+20269,784,806,105,16,13,6,6,6,0,88,\N,\N,\N,\N,\N,\N,88,1956,oscar_gonzalez,\N,\N,Óscar,González,10/11/1923,Uruguayan,http://en.wikipedia.org/wiki/Oscar_Gonz%C3%A1lez_(racing_driver),Maserati,1923,33
+20336,337,807,3,10,13,14,14,14,0,48,\N,\N,34,15,02:01.4,186.789,11,2010,hulkenberg,27,HUL,Nico,Hülkenberg,19/08/1987,German,http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg,Williams,1987,23
+20343,337,808,4,12,17,\N,R,21,0,13,\N,\N,7,19,02:04.3,182.422,22,2010,petrov,\N,PET,Vitaly,Petrov,08/09/1984,Russian,http://en.wikipedia.org/wiki/Vitaly_Petrov,Renault,1984,26
+20345,337,810,166,25,22,\N,R,23,0,2,\N,\N,2,23,02:09.4,175.295,9,2010,grassi,\N,DIG,Lucas,di Grassi,11/08/1984,Brazilian,http://en.wikipedia.org/wiki/Lucas_di_Grassi,Virgin,1984,26
+20341,337,811,164,21,23,\N,R,19,0,17,\N,\N,14,22,02:09.1,175.613,25,2010,bruno_senna,\N,SEN,Bruno,Senna,15/10/1983,Brazilian,http://en.wikipedia.org/wiki/Bruno_Senna,HRT,1983,27
+20346,337,812,164,20,24,\N,R,24,0,1,\N,\N,\N,\N,\N,\N,3,2010,chandhok,\N,CHA,Karun,Chandhok,19/01/1984,Indian,http://en.wikipedia.org/wiki/Karun_Chandhok,HRT,1984,26
+20798,841,813,3,12,15,\N,R,20,0,9,\N,\N,7,18,01:34.1,202.873,7,2011,maldonado,13,MAL,Pastor,Maldonado,09/03/1985,Venezuelan,http://en.wikipedia.org/wiki/Pastor_Maldonado,Williams,1985,26
+20788,841,814,10,15,14,10,10,10,1,57,\N,\N,40,14,01:31.9,207.641,11,2011,resta,\N,DIR,Paul,di Resta,16/04/1986,British,http://en.wikipedia.org/wiki/Paul_di_Resta,Force India,1986,25
+20800,841,815,15,17,13,\N,D,22,0,58,\N,\N,39,6,01:30.0,212.209,2,2011,perez,11,PER,Sergio,Pérez,26/01/1990,Mexican,http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez,Sauber,1990,21
+20792,841,816,166,25,22,14,14,14,0,54,\N,\N,44,19,01:34.5,201.969,14,2011,ambrosio,\N,DAM,Jérôme,d'Ambrosio,27/12/1985,Belgian,http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio,Virgin,1985,26
+20986,849,817,164,22,24,19,19,19,0,49,\N,\N,30,22,01:40.9,210.163,13,2011,ricciardo,3,RIC,Daniel,Ricciardo,01/07/1989,Australian,http://en.wikipedia.org/wiki/Daniel_Ricciardo,HRT,1989,22
+21242,860,818,5,17,11,11,11,11,0,58,39.848,5689413,52,6,01:30.3,211.476,1,2012,vergne,25,VER,Jean-Éric,Vergne,25/04/1990,French,http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne,Toro Rosso,1990,22
+21246,860,819,206,25,21,15,15,15,0,53,\N,\N,45,20,01:35.0,200.932,15,2012,pic,\N,PIC,Charles,Pic,15/02/1990,French,http://en.wikipedia.org/wiki/Charles_Pic,Marussia,1990,22
+21728,880,820,206,23,20,17,17,17,0,56,\N,\N,49,17,01:32.2,207.036,12,2013,chilton,4,CHI,Max,Chilton,21/04/1991,British,http://en.wikipedia.org/wiki/Max_Chilton,Marussia,1991,22
+21724,880,821,15,12,18,13,13,13,0,57,\N,\N,32,16,01:31.4,208.836,11,2013,gutierrez,21,GUT,Esteban,Gutiérrez,05/08/1991,Mexican,http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez,Sauber,1991,22
+21725,880,822,3,17,16,14,14,14,0,57,\N,\N,42,12,01:30.7,210.594,11,2013,bottas,77,BOT,Valtteri,Bottas,28/08/1989,Finnish,http://en.wikipedia.org/wiki/Valtteri_Bottas,Williams,1989,24
+21729,880,823,207,21,21,18,18,18,0,56,\N,\N,39,20,01:32.6,206.084,12,2013,garde,\N,VDG,Giedo,van der Garde,25/04/1985,Dutch,http://en.wikipedia.org/wiki/Giedo_van_der_Garde,Caterham,1985,28
+21726,880,824,206,22,19,15,15,15,0,57,\N,\N,52,11,01:30.5,211.055,11,2013,jules_bianchi,17,BIA,Jules,Bianchi,03/08/1989,French,http://en.wikipedia.org/wiki/Jules_Bianchi,Marussia,1989,24
+22131,900,825,1,20,4,2,2,2,18,57,26.777,5605487,49,6,01:33.1,205.131,1,2014,kevin_magnussen,20,MAG,Kevin,Magnussen,05/10/1992,Danish,http://en.wikipedia.org/wiki/Kevin_Magnussen,McLaren,1992,22
+22138,900,826,5,26,8,9,9,9,2,57,+1:03.585,5642295,35,11,01:33.9,203.387,1,2014,kvyat,26,KVY,Daniil,Kvyat,26/04/1994,Russian,http://en.wikipedia.org/wiki/Daniil_Kvyat,Toro Rosso,1994,20
+22394,911,827,207,45,21,\N,R,22,0,1,\N,\N,\N,0,\N,\N,131,2014,lotterer,45,LOT,André,Lotterer,19/11/1981,German,http://en.wikipedia.org/wiki/Andr%C3%A9_Lotterer,Caterham,1981,33
+22146,900,828,207,9,19,\N,R,17,0,27,\N,\N,17,18,01:37.3,196.141,51,2014,ericsson,9,ERI,Marcus,Ericsson,02/09/1990,Swedish,http://en.wikipedia.org/wiki/Marcus_Ericsson,Caterham,1990,24
+22534,918,829,207,46,17,17,17,17,0,54,\N,\N,47,18,01:48.4,184.453,11,2014,stevens,28,STE,Will,Stevens,28/06/1991,British,http://en.wikipedia.org/wiki/Will_Stevens,Caterham,1991,23
+22550,926,830,5,33,11,\N,R,13,0,32,\N,\N,30,13,01:34.3,202.458,5,2015,max_verstappen,33,VER,Max,Verstappen,30/09/1997,Dutch,http://en.wikipedia.org/wiki/Max_Verstappen,Toro Rosso,1997,18
+22542,926,831,15,12,10,5,5,5,10,58,+1:35.149,5609216,46,9,01:32.6,206.137,1,2015,nasr,12,NAS,Felipe,Nasr,21/08/1992,Brazilian,http://en.wikipedia.org/wiki/Felipe_Nasr,Sauber,1992,23
+22546,926,832,5,55,7,9,9,9,2,57,\N,\N,49,11,01:32.9,205.56,11,2015,sainz,55,SAI,Carlos,Sainz,01/09/1994,Spanish,http://en.wikipedia.org/wiki/Carlos_Sainz_Jr.,Toro Rosso,1994,21
+22570,927,833,209,98,19,15,15,15,0,53,\N,\N,44,19,01:49.0,183.004,13,2015,merhi,98,MER,Roberto,Merhi,22/03/1991,Spanish,http://en.wikipedia.org/wiki/Roberto_Merhi,Manor Marussia,1991,24
+22789,939,834,209,53,20,14,14,14,0,59,\N,\N,43,19,01:55.3,158.127,12,2015,rossi,53,RSS,Alexander,Rossi,25/09/1991,American,http://en.wikipedia.org/wiki/Alexander_Rossi_%28racing_driver%29,Manor Marussia,1991,24
+22927,948,835,4,30,13,11,11,11,0,57,+1:23.399,6578964,14,18,01:33.0,205.376,1,2016,jolyon_palmer,30,PAL,Jolyon,Palmer,20/01/1991,British,http://en.wikipedia.org/wiki/Jolyon_Palmer,Renault,1991,25
+22932,948,836,209,94,21,16,16,16,0,56,\N,\N,34,12,01:32.7,206.001,11,2016,wehrlein,94,WEH,Pascal,Wehrlein,18/10/1994,German,http://en.wikipedia.org/wiki/Pascal_Wehrlein,Manor Marussia,1994,22
+22935,948,837,209,88,22,\N,R,19,0,17,\N,\N,15,20,01:33.8,203.424,26,2016,haryanto,88,HAR,Rio,Haryanto,22/01/1993,Indonesian,http://en.wikipedia.org/wiki/Rio_Haryanto,Manor Marussia,1993,23
+22948,949,838,1,47,12,10,10,10,1,56,\N,\N,44,12,01:36.1,202.694,11,2016,vandoorne,2,VAN,Stoffel,Vandoorne,26/03/1992,Belgian,http://en.wikipedia.org/wiki/Stoffel_Vandoorne,McLaren,1992,24
+23196,960,839,209,31,17,16,16,16,0,43,\N,\N,26,16,01:55.7,217.865,11,2016,ocon,31,OCO,Esteban,Ocon,17/09/1996,French,http://en.wikipedia.org/wiki/Esteban_Ocon,Manor Marussia,1996,20
+23394,969,840,3,18,20,\N,R,16,0,40,\N,\N,38,14,01:29.4,213.569,23,2017,stroll,18,STR,Lance,Stroll,29/10/1998,Canadian,http://en.wikipedia.org/wiki/Lance_Stroll,Williams,1998,19
+23390,969,841,15,36,16,12,12,12,0,55,\N,\N,51,13,01:29.1,214.378,12,2017,giovinazzi,99,GIO,Antonio,Giovinazzi,14/12/1993,Italian,http://en.wikipedia.org/wiki/Antonio_Giovinazzi,Sauber,1993,24
+23675,983,842,5,10,15,14,14,14,0,55,\N,\N,45,16,01:37.2,205.359,11,2017,gasly,10,GAS,Pierre,Gasly,07/02/1996,French,http://en.wikipedia.org/wiki/Pierre_Gasly,Toro Rosso,1996,21
+23714,985,843,5,39,19,13,13,13,0,55,\N,\N,47,8,01:40.0,198.509,11,2017,brendon_hartley,28,HAR,Brendon,Hartley,10/11/1989,New Zealander,http://en.wikipedia.org/wiki/Brendon_Hartley,Toro Rosso,1989,28
+23794,989,844,15,16,18,13,13,13,0,58,+1:15.759,5449042,56,15,01:28.8,215.085,1,2018,leclerc,16,LEC,Charles,Leclerc,16/10/1997,Monegasque,http://en.wikipedia.org/wiki/Charles_Leclerc,Sauber,1997,21
+23801,989,845,3,35,19,\N,R,20,0,4,\N,\N,3,20,01:32.6,206.224,23,2018,sirotkin,35,SIR,Sergey,Sirotkin,27/08/1995,Russian,http://en.wikipedia.org/wiki/Sergey_Sirotkin_(racing_driver),Williams,1995,23
+24214,1010,846,1,4,8,12,12,12,0,57,\N,\N,17,16,01:28.6,215.581,11,2019,norris,4,NOR,Lando,Norris,13/11/1999,British,http://en.wikipedia.org/wiki/Lando_Norris,McLaren,1999,20
+24218,1010,847,3,63,19,16,16,16,0,56,\N,\N,55,17,01:28.7,215.197,12,2019,russell,63,RUS,George,Russell,15/02/1998,British,http://en.wikipedia.org/wiki/George_Russell_%28racing_driver%29,Williams,1998,21
+24216,1010,848,5,23,13,14,14,14,0,57,\N,\N,43,10,01:28.2,216.478,11,2019,albon,23,ALB,Alexander,Albon,23/03/1996,Thai,http://en.wikipedia.org/wiki/Alexander_Albon,Toro Rosso,1996,23
+24636,1031,849,3,6,20,11,11,11,0,71,31.65,5487389,63,16,01:09.7,223.146,1,2020,latifi,6,LAT,Nicholas,Latifi,29/06/1995,Canadian,http://en.wikipedia.org/wiki/Nicholas_Latifi,Williams,1995,25
+24942,1046,850,210,51,20,17,17,17,0,87,36.858,5511972,56,17,00:57.7,220.892,1,2020,pietro_fittipaldi,51,FIT,Pietro,Fittipaldi,25/06/1996,Brazilian,http://en.wikipedia.org/wiki/Pietro_Fittipaldi,Haas F1 Team,1996,24
+24941,1046,851,3,89,17,16,16,16,0,87,33.674,5508788,56,15,00:57.4,222.24,1,2020,aitken,89,AIT,Jack,Aitken,23/09/1995,British,http://en.wikipedia.org/wiki/Jack_Aitken,Williams,1995,25
+25358,1051,852,213,22,8,13,13,13,0,56,\N,\N,50,12,01:27.0,222.51,11,2021,tsunoda,22,TSU,Yuki,Tsunoda,11/05/2000,Japanese,http://en.wikipedia.org/wiki/Yuki_Tsunoda,AlphaTauri,2000,21
+25363,1051,853,210,9,20,18,18,18,0,55,\N,\N,55,16,01:27.3,221.754,12,2021,mazepin,9,MAZ,Nikita,Mazepin,02/03/1999,Russian,http://en.wikipedia.org/wiki/Nikita_Mazepin,Haas F1 Team,1999,22
+25361,1051,854,210,47,19,16,16,16,0,56,\N,\N,46,19,01:28.4,219.065,11,2021,mick_schumacher,47,MSC,Mick,Schumacher,22/03/1999,German,http://en.wikipedia.org/wiki/Mick_Schumacher,Haas F1 Team,1999,22
+25415,1074,855,51,24,15,10,10,10,1,57,23.064,5876648,39,9,01:36.7,201.512,1,2022,zhou,24,ZHO,Guanyu,Zhou,30/05/1999,Chinese,http://en.wikipedia.org/wiki/Guanyu_Zhou,Alfa Romeo,1999,23
