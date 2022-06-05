@@ -5,7 +5,7 @@ from dash import dcc, html, Input, Output
 from dash.dependencies import Input, Output
 
 # Ładujemy naszą csvke
-races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/results_modified_named_by_tymek_messy.csv")
+races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/results_modified_named_by_tymek_messy.csv")
 #races = races.sort_values(by="lap") # Sortujemy dla pewności
 
 

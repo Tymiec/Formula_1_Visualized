@@ -2,7 +2,7 @@ import matplotlib.animation as pan
 import matplotlib.pyplot as ppl
 import pandas as pd
 
-df = pd.read_csv(r'https://github.com/Tymiec/Formula_1_Visualized/blob/master/sources/lap_times.csv')
+df = pd.read_csv(r'https://github.com/Tymiec/Formula_1_Visualized/blob/master/sources/raw/lap_times.csv')
 
 df2 = df.loc[df['raceId'] == 1000]
 df2 = df2.reset_index()

@@ -6,7 +6,7 @@ from dash.dependencies import Input, Output
 
 # Ładujemy naszą csvke
 
-races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named.csv")
+races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/modified/lap_times_named.csv")
 races = races.sort_values(by="lap") # Sortujemy dla pewności
 
 

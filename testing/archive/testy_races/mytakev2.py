@@ -7,7 +7,7 @@ from dash import dcc, html, Input, Output
 from dash.dependencies import Input, Output
 
 # Ładujemy naszą csvke
-races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times.csv")
+races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/raw/lap_times.csv")
 races = races.sort_values(by="lap")
 
 # Tworzymy dashową apke

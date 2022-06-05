@@ -1,7 +1,7 @@
 #%%
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_tunes_named_3.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/lap_tunes_named_3.csv')
 
 #%%
 years = []

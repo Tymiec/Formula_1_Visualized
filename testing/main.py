@@ -6,10 +6,10 @@ from dash import dcc, html, Input, Output
 import plotly.graph_objects as go
 
 # Ładujemy naszą csvke
-races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named.csv")
+races = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/lap_times_named.csv")
 races = races.sort_values(by="lap") # Sortujemy dla pewności
 
-races2 = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/results_modified_named_by_tymek_messy.csv")
+races2 = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/results_modified_named_by_tymek_messy.csv")
 
 heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/heatmap_nationalities/nationalities_counted.csv")
 # fig = px.choropleth(df, locations="country_code",

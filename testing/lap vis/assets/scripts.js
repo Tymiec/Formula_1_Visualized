@@ -144,7 +144,7 @@ async function loadTrack() {
 }
 
 async function loadDrivers() {
-    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/lap_times_named_2.csv')
+    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/lap_times_named_2.csv')
         .then(response => response.text())
         .then(text => processCSV(text))
         .then(data => {
