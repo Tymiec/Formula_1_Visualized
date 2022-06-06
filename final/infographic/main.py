@@ -11,7 +11,8 @@ races = races.sort_values(by="lap") # Sortujemy dla pewności
 
 races2 = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/results_modified_named_by_tymek_messy.csv")
 
-heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/heatmap_nationalities/nationalities_counted.csv")
+heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/nationalities_with_country.csv")
+heatmap = heatmap.sort_values(by="Year")
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
@@ -102,6 +103,28 @@ def display_graph(selected_graph, selected_race, graph_type):
 
             return line_fig
         case 'Kierowcy świata': #FIXME: trzeba to dodać jako osobny case albo coś bo zostaje opis do wybranego wyścigu
+            fig = go.Figure(
+                data = px.choropleth(
+                    heatmap, 
+                    locations="Country",
+                    locationmode='country names',
+                    animation_frame="Year",
+                    color="Liczba_Kierowców",  # lifeExp is a column of gapminder
+                    hover_name="Country",  # column to add to hover information
+                    color_continuous_scale="Reds",
+                    # projection="orthographic",
+                    template='plotly_dark',
+                ), layout=go.Layout(
+                    geo=dict(bgcolor='rgba(0,0,0,0)'),
+                    title='Kierowcy Świata',
+                    font={"size": 9, "color": "White"},
+                    titlefont={"size": 15, "color": "White"},
+                    margin={"r": 0, "t": 40, "l": 0, "b": 0},
+                    paper_bgcolor='#4E5D6C',
+                    plot_bgcolor='#4E5D6C',
+                )
+            )
+            """
             filtered_races = races[races["raceId"] == selected_race]
             fig = go.Figure(
                 data=px.choropleth(
@@ -123,6 +146,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                                     plot_bgcolor='#4E5D6C',
                                     )
             )
+            """
 
             return fig
         case 'Rankingi':
