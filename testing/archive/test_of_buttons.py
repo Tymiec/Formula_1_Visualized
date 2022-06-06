@@ -47,7 +47,7 @@ def update_graph(selected_race,graph_type):
         markers=False, 
         height=900, 
         template='plotly_dark',
-        title=f"Lap times in race number: {selected_race}")
+        title=f"Czasy okrążeń w wyścigu numer: {selected_race}")
         return line_fig
     else:
         filtered_races = races[races["raceId"] == selected_race]
@@ -59,7 +59,7 @@ def update_graph(selected_race,graph_type):
         height=900,
         line_shape="linear", 
         template='plotly_dark',
-        title=f"Position change by lap in race: {selected_race}")
+        title=f"Zmiany pozycji na poszczególnych okrążeniach: {selected_race}")
         return line_fig
 
 # Run local server

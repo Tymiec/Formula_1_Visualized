@@ -40,7 +40,7 @@ def update_graph(selected_race):
     height=900,
     line_shape="spline", 
     template='plotly_dark',
-    title=f"Position change by lap in race: {selected_race}")
+    title=f"Zmiany pozycji na poszczególnych okrążeniach: {selected_race}")
     return line_fig
 # Run local server
 

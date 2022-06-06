@@ -41,7 +41,7 @@ def update_graph(selected_race):
     markers=False, 
     height=900, 
     template='plotly_dark',
-    title=f"Driver standings in {selected_race}")
+    title=f"Klasyfikacja kierowców w roku {selected_race}")
     return line_fig
 
 # Run local server

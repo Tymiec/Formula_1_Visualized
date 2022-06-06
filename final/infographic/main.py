@@ -90,7 +90,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                 labels={"DriverName2" : "Driver"},
                 markers=False, 
                 template='plotly_dark',
-                title=f"Lap times in race number: {selected_race}",
+                title=f"Czasy okrążeń w wyścigu numer: {selected_race}",
             )
 
             return line_fig
@@ -105,7 +105,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                 markers=True, 
                 line_shape="linear", 
                 template='plotly_dark',
-                title=f"Position change by lap in race: {selected_race}",
+                title=f"Zmiany pozycji na poszczególnych okrążeniach: {selected_race}",
             )
 
             return line_fig
@@ -173,7 +173,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                     labels={"surname" : "Driver","csum" : "Championship points"}, 
                     markers=False, 
                     template='plotly_dark',
-                    title=f"Driver standings in {selected_race}"
+                    title=f"Klasyfikacja kierowców w roku {selected_race}"
                 )
 
                 return line_fig
@@ -190,7 +190,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                     labels={"constructor" : "Constructor","csum" : "Championship points"}, 
                     markers=False, 
                     template='plotly_dark',
-                    title=f"Constructor standings in {selected_race}"
+                    title=f"Klasyfikacja konstruktorów w roku {selected_race}"
                 )
                 
                 return line_fig
