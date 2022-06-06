@@ -3,6 +3,7 @@ import pandas as pd
 
 df = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/nationalities_with_country.csv")
 df = df.sort_values(by="Year")
+print(df)
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
