@@ -20,6 +20,8 @@ winners = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visual
 
 finish = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/status_over_years.csv")
 finish = finish.loc[finish["Tabela9.Rok"]==2022]
+
+age = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/avgage.csv")
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
@@ -47,7 +49,7 @@ app.layout = html.Div(children=[
         ]),  #TODO: Dodać switch'a na przełączanie pomiędzy erami, latami
         html.Nav(children=
             dcc.RadioItems(
-                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Rankingi',  'Kierowcy świata', 'Narodowości', 'Zwycięzcy', 'Finisze'],
+                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Rankingi',  'Kierowcy świata', 'Narodowości',  'Średni wiek kierowców', 'Zwycięzcy', 'Finisze'],
                 'Czasy okrążeń',
                 id='graph_select'
             )
@@ -199,6 +201,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                 winners2 = winners['Name_and_surname'].value_counts()
                 fig = px.bar(
                     winners2,
+                    title='Ilość wygranych wyścigów przez poszczególnych kierowców',
                     template='plotly_dark',
                 )
                 return fig
@@ -206,10 +209,19 @@ def display_graph(selected_graph, selected_race, graph_type):
                 winners2 = winners['constructor'].value_counts()
                 fig = px.bar(
                     winners2,
+                    title='Ilość wygranych wyścigów przez poszczególnych konstruktorów',
                     template='plotly_dark',
                 )
                 return fig
-
+        case 'Średni wiek kierowców':
+            fig = px.line(
+                age, 
+                x="year", 
+                y="Age", 
+                line_shape="spline", 
+                render_mode="svg",
+                template='plotly_dark',
+            )
             return fig
 
 
