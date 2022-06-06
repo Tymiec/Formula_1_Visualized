@@ -12,7 +12,7 @@ df = df.sort_values(by="Year")
 fig = px.choropleth(df, locations="Country",
                     locationmode = 'country names',
                     animation_frame="Year",
-                    color="Liczba", # lifeExp is a column of gapminder
+                    color="Liczba_Kierowców", # lifeExp is a column of gapminder
                     hover_name="Country", # column to add to hover information
                     color_continuous_scale=px.colors.sequential.YlOrRd,
                     # projection="orthographic"
