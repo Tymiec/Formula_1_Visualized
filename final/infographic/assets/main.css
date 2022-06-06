@@ -124,6 +124,7 @@ main nav {
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
+    transition: 200ms;
 }
 
 main nav div {
@@ -184,4 +185,16 @@ section article div p {
 
 section article div img {
     width: 40%;
+}
+
+svg g.menulayer rect {
+    fill: #fff !important;
+}
+
+svg g.menulayer text {
+    fill: #222 !important;
+}
+
+svg g.menulayer g.updatemenu-button:hover rect {
+    fill: #ccc !important;
 }

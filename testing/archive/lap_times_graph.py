@@ -39,7 +39,7 @@ def update_graph(selected_race):
     markers=False, 
     height=900, 
     template='plotly_dark',
-    title=f"Lap times in race number: {selected_race}")
+    title=f"Czasy okrążeń w wyścigu numer: {selected_race}")
     return line_fig
 # Run local server
 

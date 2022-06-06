@@ -85,7 +85,6 @@ function navigation() {
     const label = nav.querySelector('label')
 
     btns[0].addEventListener('mouseup', function () {
-        console.log('test')
         nav.style.opacity = '1'
         input.setAttribute('min', 1)
         input.setAttribute('max', 1096)
@@ -93,10 +92,11 @@ function navigation() {
         input.setAttribute('placeholder', 'raceId')
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
+        input.style.opacity = 1
+        label.style.opacity = 1
     })
 
     btns[1].addEventListener('mouseup', function () {
-        console.log('test')
         nav.style.opacity = '1'
         input.setAttribute('min', 1)
         input.setAttribute('max', 1096)
@@ -104,16 +104,19 @@ function navigation() {
         input.setAttribute('placeholder', 'raceId')
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
-    })
-
-    btns[2].addEventListener('mouseup', function () {
-        console.log('test')
-        label.innerHTML = 'RaceId'
-        nav.style.opacity = '0'
+        input.style.opacity = 1
+        label.style.opacity = 1
     })
 
     btns[3].addEventListener('mouseup', function () {
-        console.log('test')
+        nav.style.opacity = '0'
+    })
+
+    btns[4].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
+    })
+
+    btns[2].addEventListener('mouseup', function () {
         nav.style.opacity = '1'
         input.setAttribute('min', 1950)
         input.setAttribute('max', 2022)
@@ -121,5 +124,23 @@ function navigation() {
         input.setAttribute('placeholder', 'Rok')
         label.innerHTML = 'Rok'
         graphType.style.opacity = 1
+        input.style.opacity = 1
+        label.style.opacity = 1
+    })
+
+    btns[5].addEventListener('mouseup', function () {
+        nav.style.opacity = '1'
+        input.setAttribute('min', 1950)
+        input.setAttribute('max', 2022)
+        input.value = 2021
+        input.setAttribute('placeholder', 'Rok')
+        label.innerHTML = 'Rok'
+        input.style.opacity = 0
+        label.style.opacity = 0
+        graphType.style.opacity = 1
+    })
+
+    btns[6].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
     })
 }

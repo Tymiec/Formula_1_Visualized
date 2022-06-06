@@ -48,7 +48,7 @@ def update_graph(selected_race,graph_type):
         markers=False, 
         height=900, 
         template='plotly_dark',
-        title=f"Driver standings in {selected_race}")
+        title=f"Klasyfikacja kierowców w roku {selected_race}")
         return line_fig
     if(graph_type == 'constructors'):
         filtered_races = races[races["year"] == selected_race]
@@ -63,7 +63,7 @@ def update_graph(selected_race,graph_type):
         markers=False, 
         height=900, 
         template='plotly_dark',
-        title=f"Constructor standings in {selected_race}")
+        title=f"Klasyfikacja konstruktorów w roku {selected_race}")
         return line_fig
 
 # Run local server
