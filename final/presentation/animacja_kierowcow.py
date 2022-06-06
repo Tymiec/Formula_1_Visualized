@@ -15,6 +15,7 @@ fig = px.choropleth(df, locations="Country",
                     color="Kolumna2", # lifeExp is a column of gapminder
                     hover_name="Country", # column to add to hover information
                     color_continuous_scale=px.colors.sequential.YlOrRd,
-                    projection="orthographic")
+                    # projection="orthographic"
+                    )
 
 fig.show()
