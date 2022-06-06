@@ -85,7 +85,6 @@ function navigation() {
     const label = nav.querySelector('label')
 
     btns[0].addEventListener('mouseup', function () {
-        console.log('test')
         nav.style.opacity = '1'
         input.setAttribute('min', 1)
         input.setAttribute('max', 1096)
@@ -96,7 +95,6 @@ function navigation() {
     })
 
     btns[1].addEventListener('mouseup', function () {
-        console.log('test')
         nav.style.opacity = '1'
         input.setAttribute('min', 1)
         input.setAttribute('max', 1096)
@@ -107,13 +105,14 @@ function navigation() {
     })
 
     btns[2].addEventListener('mouseup', function () {
-        console.log('test')
-        label.innerHTML = 'RaceId'
         nav.style.opacity = '0'
     })
 
     btns[3].addEventListener('mouseup', function () {
-        console.log('test')
+        nav.style.opacity = '0'
+    })
+
+    btns[4].addEventListener('mouseup', function () {
         nav.style.opacity = '1'
         input.setAttribute('min', 1950)
         input.setAttribute('max', 2022)
