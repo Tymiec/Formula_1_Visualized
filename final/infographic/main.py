@@ -15,6 +15,8 @@ heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visual
 heatmap = heatmap.sort_values(by="Year")
 
 nationalities = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/heatmap_nationalities/nationalities_counted.csv")
+
+winners = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/winners.csv")
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
@@ -42,7 +44,7 @@ app.layout = html.Div(children=[
         ]),  #TODO: Dodać switch'a na przełączanie pomiędzy erami, latami
         html.Nav(children=
             dcc.RadioItems(
-                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Narodowości', 'Rankingi'],
+                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Narodowości', 'Rankingi', 'Zwyciężcy'],
                 'Czasy okrążeń',
                 id='graph_select'
             )
@@ -175,6 +177,23 @@ def display_graph(selected_graph, selected_race, graph_type):
                 )
                 
                 return line_fig
+        case 'Zwyciężcy':
+            if(graph_type == 'drivers'):
+                winners2 = winners['Name_and_surname'].value_counts()
+                fig = px.bar(
+                    winners2,
+                    template='plotly_dark',
+                )
+                return fig
+            if(graph_type == 'constructors'):
+                winners2 = winners['constructor'].value_counts()
+                fig = px.bar(
+                    winners2,
+                    template='plotly_dark',
+                )
+                return fig
+
+            return fig
 
 
 # Run local server

@@ -92,6 +92,8 @@ function navigation() {
         input.setAttribute('placeholder', 'raceId')
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
+        input.style.opacity = 1
+        label.style.opacity = 0
     })
 
     btns[1].addEventListener('mouseup', function () {
@@ -102,6 +104,8 @@ function navigation() {
         input.setAttribute('placeholder', 'raceId')
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
+        input.style.opacity = 1
+        label.style.opacity = 0
     })
 
     btns[2].addEventListener('mouseup', function () {
@@ -119,6 +123,20 @@ function navigation() {
         input.value = 2021
         input.setAttribute('placeholder', 'Rok')
         label.innerHTML = 'Rok'
+        graphType.style.opacity = 1
+        input.style.opacity = 1
+        label.style.opacity = 0
+    })
+
+    btns[5].addEventListener('mouseup', function () {
+        nav.style.opacity = '1'
+        input.setAttribute('min', 1950)
+        input.setAttribute('max', 2022)
+        input.value = 2021
+        input.setAttribute('placeholder', 'Rok')
+        label.innerHTML = 'Rok'
+        input.style.opacity = 0
+        label.style.opacity = 0
         graphType.style.opacity = 1
     })
 }
