@@ -108,15 +108,15 @@ function navigation() {
         label.style.opacity = 1
     })
 
-    btns[2].addEventListener('mouseup', function () {
-        nav.style.opacity = '0'
-    })
-
     btns[3].addEventListener('mouseup', function () {
         nav.style.opacity = '0'
     })
 
     btns[4].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
+    })
+
+    btns[2].addEventListener('mouseup', function () {
         nav.style.opacity = '1'
         input.setAttribute('min', 1950)
         input.setAttribute('max', 2022)

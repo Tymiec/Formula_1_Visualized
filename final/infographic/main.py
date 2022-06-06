@@ -47,7 +47,7 @@ app.layout = html.Div(children=[
         ]),  #TODO: Dodać switch'a na przełączanie pomiędzy erami, latami
         html.Nav(children=
             dcc.RadioItems(
-                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Narodowości', 'Rankingi', 'Zwyciężcy', 'Finisze'],
+                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Rankingi',  'Kierowcy świata', 'Narodowości', 'Zwyciężcy', 'Finisze'],
                 'Czasy okrążeń',
                 id='graph_select'
             )
@@ -156,7 +156,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                 labels="Status",
                 template='plotly_dark',
             )
-            
+
             fig.update_traces(textposition='inside', textinfo='percent+label')
 
             return fig
