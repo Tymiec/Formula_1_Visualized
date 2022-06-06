@@ -7,19 +7,54 @@ let pathSegments = []
 
 let simSpeed = 6
 
-chstomOnLoad = setInterval(function() {
+class Driver {
+    constructor(id, name, lapTimes, hue) {
+        console.log(id)
+        this.id = id
+        this.name = name
+        this.lapTimes = lapTimes
+        this.colour = this.hslToHex(hue, 100, 50)
+
+        this.lap = 1
+        this.time = []
+        this.percent = 0
+        this.prevPercent = -Infinity
+        
+        for (let i = 0; i < lapTimes.length; i++) {
+            this.time[i] = 0
+
+            for (let j = 0; j < i; j++)
+                this.time[i] += Number(lapTimes[j])
+        }
+    }
+
+    hslToHex(h, s, l) {
+        l /= 100
+        const a = s * Math.min(l, 1 - l) / 100
+        
+        const f = n => {
+            const k = (n + h / 30) % 12
+            const color = l - a * Math.max(Math.min(k - 3, 9 - k, 1), -1)
+            return Math.round(255 * color).toString(16).padStart(2, '0')   // convert to Hex and prefix "0" if needed
+        }
+
+        return `#${f(0)}${f(8)}${f(4)}`
+    }
+}
+
+customOnLoad = setInterval(function () {
     main = document.querySelector('main')
     
     if (main != null) {
-        loadTrack()
-        // loadDrivers()
-        animate(1 / simSpeed)
-        clearInterval(chstomOnLoad)
+        loadTrack(20)
+        loadRaces()
+        loadDrivers('2017', 'British Grand Prix')
+        clearInterval(customOnLoad)
     }
 }, 300)
 
-async function loadTrack() {
-    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/lap%20vis/svg/20.svg')
+async function loadTrack(circuitId) {
+    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/lap%20vis/svg/' + circuitId + '.svg')
         .then(response => response.text())
         .then(str => new window.DOMParser().parseFromString(str, 'text/xml'))
         .then(xml => {
@@ -27,16 +62,8 @@ async function loadTrack() {
             let canvas = document.querySelector('canvas#track')
             canvas.setAttribute('data-path', path)
 
-            // TESTING
-            
-            let driverCanvas = document.querySelector('canvas#driver')
-            driverCanvas.setAttribute('width', size[2])
-            driverCanvas.setAttribute('height', size[3])
-
-            // TESTING
-
             let svg = xml.querySelector('svg')
-            let main = document.querySelector('main')
+            main = document.querySelector('main')
             main.appendChild(svg)
             svg.style.display = 'none'
         })
@@ -53,6 +80,7 @@ async function loadTrack() {
     ctx = canvas.getContext('2d')
     ctx.strokeStyle = '#fff'
     ctx.lineWidth = 4
+    ctx.clearRect(0, 0, canvas.width, canvas.height)
 
     let p = new Path2D(path)
     ctx.stroke(p)
@@ -143,84 +171,157 @@ async function loadTrack() {
     console.log(pathSegments)
 }
 
-async function loadDrivers() {
-    await fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/lap_times_named_2.csv')
+function loadRaces() {
+    fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/races.csv')
         .then(response => response.text())
         .then(text => processCSV(text))
         .then(data => {
+            const yearSelector = document.querySelector('main nav div#yearSelector select')
+            const trackSelector = document.querySelector('main nav div#trackSelector select')
+            let groups = yearSelector.querySelectorAll('optgroup')
 
+            for (let i = 1996; i < 2022; i++) {
+                let option = document.createElement('option')
+                option.innerHTML = i
+
+                if (i < 2004) 
+                    groups[0].appendChild(option)
+                else if (i < 2013)
+                    groups[1].appendChild(option)
+                else
+                    groups[2].appendChild(option)
+            }
+
+            yearSelector.addEventListener('change', function () {
+                trackSelector.innerHTML = ''
+
+                for (let i = 0; i < data.length; i++)
+                    if (data[i].year == this.value)
+                        createOption(data[i].name, data[i].circuitId)
+            })
+
+            trackSelector.addEventListener('change', function () {
+                loadTrack(this.value)
+            })
         })
 }
 
-function animate(playbackSpeed) {
-    // set the animation position (0-100)
-    percent += playbackSpeed
+function loadDrivers(year, GP) {
+    fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/GPs/' + year + ' ' + GP + '.csv')
+        .then(response => response.text())
+        .then(text => processCSV(text))
+        .then(data => {
+            console.log(data)
+            let driversLaps = {}
 
-    if (percent > 100) {
-        percent = 0
-    }
+            data.forEach(el => {
+                if (!(el['driverId'] + ' ' + el['DriverName2'] in driversLaps))
+                    driversLaps[el.driverId + ' ' + el.DriverName2] = []
 
-    draw(percent)
+                driversLaps[el.driverId + ' ' + el.DriverName2].push(el['milliseconds'])
+            })
 
-    // request another frame
-    setTimeout(function () { requestAnimationFrame(function() { animate(simSpeed / 16)  }) }, 16)
+            let drivers = []
+            let hue = 0
+
+            for (driver in driversLaps) {
+                let id = driver.match(/\d/g)
+                id = id.join('')
+                
+                let name = driver.match(/[a-zA-Z]/g)
+                name = name.join('')
+
+                drivers.push(new Driver(id, name, driversLaps[driver], hue))
+
+                hue += Object.keys(driversLaps).length
+            }
+
+            animate(simSpeed / 16, drivers)
+        })
 }
 
-// draw the current frame based on sliderValue
-function draw(sliderValue, driver) {
-    let canvas = document.querySelector('canvas#driver')
+
+function animate(playbackSpeed, drivers) {
+    percent += playbackSpeed
+    draw(percent, drivers)
+    setTimeout(function () { requestAnimationFrame(function() { animate(simSpeed / 16, drivers)  }) }, 16)
+}
+
+function draw(sliderValue, drivers) {
+    let canvas = document.querySelector('canvas#drivers')
     let ctx = canvas.getContext('2d')
     
     ctx.clearRect(0, 0, canvas.width, canvas.height)
     ctx.lineWidth = 4
 
-    // draw the tracking rectangle
-    let sumPercent = 0
-    let index = 0
-    let startPoint = [ NaN, NaN ]
-    
-    while (sliderValue > sumPercent) {
-        if (index == pathSegments.length) // Prevent errors caused by rounding error
-            break
+    let minTime = Infinity
+
+    drivers.forEach(driver => {
+        if (driver.time[driver.lap] < minTime)
+            minTime = driver.time[driver.lap]
+    })
+
+    drivers.forEach(driver => {
+        // draw the tracking rectangle
+        let sumPercent = 0
+        let index = 0
+        let startPoint = [ NaN, NaN ]
+
+        let delta = (driver.time[driver.lap] - minTime) / minTime * 100 // FIXME: delta should increase overtime to reach max at the end of the lap
+        driver.prevPercent = driver.percent
+        driver.percent = (sliderValue - delta) % 100
+
+        /*
+        if (driver.prevPercent > driver.percent && driver.percent > 0) {
+            driver.lap++
+            console.log(driver.id, driver.percent, driver.prevPercent)
+        }
+        */
+
+        while (driver.percent > sumPercent) {
+            if (index == pathSegments.length) // Prevent errors caused by rounding error
+                break
+            
+            if (!Number.isNaN(pathSegments[index]['percent']))
+                sumPercent += pathSegments[index++]['percent']
+        }
         
-        if (!Number.isNaN(pathSegments[index]['percent']))
-            sumPercent += pathSegments[index++]['percent']
-    }
+        index--
+        let previousSegment = pathSegments[index - 1]
+        
+        if (previousSegment == undefined) 
+            return
     
-    index--
-    let previousSegment = pathSegments[index - 1]
+        if (previousSegment['command'].toLocaleLowerCase() == 'm' || previousSegment['command'].toLocaleLowerCase() == 'l')
+            startPoint = [previousSegment['controlPt0'], previousSegment['controlPt1']]
+        else if (previousSegment['command'].toLocaleLowerCase() == 'c') 
+            startPoint = [previousSegment['controlPt4'], previousSegment['controlPt5']]
+        else if (previousSegment['command'].toLocaleLowerCase() == 's') 
+            startPoint = [previousSegment['controlPt2'], previousSegment['controlPt3']]
     
-    if (previousSegment == undefined) 
-        return
-
-    if (previousSegment['command'].toLocaleLowerCase() == 'm' || previousSegment['command'].toLocaleLowerCase() == 'l')
-        startPoint = [previousSegment['controlPt0'], previousSegment['controlPt1']]
-    else if (previousSegment['command'].toLocaleLowerCase() == 'c') 
-        startPoint = [previousSegment['controlPt4'], previousSegment['controlPt5']]
-    else if (previousSegment['command'].toLocaleLowerCase() == 's') 
-        startPoint = [previousSegment['controlPt2'], previousSegment['controlPt3']]
-
-    let tempPercent = (sliderValue - pathSegments[index - 1]['accumulatedPercent']) / (pathSegments[index]['percent'])
-
-    if (isLineCommand(pathSegments[index]['command'])) {
-        xy = getLineXYatPercent({ x: startPoint[0], y: startPoint[1] }, { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] }, tempPercent)
-    } else if (pathSegments[index]['command'].toLocaleLowerCase() == 'c') {  
-        xy = getCubicBezierXYatPercent(
-            { x: startPoint[0], y: startPoint[1] }, 
-            { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] },
-            { x: pathSegments[index]['controlPt2'], y: pathSegments[index]['controlPt3'] },
-            { x: pathSegments[index]['controlPt4'], y: pathSegments[index]['controlPt5'] },
-        tempPercent)
-    } else if (pathSegments[index]['command'].toLocaleLowerCase() == 's') {
-        xy = getCubicBezierXYatPercent(
-            { x: startPoint[0], y: startPoint[1] }, 
-            { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] },
-            { x: pathSegments[index]['controlPt2'], y: pathSegments[index]['controlPt3'] },
-            { x: pathSegments[index]['controlPt4'], y: pathSegments[index]['controlPt5'] },
-        tempPercent)
-    }
-
-    drawDot(xy, '#f00', ctx)
+        let tempPercent = (driver.percent - pathSegments[index - 1]['accumulatedPercent']) / (pathSegments[index]['percent'])
+        let xy = { x: undefined, y: undefined }
+    
+        if (isLineCommand(pathSegments[index]['command'])) {
+            xy = getLineXYatPercent({ x: startPoint[0], y: startPoint[1] }, { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] }, tempPercent)
+        } else if (pathSegments[index]['command'].toLocaleLowerCase() == 'c') {  
+            xy = getCubicBezierXYatPercent(
+                { x: startPoint[0], y: startPoint[1] }, 
+                { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] },
+                { x: pathSegments[index]['controlPt2'], y: pathSegments[index]['controlPt3'] },
+                { x: pathSegments[index]['controlPt4'], y: pathSegments[index]['controlPt5'] },
+            tempPercent)
+        } else if (pathSegments[index]['command'].toLocaleLowerCase() == 's') {
+            xy = getCubicBezierXYatPercent(
+                { x: startPoint[0], y: startPoint[1] }, 
+                { x: pathSegments[index]['controlPt0'], y: pathSegments[index]['controlPt1'] },
+                { x: pathSegments[index]['controlPt2'], y: pathSegments[index]['controlPt3'] },
+                { x: pathSegments[index]['controlPt4'], y: pathSegments[index]['controlPt5'] },
+            tempPercent)
+        }
+    
+        drawDot(xy, driver.colour, ctx)
+    })
 }
 
 // draw tracking dot at xy
@@ -292,9 +393,23 @@ function processCSV(allText) {
         }
     }
 
-    console.log(lines)
     return lines
 }
 
 function isLineCommand(command) { return (command.toLocaleLowerCase() == 'l' || command.toLocaleLowerCase() == 'h' || command.toLocaleLowerCase() == 'v') }
 function isCubicCommand(command) { return (command.toLocaleLowerCase() == 's' || command.toLocaleLowerCase() == 'c') }
+
+function createOption(name, circuitId) {
+    let option = document.createElement('option')
+    name = name.replaceAll('"', '')
+    option.value = circuitId
+    option.innerHTML = name
+    document.querySelector('main nav div#trackSelector select').appendChild(option)
+}
+
+function groupArrayOfObjects(list, key) {
+    return list.reduce(function (rv, x) {
+        (rv[x[key]] = rv[x[key]] || []).push(x)
+        return rv
+    }, {})
+}

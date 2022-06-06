@@ -112,6 +112,17 @@ main {
     padding: 0 10vw;
 }
 
+main div#loader {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f00;
+    transition: 300ms;
+    z-index: 100;
+}
+
 main div#graph div.plot-container {
     height: calc(100% - 5px)
 }
@@ -161,7 +172,7 @@ main nav div:not(#speedSelector) label {
     padding: 0 10px;
 }
 
-main nav div#yearSelector input, main nav div#trackSelector select {
+main nav div#yearSelector select, main nav div#trackSelector select {
     width: 100%;
     border: 1px #fff solid;
     border-radius: 100px;
@@ -171,7 +182,7 @@ main nav div#yearSelector input, main nav div#trackSelector select {
     padding: 12px 20px;
 }
 
-main nav div#trackSelector select option {
+main nav div select * {
     color: #111;
 }
 

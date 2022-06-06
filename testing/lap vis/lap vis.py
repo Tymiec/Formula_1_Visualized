@@ -40,15 +40,25 @@ app.layout = html.Div(children=[
     html.Main(children=[
         html.Div(children=[
             html.Canvas(width=1000, height=1000, id='track'),
-            html.Canvas(width=1000, height=1000, id='driver'),
+            html.Canvas(width=1000, height=1000, id='drivers'),
         ], className='wrapper'),
         html.Nav(children=[
             html.Div(children=[
                 html.Label(children='Rok'),
-                dcc.Input(type='number', min='1950', max='2022', step='1', placeholder='Rok wyścigu', value='2009')
+                html.Select(children=[
+                    html.Optgroup(label='Era V8', children=[
+                        
+                    ]),
+                    html.Optgroup(label='Era V12', children=[
+                        
+                    ]),
+                    html.Optgroup(label='Era Hybryd', children=[
+                        
+                    ])
+                ])
             ], id='yearSelector'),
             html.Div(children=[
-                html.Label(children='Tor'),
+                html.Label(children='Grand Prix'),
                 html.Select(children=[
 
                 ])
