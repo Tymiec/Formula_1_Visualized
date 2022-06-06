@@ -13,6 +13,8 @@ races2 = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visuali
 
 heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/nationalities_with_country.csv")
 heatmap = heatmap.sort_values(by="Year")
+
+nationalities = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/heatmap_nationalities/nationalities_counted.csv")
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
@@ -40,7 +42,7 @@ app.layout = html.Div(children=[
         ]),  #TODO: Dodać switch'a na przełączanie pomiędzy erami, latami
         html.Nav(children=
             dcc.RadioItems(
-                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Rankingi'],
+                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Narodowości', 'Rankingi'],
                 'Czasy okrążeń',
                 id='graph_select'
             )
@@ -124,29 +126,19 @@ def display_graph(selected_graph, selected_race, graph_type):
                     plot_bgcolor='#4E5D6C',
                 )
             )
-            """
-            filtered_races = races[races["raceId"] == selected_race]
-            fig = go.Figure(
-                data=px.choropleth(
-                    heatmap,
-                    locations="country_code",
-                    # animation_frame="year", #TODO: dodać/włączyć animację według roku po zrobieniu csvki co dany rok
-                    color="value",  # lifeExp is a column of gapminder
-                    hover_name="country_code",  # column to add to hover information
-                    color_continuous_scale="Reds",
-                    projection="orthographic",
-                    template='plotly_dark',
-                ), layout=go.Layout(geo=dict(bgcolor='rgba(0,0,0,0)'),
-                                    title='The Cities Sold the Most Product',
-                                    font={"size": 9, "color": "White"},
-                                    titlefont={"size": 15, "color": "White"},
-                                    geo_scope='usa',
-                                    margin={"r": 0, "t": 40, "l": 0, "b": 0},
-                                    paper_bgcolor='#4E5D6C',
-                                    plot_bgcolor='#4E5D6C',
-                                    )
+
+            return fig
+        case 'Narodowości':
+            fig = px.pie(nationalities,
+                values="value",
+                names="country_code",
+                hole=.3,
+                title="Narodowości Formuły 1",
+                labels="country_code",
+                template='plotly_dark',
             )
-            """
+
+            fig.update_traces(textposition='inside', textinfo='percent+label')
 
             return fig
         case 'Rankingi':
