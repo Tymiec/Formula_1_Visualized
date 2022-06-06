@@ -19,5 +19,3 @@ fig = px.choropleth(df, locations="Country",
                     )
 
 fig.show()
-
-# TODO: przerobić na płaską mape
