@@ -93,7 +93,7 @@ function navigation() {
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
         input.style.opacity = 1
-        label.style.opacity = 0
+        label.style.opacity = 1
     })
 
     btns[1].addEventListener('mouseup', function () {
@@ -105,7 +105,7 @@ function navigation() {
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
         input.style.opacity = 1
-        label.style.opacity = 0
+        label.style.opacity = 1
     })
 
     btns[2].addEventListener('mouseup', function () {
@@ -125,7 +125,7 @@ function navigation() {
         label.innerHTML = 'Rok'
         graphType.style.opacity = 1
         input.style.opacity = 1
-        label.style.opacity = 0
+        label.style.opacity = 1
     })
 
     btns[5].addEventListener('mouseup', function () {
