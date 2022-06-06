@@ -139,4 +139,8 @@ function navigation() {
         label.style.opacity = 0
         graphType.style.opacity = 1
     })
+
+    btns[6].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
+    })
 }

@@ -17,6 +17,9 @@ heatmap = heatmap.sort_values(by="Year")
 nationalities = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/heatmap_nationalities/nationalities_counted.csv")
 
 winners = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/winners.csv")
+
+finish = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/status_over_years.csv")
+finish = finish.loc[finish["Tabela9.Rok"]==2022]
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
@@ -44,7 +47,7 @@ app.layout = html.Div(children=[
         ]),  #TODO: Dodać switch'a na przełączanie pomiędzy erami, latami
         html.Nav(children=
             dcc.RadioItems(
-                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Narodowości', 'Rankingi', 'Zwyciężcy'],
+                ['Czasy okrążeń', 'Pozycje w wyścigu', 'Kierowcy świata', 'Narodowości', 'Rankingi', 'Zwyciężcy', 'Finisze'],
                 'Czasy okrążeń',
                 id='graph_select'
             )
@@ -140,6 +143,20 @@ def display_graph(selected_graph, selected_race, graph_type):
                 template='plotly_dark',
             )
 
+            fig.update_traces(textposition='inside', textinfo='percent+label')
+
+            return fig
+        case 'Finisze':
+            fig = px.pie(
+                finish,
+                values="rsum",
+                names="Status",
+                hole=.3,
+                title="Złośliwość rzeczy martwych i nie tylko",
+                labels="Status",
+                template='plotly_dark',
+            )
+            
             fig.update_traces(textposition='inside', textinfo='percent+label')
 
             return fig
