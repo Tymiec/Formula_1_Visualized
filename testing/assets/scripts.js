@@ -3,7 +3,7 @@ customOnLoad = setInterval(function () {
 
     if (main != null) {
         navigation()
-
+        /*
         fetch('https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/descriptions.csv')
         .then(response => response.text())
         .then(data => {
@@ -71,7 +71,7 @@ customOnLoad = setInterval(function () {
                 });
             })
         })
-
+        */
         clearInterval(customOnLoad)
     }
 }, 300)
@@ -89,7 +89,7 @@ function navigation() {
         nav.style.opacity = '1'
         input.setAttribute('min', 1)
         input.setAttribute('max', 1096)
-        input.setAttribute('value', 1096)
+        input.value = 1096
         input.setAttribute('placeholder', 'raceId')
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
@@ -100,7 +100,7 @@ function navigation() {
         nav.style.opacity = '1'
         input.setAttribute('min', 1)
         input.setAttribute('max', 1096)
-        input.setAttribute('value', 1096)
+        input.value = 1096
         input.setAttribute('placeholder', 'raceId')
         label.innerHTML = 'RaceId'
         graphType.style.opacity = 0
@@ -117,7 +117,7 @@ function navigation() {
         nav.style.opacity = '1'
         input.setAttribute('min', 1950)
         input.setAttribute('max', 2022)
-        input.setAttribute('value', 2021)
+        input.value = 2021
         input.setAttribute('placeholder', 'Rok')
         label.innerHTML = 'Rok'
         graphType.style.opacity = 1
