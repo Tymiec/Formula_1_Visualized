@@ -108,14 +108,6 @@ function navigation() {
         label.style.opacity = 1
     })
 
-    btns[3].addEventListener('mouseup', function () {
-        nav.style.opacity = '0'
-    })
-
-    btns[4].addEventListener('mouseup', function () {
-        nav.style.opacity = '0'
-    })
-
     btns[2].addEventListener('mouseup', function () {
         nav.style.opacity = '1'
         input.setAttribute('min', 1950)
@@ -126,6 +118,14 @@ function navigation() {
         graphType.style.opacity = 1
         input.style.opacity = 1
         label.style.opacity = 1
+    })
+
+    btns[3].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
+    })
+
+    btns[4].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
     })
 
     btns[5].addEventListener('mouseup', function () {
@@ -140,7 +140,17 @@ function navigation() {
         graphType.style.opacity = 1
     })
 
+    btns[5].addEventListener('mouseup', function () {
+        nav.style.opacity = '0'
+    })
+
     btns[6].addEventListener('mouseup', function () {
+        input.style.opacity = 0
+        label.style.opacity = 0
+        graphType.style.opacity = 1
+    })
+
+    btns[7].addEventListener('mouseup', function () {
         nav.style.opacity = '0'
     })
 }
