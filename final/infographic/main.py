@@ -11,7 +11,7 @@ races = races.sort_values(by="lap") # Sortujemy dla pewności
 
 races2 = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/results_modified_named_by_tymek_messy.csv")
 
-heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/nationalities_with_country.csv")
+heatmap = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/nationalities_with_country_no_zeroes.csv")
 heatmap = heatmap.sort_values(by="Year")
 
 nationalities = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/testing/heatmap_nationalities/nationalities_counted.csv")
@@ -118,7 +118,7 @@ def display_graph(selected_graph, selected_race, graph_type):
                     locations="Country",
                     locationmode='country names',
                     animation_frame="Year",
-                    color="Liczba_Kierowców",  # lifeExp is a column of gapminder
+                    color="Liczba_kierowcow",  # lifeExp is a column of gapminder
                     hover_name="Country",  # column to add to hover information
                     color_continuous_scale="Reds",
                     # projection="orthographic",
