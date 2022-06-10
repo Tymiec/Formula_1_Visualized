@@ -21,7 +21,7 @@ winners = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visual
 finish = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/status_over_years.csv")
 finish = finish.loc[finish["Tabela9.Rok"]==2022]
 
-age = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/avgage.csv")
+age = pd.read_csv("https://raw.githubusercontent.com/Tymiec/Formula_1_Visualized/master/sources/modified/average_youngest_oldest.csv")
 # fig = px.choropleth(df, locations="country_code",
 #                     color="value", # lifeExp is a column of gapminder
 #                     hover_name="country_code", # column to add to hover information
@@ -217,7 +217,7 @@ def display_graph(selected_graph, selected_race, graph_type):
             fig = px.line(
                 age, 
                 x="year", 
-                y="Age", 
+                y=["Age","Youngest","Oldest"], 
                 line_shape="spline", 
                 render_mode="svg",
                 template='plotly_dark',
