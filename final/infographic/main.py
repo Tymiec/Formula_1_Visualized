@@ -217,7 +217,8 @@ def display_graph(selected_graph, selected_race, graph_type):
             fig = px.line(
                 age, 
                 x="year", 
-                y=["Age","Youngest","Oldest"], 
+                y="val",
+                color='type', 
                 line_shape="spline", 
                 render_mode="svg",
                 template='plotly_dark',
